@@ -1,0 +1,2439 @@
+2026-03-09 21:57:33,141 - INFO - Total games owned: 2438
+2026-03-09 21:57:33,141 - INFO - [10] Counter-Strike
+2026-03-09 21:57:33,142 - INFO - [20] Team Fortress Classic
+2026-03-09 21:57:33,142 - INFO - [30] Day of Defeat
+2026-03-09 21:57:33,142 - INFO - [40] Deathmatch Classic
+2026-03-09 21:57:33,142 - INFO - [50] Half-Life: Opposing Force
+2026-03-09 21:57:33,142 - INFO - [60] Ricochet
+2026-03-09 21:57:33,142 - INFO - [70] Half-Life
+2026-03-09 21:57:33,143 - INFO - [80] Counter-Strike: Condition Zero
+2026-03-09 21:57:33,143 - INFO - [100] Counter-Strike: Condition Zero Deleted Scenes
+2026-03-09 21:57:33,143 - INFO - [130] Half-Life: Blue Shift
+2026-03-09 21:57:33,143 - INFO - [220] Half-Life 2
+2026-03-09 21:57:33,143 - INFO - [240] Counter-Strike: Source
+2026-03-09 21:57:33,144 - INFO - [320] Half-Life 2: Deathmatch
+2026-03-09 21:57:33,144 - INFO - [360] Half-Life Deathmatch: Source
+2026-03-09 21:57:33,144 - INFO - [400] Portal
+2026-03-09 21:57:33,144 - INFO - [440] Team Fortress 2
+2026-03-09 21:57:33,144 - INFO - [500] Left 4 Dead
+2026-03-09 21:57:33,144 - INFO - [550] Left 4 Dead 2
+2026-03-09 21:57:33,144 - INFO - [570] Dota 2
+2026-03-09 21:57:33,144 - INFO - [620] Portal 2
+2026-03-09 21:57:33,145 - INFO - [730] Counter-Strike 2
+2026-03-09 21:57:33,145 - INFO - [1250] Killing Floor
+2026-03-09 21:57:33,145 - INFO - [1610] Space Empires IV Deluxe
+2026-03-09 21:57:33,145 - INFO - [1630] Disciples II: Rise of the Elves
+2026-03-09 21:57:33,145 - INFO - [2320] Quake II
+2026-03-09 21:57:33,145 - INFO - [2500] Shadowgrounds
+2026-03-09 21:57:33,145 - INFO - [2590] Alpha Prime
+2026-03-09 21:57:33,145 - INFO - [2600] Vampire: The Masquerade - Bloodlines
+2026-03-09 21:57:33,145 - INFO - [3010] Xpand Rally
+2026-03-09 21:57:33,146 - INFO - [3590] Plants vs. Zombies: Game of the Year
+2026-03-09 21:57:33,146 - INFO - [3700] Sniper Elite
+2026-03-09 21:57:33,146 - INFO - [3830] Psychonauts
+2026-03-09 21:57:33,146 - INFO - [3900] Sid Meier's Civilization IV
+2026-03-09 21:57:33,146 - INFO - [3910] Sid Meier's Civilization III: Complete
+2026-03-09 21:57:33,146 - INFO - [3990] Sid Meier's Civilization IV: Warlords
+2026-03-09 21:57:33,146 - INFO - [4000] Garry's Mod
+2026-03-09 21:57:33,147 - INFO - [4230] Race: The WTCC Game
+2026-03-09 21:57:33,147 - INFO - [4290] RACE: Caterham Expansion
+2026-03-09 21:57:33,147 - INFO - [4500] S.T.A.L.K.E.R.: Shadow of Chernobyl
+2026-03-09 21:57:33,147 - INFO - [4540] Titan Quest
+2026-03-09 21:57:33,147 - INFO - [4550] Titan Quest: Immortal Throne
+2026-03-09 21:57:33,147 - INFO - [4560] Company of Heroes - Legacy Edition
+2026-03-09 21:57:33,147 - INFO - [4570] Warhammer 40,000: Dawn of War - Anniversary Edition 
+2026-03-09 21:57:33,147 - INFO - [4580] Warhammer 40,000: Dawn of War - Dark Crusade
+2026-03-09 21:57:33,148 - INFO - [4700] Total War: MEDIEVAL II - Definitive Edition
+2026-03-09 21:57:33,148 - INFO - [4720] Condemned: Criminal Origins
+2026-03-09 21:57:33,148 - INFO - [4760] Rome: Total War
+2026-03-09 21:57:33,148 - INFO - [4770] Rome: Total War - Alexander
+2026-03-09 21:57:33,148 - INFO - [4920] Natural Selection 2
+2026-03-09 21:57:33,148 - INFO - [6000] STAR WARS™ Republic Commando
+2026-03-09 21:57:33,149 - INFO - [6020] STAR WARS™ Jedi Knight: Jedi Academy™
+2026-03-09 21:57:33,149 - INFO - [6030] STAR WARS™ Jedi Knight II: Jedi Outcast™
+2026-03-09 21:57:33,149 - INFO - [6060] Star Wars: Battlefront 2 (Classic, 2005)
+2026-03-09 21:57:33,150 - INFO - [6120] Shank
+2026-03-09 21:57:33,150 - INFO - [6220] FlatOut
+2026-03-09 21:57:33,150 - INFO - [6250] Making History: The Calm & The Storm
+2026-03-09 21:57:33,151 - INFO - [6510] Lost Planet: Extreme Condition
+2026-03-09 21:57:33,151 - INFO - [6800] Commandos: Behind Enemy Lines
+2026-03-09 21:57:33,151 - INFO - [6810] Commandos: Beyond the Call of Duty
+2026-03-09 21:57:33,151 - INFO - [6830] Commandos 2: Men of Courage
+2026-03-09 21:57:33,152 - INFO - [6840] Commandos 3: Destination Berlin
+2026-03-09 21:57:33,152 - INFO - [6850] Hitman 2: Silent Assassin
+2026-03-09 21:57:33,153 - INFO - [6860] Hitman: Blood Money
+2026-03-09 21:57:33,153 - INFO - [6870] Battlestations: Midway
+2026-03-09 21:57:33,153 - INFO - [6880] Just Cause
+2026-03-09 21:57:33,153 - INFO - [6900] Hitman: Codename 47
+2026-03-09 21:57:33,153 - INFO - [6910] Deus Ex: Game of the Year Edition
+2026-03-09 21:57:33,154 - INFO - [6920] Deus Ex: Invisible War
+2026-03-09 21:57:33,154 - INFO - [6980] Thief: Deadly Shadows
+2026-03-09 21:57:33,154 - INFO - [7000] Tomb Raider: Legend
+2026-03-09 21:57:33,154 - INFO - [7010] Project: Snowblind
+2026-03-09 21:57:33,154 - INFO - [7650] X-COM: Terror from the Deep
+2026-03-09 21:57:33,155 - INFO - [7660] X-COM: Apocalypse
+2026-03-09 21:57:33,156 - INFO - [7670] BioShock
+2026-03-09 21:57:33,157 - INFO - [7730] X-COM: Interceptor
+2026-03-09 21:57:33,157 - INFO - [7760] X-COM: UFO Defense
+2026-03-09 21:57:33,157 - INFO - [7770] X-COM: Enforcer
+2026-03-09 21:57:33,157 - INFO - [7800] Stubbs the Zombie in Rebel Without a Pulse
+2026-03-09 21:57:33,157 - INFO - [7940] Call of Duty 4: Modern Warfare (2007)
+2026-03-09 21:57:33,157 - INFO - [8000] Tomb Raider: Anniversary
+2026-03-09 21:57:33,157 - INFO - [8080] Kane & Lynch: Dead Men
+2026-03-09 21:57:33,158 - INFO - [8100] Conflict: Denied Ops
+2026-03-09 21:57:33,158 - INFO - [8140] Tomb Raider: Underworld
+2026-03-09 21:57:33,158 - INFO - [8170] Battlestations: Pacific
+2026-03-09 21:57:33,158 - INFO - [8190] Just Cause 2
+2026-03-09 21:57:33,158 - INFO - [8340] Strong Bad Episode 1: Homestar Ruiner
+2026-03-09 21:57:33,158 - INFO - [8350] Strong Bad Episode 2: Strong Badia the Free
+2026-03-09 21:57:33,158 - INFO - [8360] Strong Bad Episode 3: Baddest of the Bands
+2026-03-09 21:57:33,158 - INFO - [8370] Strong Bad Episode 4: Dangeresque 3
+2026-03-09 21:57:33,158 - INFO - [8380] Strong Bad Episode 5: 8-Bit Is Enough
+2026-03-09 21:57:33,158 - INFO - [8600] RACE 07
+2026-03-09 21:57:33,159 - INFO - [8640] RACE On
+2026-03-09 21:57:33,159 - INFO - [8660] GTR Evolution
+2026-03-09 21:57:33,159 - INFO - [8690] STCC: The Game
+2026-03-09 21:57:33,159 - INFO - [8790] GTR 2 - FIA GT Racing Game
+2026-03-09 21:57:33,160 - INFO - [8800] Sid Meier's Civilization IV: Beyond the Sword
+2026-03-09 21:57:33,160 - INFO - [8850] BioShock 2
+2026-03-09 21:57:33,160 - INFO - [8870] BioShock Infinite
+2026-03-09 21:57:33,160 - INFO - [8930] Sid Meier's Civilization V
+2026-03-09 21:57:33,161 - INFO - [8980] Borderlands GOTY
+2026-03-09 21:57:33,161 - INFO - [9200] RAGE
+2026-03-09 21:57:33,162 - INFO - [9310] Warhammer 40,000: Dawn of War - Winter Assault
+2026-03-09 21:57:33,162 - INFO - [9340] Company of Heroes: Opposing Fronts
+2026-03-09 21:57:33,162 - INFO - [9350] Supreme Commander
+2026-03-09 21:57:33,162 - INFO - [9420] Supreme Commander: Forged Alliance
+2026-03-09 21:57:33,162 - INFO - [9450] Warhammer 40,000: Dawn of War - Soulstorm
+2026-03-09 21:57:33,162 - INFO - [9480] Saints Row 2
+2026-03-09 21:57:33,163 - INFO - [9930] Test Drive Unlimited 2
+2026-03-09 21:57:33,163 - INFO - [10180] Call of Duty: Modern Warfare 2 (2009)
+2026-03-09 21:57:33,163 - INFO - [10190] Call of Duty: Modern Warfare 2 (2009) - Multiplayer
+2026-03-09 21:57:33,163 - INFO - [10680] Aliens vs. Predator
+2026-03-09 21:57:33,163 - INFO - [11200] Shadowgrounds: Survivor
+2026-03-09 21:57:33,163 - INFO - [11390] Crash Time 2
+2026-03-09 21:57:33,163 - INFO - [11450] Overlord
+2026-03-09 21:57:33,164 - INFO - [11590] Hospital Tycoon
+2026-03-09 21:57:33,164 - INFO - [12100] Grand Theft Auto III
+2026-03-09 21:57:33,164 - INFO - [12110] Grand Theft Auto: Vice City
+2026-03-09 21:57:33,164 - INFO - [12120] Grand Theft Auto: San Andreas
+2026-03-09 21:57:33,165 - INFO - [12130] Manhunt
+2026-03-09 21:57:33,165 - INFO - [12140] Max Payne
+2026-03-09 21:57:33,165 - INFO - [12150] Max Payne 2: The Fall of Max Payne
+2026-03-09 21:57:33,165 - INFO - [12170] Grand Theft Auto
+2026-03-09 21:57:33,165 - INFO - [12180] Grand Theft Auto 2
+2026-03-09 21:57:33,165 - INFO - [12200] Bully: Scholarship Edition
+2026-03-09 21:57:33,165 - INFO - [12210] Grand Theft Auto IV: The Complete Edition
+2026-03-09 21:57:33,165 - INFO - [12230] Grand Theft Auto III
+2026-03-09 21:57:33,166 - INFO - [12240] Grand Theft Auto: Vice City
+2026-03-09 21:57:33,166 - INFO - [12250] Grand Theft Auto: San Andreas
+2026-03-09 21:57:33,166 - INFO - [12640] Drakensang
+2026-03-09 21:57:33,166 - INFO - [12710] Overlord: Raising Hell
+2026-03-09 21:57:33,166 - INFO - [12750] GRID
+2026-03-09 21:57:33,167 - INFO - [12770] Rise of the Argonauts
+2026-03-09 21:57:33,167 - INFO - [12810] Overlord II
+2026-03-09 21:57:33,167 - INFO - [12830] Operation Flashpoint: Dragon Rising
+2026-03-09 21:57:33,168 - INFO - [12900] Audiosurf
+2026-03-09 21:57:33,168 - INFO - [13250] Unreal Gold
+2026-03-09 21:57:33,168 - INFO - [13500] Prince of Persia: Warrior Within
+2026-03-09 21:57:33,168 - INFO - [13520] Far Cry
+2026-03-09 21:57:33,168 - INFO - [13530] Prince of Persia: The Two Thrones
+2026-03-09 21:57:33,168 - INFO - [13600] Prince of Persia: The Sands of Time
+2026-03-09 21:57:33,169 - INFO - [15100] Assassin's Creed
+2026-03-09 21:57:33,169 - INFO - [15120] Tom Clancy's Rainbow Six: Vegas 2
+2026-03-09 21:57:33,169 - INFO - [15130] Beyond Good & Evil
+2026-03-09 21:57:33,169 - INFO - [15520] AaAaAA!!! - A Reckless Disregard for Gravity
+2026-03-09 21:57:33,170 - INFO - [15620] Warhammer 40,000: Dawn of War II - Anniversary Edition
+2026-03-09 21:57:33,170 - INFO - [15700] Oddworld: Abe's Oddysee
+2026-03-09 21:57:33,170 - INFO - [15710] Oddworld: Abe's Exoddus
+2026-03-09 21:57:33,170 - INFO - [15740] Oddworld: Munch's Oddysee
+2026-03-09 21:57:33,170 - INFO - [15750] Oddworld: Stranger's Wrath HD
+2026-03-09 21:57:33,170 - INFO - [16450] F.E.A.R. 2: Project Origin
+2026-03-09 21:57:33,171 - INFO - [16810] Sid Meier's Civilization IV: Colonization
+2026-03-09 21:57:33,171 - INFO - [17300] Crysis
+2026-03-09 21:57:33,171 - INFO - [17330] Crysis Warhead
+2026-03-09 21:57:33,171 - INFO - [17340] Crysis Wars
+2026-03-09 21:57:33,171 - INFO - [17410] Mirror's Edge
+2026-03-09 21:57:33,171 - INFO - [17460] Mass Effect (2007)
+2026-03-09 21:57:33,171 - INFO - [17470] Dead Space (2008)
+2026-03-09 21:57:33,171 - INFO - [18000] On the Rain-Slick Precipice of Darkness, Episode One
+2026-03-09 21:57:33,171 - INFO - [18020] On the Rain-Slick Precipice of Darkness, Episode Two
+2026-03-09 21:57:33,172 - INFO - [18040] DeathSpank
+2026-03-09 21:57:33,172 - INFO - [18050] DeathSpank: Thongs Of Virtue
+2026-03-09 21:57:33,172 - INFO - [18110] Shattered Horizon
+2026-03-09 21:57:33,172 - INFO - [18700] And Yet It Moves
+2026-03-09 21:57:33,172 - INFO - [19680] Alice: Madness Returns
+2026-03-09 21:57:33,172 - INFO - [19900] Far Cry 2
+2026-03-09 21:57:33,172 - INFO - [19980] Prince of Persia
+2026-03-09 21:57:33,173 - INFO - [20500] Red Faction: Guerrilla Steam Edition
+2026-03-09 21:57:33,173 - INFO - [20510] S.T.A.L.K.E.R.: Clear Sky
+2026-03-09 21:57:33,173 - INFO - [20540] Company of Heroes: Tales of Valor
+2026-03-09 21:57:33,173 - INFO - [20570] Warhammer 40,000: Dawn of War II - Chaos Rising
+2026-03-09 21:57:33,173 - INFO - [20820] Shatter
+2026-03-09 21:57:33,173 - INFO - [20900] The Witcher: Enhanced Edition
+2026-03-09 21:57:33,173 - INFO - [20920] The Witcher 2: Assassins of Kings Enhanced Edition
+2026-03-09 21:57:33,174 - INFO - [21090] F.E.A.R.
+2026-03-09 21:57:33,174 - INFO - [21100] F.E.A.R. 3
+2026-03-09 21:57:33,174 - INFO - [21110] F.E.A.R.: Extraction Point
+2026-03-09 21:57:33,174 - INFO - [21120] F.E.A.R.: Perseus Mandate
+2026-03-09 21:57:33,174 - INFO - [21660] Street Fighter IV
+2026-03-09 21:57:33,174 - INFO - [21680] Bionic Commando Rearmed
+2026-03-09 21:57:33,174 - INFO - [21690] Resident Evil 5
+2026-03-09 21:57:33,175 - INFO - [21980] Call of Juarez: Bound in Blood
+2026-03-09 21:57:33,175 - INFO - [22000] World of Goo
+2026-03-09 21:57:33,175 - INFO - [22120] Penumbra: Black Plague
+2026-03-09 21:57:33,175 - INFO - [22140] Penumbra: Requiem
+2026-03-09 21:57:33,175 - INFO - [22180] Penumbra: Overture
+2026-03-09 21:57:33,175 - INFO - [22350] BRINK
+2026-03-09 21:57:33,175 - INFO - [22650] Alien Breed 2: Assault
+2026-03-09 21:57:33,176 - INFO - [23300] Yosumin!
+2026-03-09 21:57:33,176 - INFO - [23310] The Last Remnant
+2026-03-09 21:57:33,176 - INFO - [23380] Gyromancer
+2026-03-09 21:57:33,176 - INFO - [23490] Tropico 3 - Steam Special Edition
+2026-03-09 21:57:33,176 - INFO - [23700] Puzzle Kingdoms
+2026-03-09 21:57:33,176 - INFO - [24010] Train Simulator Classic
+2026-03-09 21:57:33,176 - INFO - [24240] PAYDAY: The Heist
+2026-03-09 21:57:33,176 - INFO - [24740] Burnout Paradise: The Ultimate Box
+2026-03-09 21:57:33,177 - INFO - [24780] SimCity 4 Deluxe
+2026-03-09 21:57:33,177 - INFO - [24800] Command & Conquer™ Red Alert™ 3 - Uprising
+2026-03-09 21:57:33,177 - INFO - [24980] Mass Effect 2 (2010)
+2026-03-09 21:57:33,177 - INFO - [25000] Overgrowth
+2026-03-09 21:57:33,177 - INFO - [25010] Lugaru HD 
+2026-03-09 21:57:33,177 - INFO - [25980] Majesty 2
+2026-03-09 21:57:33,177 - INFO - [25990] Majesty: Gold Edition
+2026-03-09 21:57:33,177 - INFO - [26500] Cogs
+2026-03-09 21:57:33,178 - INFO - [26800] Braid
+2026-03-09 21:57:33,178 - INFO - [26900] Crayon Physics Deluxe
+2026-03-09 21:57:33,178 - INFO - [28000] Kane & Lynch 2: Dog Days
+2026-03-09 21:57:33,178 - INFO - [28050] Deus Ex: Human Revolution
+2026-03-09 21:57:33,178 - INFO - [29180] Osmos
+2026-03-09 21:57:33,178 - INFO - [29900] Dark Sector
+2026-03-09 21:57:33,179 - INFO - [31220] Sam & Max 301: The Penal Zone
+2026-03-09 21:57:33,179 - INFO - [31230] Sam & Max 302: The Tomb of Sammun-Mak
+2026-03-09 21:57:33,179 - INFO - [31240] Sam & Max 303: They Stole Max's Brain!
+2026-03-09 21:57:33,179 - INFO - [31250] Sam & Max 304: Beyond the Alley of the Dolls
+2026-03-09 21:57:33,179 - INFO - [31260] Sam & Max 305: The City that Dares not Sleep
+2026-03-09 21:57:33,179 - INFO - [31270] Puzzle Agent
+2026-03-09 21:57:33,179 - INFO - [31280] Poker Night at the Inventory (2010 Original Version)
+2026-03-09 21:57:33,180 - INFO - [31290] Back to the Future: Ep 1 - It's About Time
+2026-03-09 21:57:33,180 - INFO - [31700] Iron Grip: Warlord
+2026-03-09 21:57:33,180 - INFO - [32350] STAR WARS™ Starfighter™
+2026-03-09 21:57:33,180 - INFO - [32360] The Secret of Monkey Island: Special Edition
+2026-03-09 21:57:33,180 - INFO - [32370] STAR WARS™ Knights of the Old Republic™
+2026-03-09 21:57:33,180 - INFO - [32380] STAR WARS™ Jedi Knight: Dark Forces II
+2026-03-09 21:57:33,180 - INFO - [32390] STAR WARS™ Jedi Knight: Mysteries of the Sith™
+2026-03-09 21:57:33,180 - INFO - [32400] STAR WARS™: Dark Forces
+2026-03-09 21:57:33,181 - INFO - [32420] STAR WARS™: The Clone Wars - Republic Heroes™
+2026-03-09 21:57:33,181 - INFO - [32430] STAR WARS™: The Force Unleashed™ Ultimate Sith Edition
+2026-03-09 21:57:33,181 - INFO - [32460] Monkey Island 2: Special Edition
+2026-03-09 21:57:33,181 - INFO - [32470] STAR WARS™ Empire at War: Gold Pack
+2026-03-09 21:57:33,182 - INFO - [32500] STAR WARS™: The Force Unleashed™ II
+2026-03-09 21:57:33,182 - INFO - [32800] The Lord of the Rings: War in the North
+2026-03-09 21:57:33,182 - INFO - [33130] Zombie Shooter
+2026-03-09 21:57:33,182 - INFO - [33180] Zombie Shooter 2
+2026-03-09 21:57:33,182 - INFO - [33220] Tom Clancy's Splinter Cell: Conviction
+2026-03-09 21:57:33,182 - INFO - [33320] Prince of Persia: The Forgotten Sands
+2026-03-09 21:57:33,183 - INFO - [33390] Zeit²
+2026-03-09 21:57:33,183 - INFO - [33440] Driver San Francisco
+2026-03-09 21:57:33,183 - INFO - [33460] From Dust
+2026-03-09 21:57:33,183 - INFO - [33910] Arma 2
+2026-03-09 21:57:33,183 - INFO - [33930] Arma 2: Operation Arrowhead
+2026-03-09 21:57:33,183 - INFO - [33950] The Fish Fillets 2
+2026-03-09 21:57:33,183 - INFO - [34010] Alpha Protocol
+2026-03-09 21:57:33,184 - INFO - [34190] Sonic and SEGA All Stars Racing
+2026-03-09 21:57:33,184 - INFO - [34270] SEGA Mega Drive & Genesis Classics
+2026-03-09 21:57:33,184 - INFO - [34330] Total War: SHOGUN 2
+2026-03-09 21:57:33,184 - INFO - [34440] Sid Meier's Civilization IV
+2026-03-09 21:57:33,184 - INFO - [34450] Sid Meier's Civilization IV: Warlords
+2026-03-09 21:57:33,185 - INFO - [34460] Sid Meier's Civilization IV: Beyond the Sword
+2026-03-09 21:57:33,185 - INFO - [34600] Order of War
+2026-03-09 21:57:33,185 - INFO - [34900] Bad Rats
+2026-03-09 21:57:33,185 - INFO - [34920] Razor2: Hidden Skies
+2026-03-09 21:57:33,186 - INFO - [35000] Mini Ninjas
+2026-03-09 21:57:33,186 - INFO - [35070] Flora's Fruit Farm
+2026-03-09 21:57:33,186 - INFO - [35130] Lara Croft and the Guardian of Light
+2026-03-09 21:57:33,186 - INFO - [35140] Batman: Arkham Asylum GOTY Edition
+2026-03-09 21:57:33,186 - INFO - [35420] Killing Floor Mod: Defence Alliance 2
+2026-03-09 21:57:33,186 - INFO - [35450] Rising Storm/Red Orchestra 2 Multiplayer
+2026-03-09 21:57:33,186 - INFO - [35700] Trine
+2026-03-09 21:57:33,187 - INFO - [35720] Trine 2
+2026-03-09 21:57:33,187 - INFO - [37000] The Void
+2026-03-09 21:57:33,187 - INFO - [37400] Time Gentlemen, Please!
+2026-03-09 21:57:33,187 - INFO - [37420] Ben There, Dan That!
+2026-03-09 21:57:33,187 - INFO - [38400] Fallout
+2026-03-09 21:57:33,187 - INFO - [38700] Toki Tori
+2026-03-09 21:57:33,187 - INFO - [39140] FINAL FANTASY VII (2013)
+2026-03-09 21:57:33,188 - INFO - [39150] FINAL FANTASY VIII
+2026-03-09 21:57:33,188 - INFO - [39160] Dungeon Siege III
+2026-03-09 21:57:33,188 - INFO - [39190] Dungeon Siege
+2026-03-09 21:57:33,188 - INFO - [39200] Dungeon Siege 2
+2026-03-09 21:57:33,188 - INFO - [39550] SpellForce 2 - Anniversary Edition
+2026-03-09 21:57:33,188 - INFO - [39650] The Guild II
+2026-03-09 21:57:33,188 - INFO - [39690] ArcaniA
+2026-03-09 21:57:33,189 - INFO - [40100] Supreme Commander 2
+2026-03-09 21:57:33,189 - INFO - [40300] Risen
+2026-03-09 21:57:33,189 - INFO - [40330] Secret Files: Tunguska
+2026-03-09 21:57:33,189 - INFO - [40350] Lost Horizon
+2026-03-09 21:57:33,189 - INFO - [40390] Risen 2 - Dark Waters
+2026-03-09 21:57:33,189 - INFO - [40700] Machinarium
+2026-03-09 21:57:33,189 - INFO - [40720] Samorost 2
+2026-03-09 21:57:33,189 - INFO - [40800] Super Meat Boy
+2026-03-09 21:57:33,190 - INFO - [40930] The Misadventures of P.B. Winterbottom
+2026-03-09 21:57:33,190 - INFO - [40990] Mafia
+2026-03-09 21:57:33,190 - INFO - [41070] Serious Sam 3: BFE
+2026-03-09 21:57:33,190 - INFO - [41100] Hammerfight
+2026-03-09 21:57:33,190 - INFO - [41210] Eufloria
+2026-03-09 21:57:33,190 - INFO - [41500] Torchlight
+2026-03-09 21:57:33,191 - INFO - [41730] Ion Assault
+2026-03-09 21:57:33,191 - INFO - [41740] Cargo! - The quest for gravity
+2026-03-09 21:57:33,191 - INFO - [41800] Gratuitous Space Battles
+2026-03-09 21:57:33,191 - INFO - [42120] Lead and Gold - Gangs of the Wild West
+2026-03-09 21:57:33,191 - INFO - [42140] Hamilton's Great Adventure
+2026-03-09 21:57:33,191 - INFO - [42700] Call of Duty: Black Ops
+2026-03-09 21:57:33,191 - INFO - [42710] Call of Duty: Black Ops - Multiplayer
+2026-03-09 21:57:33,192 - INFO - [42910] Magicka
+2026-03-09 21:57:33,192 - INFO - [43000] Front Mission Evolved
+2026-03-09 21:57:33,192 - INFO - [43100] World of Zoo
+2026-03-09 21:57:33,192 - INFO - [43110] Metro 2033
+2026-03-09 21:57:33,192 - INFO - [43160] Metro: Last Light Complete Edition
+2026-03-09 21:57:33,192 - INFO - [44200] Galcon Fusion
+2026-03-09 21:57:33,192 - INFO - [44320] DiRT 3
+2026-03-09 21:57:33,192 - INFO - [44340] Operation Flashpoint: Red River
+2026-03-09 21:57:33,193 - INFO - [44350] GRID 2
+2026-03-09 21:57:33,193 - INFO - [44600] GTR - FIA GT Racing Game
+2026-03-09 21:57:33,193 - INFO - [44620] STCC II
+2026-03-09 21:57:33,193 - INFO - [44630] RACE 07 - Formula RaceRoom Add-On
+2026-03-09 21:57:33,193 - INFO - [44650] GT Power Expansion
+2026-03-09 21:57:33,193 - INFO - [44660] The Retro Expansion
+2026-03-09 21:57:33,193 - INFO - [44670] The WTCC 2010 Pack
+2026-03-09 21:57:33,193 - INFO - [44680] Race Injection
+2026-03-09 21:57:33,193 - INFO - [44690] GT Legends
+2026-03-09 21:57:33,193 - INFO - [45300] Wings of Prey
+2026-03-09 21:57:33,194 - INFO - [45740] Dead Rising 2
+2026-03-09 21:57:33,194 - INFO - [45760] Ultra Street Fighter IV
+2026-03-09 21:57:33,194 - INFO - [45770] Dead Rising 2: Off the Record
+2026-03-09 21:57:33,194 - INFO - [46500] Syberia
+2026-03-09 21:57:33,194 - INFO - [46510] Syberia 2
+2026-03-09 21:57:33,194 - INFO - [46700] Ironclads: American Civil War
+2026-03-09 21:57:33,194 - INFO - [46710] Ironclads: High Seas
+2026-03-09 21:57:33,195 - INFO - [46760] Ironclads: Schleswig War 1864
+2026-03-09 21:57:33,195 - INFO - [46830] Ironclads: Anglo Russian War 1866
+2026-03-09 21:57:33,195 - INFO - [46840] Ironclads: Chincha Islands War 1866
+2026-03-09 21:57:33,195 - INFO - [47790] Medal of Honor(TM) Single Player
+2026-03-09 21:57:33,195 - INFO - [47810] Dragon Age: Origins - Ultimate Edition
+2026-03-09 21:57:33,195 - INFO - [47830] Medal of Honor(TM) Multiplayer
+2026-03-09 21:57:33,195 - INFO - [47870] Need for Speed: Hot Pursuit
+2026-03-09 21:57:33,196 - INFO - [48000] LIMBO
+2026-03-09 21:57:33,196 - INFO - [48180] Tom Clancy's H.A.W.X. 2
+2026-03-09 21:57:33,196 - INFO - [48900] Saira
+2026-03-09 21:57:33,196 - INFO - [48950] Greed Corp
+2026-03-09 21:57:33,196 - INFO - [49470] Magic: The Gathering — Duels of the Planeswalkers 2012
+2026-03-09 21:57:33,197 - INFO - [49520] Borderlands 2
+2026-03-09 21:57:33,197 - INFO - [49600] Beat Hazard
+2026-03-09 21:57:33,197 - INFO - [50000] Nimbus
+2026-03-09 21:57:33,197 - INFO - [50130] Mafia II (Classic)
+2026-03-09 21:57:33,197 - INFO - [50300] Spec Ops: The Line
+2026-03-09 21:57:33,197 - INFO - [50510] Burn Zombie Burn
+2026-03-09 21:57:33,197 - INFO - [50620] Darksiders
+2026-03-09 21:57:33,198 - INFO - [50650] Darksiders II
+2026-03-09 21:57:33,198 - INFO - [55040] Atom Zombie Smasher 
+2026-03-09 21:57:33,198 - INFO - [55100] Homefront
+2026-03-09 21:57:33,198 - INFO - [55110] Red Faction: Armageddon
+2026-03-09 21:57:33,198 - INFO - [55150] Warhammer 40,000: Space Marine - Anniversary Edition
+2026-03-09 21:57:33,198 - INFO - [55230] Saints Row: The Third
+2026-03-09 21:57:33,198 - INFO - [56400] Warhammer 40,000: Dawn of War II - Retribution
+2026-03-09 21:57:33,198 - INFO - [57300] Amnesia: The Dark Descent
+2026-03-09 21:57:33,198 - INFO - [57400] Batman: Arkham City™
+2026-03-09 21:57:33,199 - INFO - [57620] Patrician IV: Steam Special Edition
+2026-03-09 21:57:33,199 - INFO - [57690] Tropico 4
+2026-03-09 21:57:33,199 - INFO - [57730] Patrician IV: Rise of a Dynasty
+2026-03-09 21:57:33,199 - INFO - [57800] Doc Clock: The Toasted Sandwich of Time
+2026-03-09 21:57:33,199 - INFO - [57900] Duke Nukem Forever
+2026-03-09 21:57:33,199 - INFO - [58200] Jolly Rover
+2026-03-09 21:57:33,199 - INFO - [58520] Blood Bowl: Legendary Edition
+2026-03-09 21:57:33,200 - INFO - [62000] Flight Control HD
+2026-03-09 21:57:33,200 - INFO - [62100] Chime
+2026-03-09 21:57:33,201 - INFO - [63000] HOARD
+2026-03-09 21:57:33,201 - INFO - [63200] Monday Night Combat
+2026-03-09 21:57:33,201 - INFO - [63380] Sniper Elite V2
+2026-03-09 21:57:33,201 - INFO - [63500] Swords and Soldiers HD
+2026-03-09 21:57:33,202 - INFO - [63700] BIT.TRIP BEAT
+2026-03-09 21:57:33,202 - INFO - [63710] BIT.TRIP RUNNER
+2026-03-09 21:57:33,203 - INFO - [64000] Men of War: Assault Squad
+2026-03-09 21:57:33,203 - INFO - [65300] Dustforce
+2026-03-09 21:57:33,203 - INFO - [65530] SpellForce 2 - Faith in Destiny
+2026-03-09 21:57:33,203 - INFO - [65730] Take On Helicopters
+2026-03-09 21:57:33,203 - INFO - [65780] Arma: Gold Edition
+2026-03-09 21:57:33,204 - INFO - [65790] Arma: Cold War Assault
+2026-03-09 21:57:33,204 - INFO - [65800] Dungeon Defenders
+2026-03-09 21:57:33,204 - INFO - [65930] The Bureau: XCOM Declassified
+2026-03-09 21:57:33,204 - INFO - [67370] The Darkness II
+2026-03-09 21:57:33,204 - INFO - [70000] Dino D-Day
+2026-03-09 21:57:33,204 - INFO - [70110] Hacker Evolution - Untold
+2026-03-09 21:57:33,204 - INFO - [70120] Hacker Evolution Duality
+2026-03-09 21:57:33,204 - INFO - [70300] VVVVVV
+2026-03-09 21:57:33,205 - INFO - [70600] Worms Ultimate Mayhem
+2026-03-09 21:57:33,205 - INFO - [70620] Worms Crazy Golf
+2026-03-09 21:57:33,205 - INFO - [70650] Worms Blast
+2026-03-09 21:57:33,205 - INFO - [70660] Worms Pinball
+2026-03-09 21:57:33,205 - INFO - [71230] Crazy Taxi
+2026-03-09 21:57:33,205 - INFO - [71240] SEGA Bass Fishing
+2026-03-09 21:57:33,205 - INFO - [71250] Sonic Adventure DX
+2026-03-09 21:57:33,205 - INFO - [71260] Space Channel 5: Part 2
+2026-03-09 21:57:33,206 - INFO - [71340] Sonic Generations
+2026-03-09 21:57:33,206 - INFO - [72000] Closure
+2026-03-09 21:57:33,206 - INFO - [72200] Universe Sandbox Legacy
+2026-03-09 21:57:33,206 - INFO - [72850] The Elder Scrolls V: Skyrim
+2026-03-09 21:57:33,206 - INFO - [73230] Majesty Gold HD
+2026-03-09 21:57:33,206 - INFO - [80310] Gemini Rue
+2026-03-09 21:57:33,206 - INFO - [91100] SkyDrift
+2026-03-09 21:57:33,206 - INFO - [91200] Anomaly Warzone Earth
+2026-03-09 21:57:33,207 - INFO - [91310] Dead Island
+2026-03-09 21:57:33,207 - INFO - [91600] Sanctum
+2026-03-09 21:57:33,207 - INFO - [91700] E.Y.E: Divine Cybermancy
+2026-03-09 21:57:33,207 - INFO - [92000] Hydrophobia: Prophecy
+2026-03-09 21:57:33,207 - INFO - [92300] A.R.E.S.
+2026-03-09 21:57:33,207 - INFO - [92800] SpaceChem
+2026-03-09 21:57:33,207 - INFO - [93200] Revenge of the Titans
+2026-03-09 21:57:33,207 - INFO - [94200] Jamestown
+2026-03-09 21:57:33,207 - INFO - [94500] Back to the Future: Ep 2 - Get Tannen!
+2026-03-09 21:57:33,208 - INFO - [94510] Back to the Future: Ep 3 - Citizen Brown
+2026-03-09 21:57:33,208 - INFO - [94520] Back to the Future: Ep 4 - Double Visions
+2026-03-09 21:57:33,208 - INFO - [94530] Back to the Future: Ep 5 - OUTATIME
+2026-03-09 21:57:33,209 - INFO - [94590] Puzzle Agent 2
+2026-03-09 21:57:33,209 - INFO - [95300] Capsized
+2026-03-09 21:57:33,209 - INFO - [95500] Your Doodles Are Bugged!
+2026-03-09 21:57:33,210 - INFO - [95900] Air Conflicts - Secret Wars
+2026-03-09 21:57:33,210 - INFO - [96000] The Tiny Bang Story
+2026-03-09 21:57:33,210 - INFO - [96200] Steel Storm: Burning Retribution
+2026-03-09 21:57:33,210 - INFO - [96900] Slam Bolt Scrappers
+2026-03-09 21:57:33,210 - INFO - [97000] Solar 2
+2026-03-09 21:57:33,210 - INFO - [98100] TRAUMA
+2026-03-09 21:57:33,211 - INFO - [98200] Frozen Synapse
+2026-03-09 21:57:33,213 - INFO - [98400] Hard Reset
+2026-03-09 21:57:33,213 - INFO - [98600] Demolition, Inc.
+2026-03-09 21:57:33,213 - INFO - [98800] Dungeons of Dredmor
+2026-03-09 21:57:33,214 - INFO - [99300] Renegade Ops
+2026-03-09 21:57:33,214 - INFO - [99700] NightSky
+2026-03-09 21:57:33,214 - INFO - [99810] Bulletstorm
+2026-03-09 21:57:33,215 - INFO - [102400] Vertex Dispenser
+2026-03-09 21:57:33,215 - INFO - [102600] Orcs Must Die!
+2026-03-09 21:57:33,216 - INFO - [102840] Shank 2
+2026-03-09 21:57:33,216 - INFO - [105400] Fable III
+2026-03-09 21:57:33,216 - INFO - [105430] Age of Empires Online
+2026-03-09 21:57:33,216 - INFO - [105600] Terraria
+2026-03-09 21:57:33,217 - INFO - [105800] PixelJunk™ Eden
+2026-03-09 21:57:33,217 - INFO - [107100] Bastion
+2026-03-09 21:57:33,217 - INFO - [107200] Space Pirates and Zombies
+2026-03-09 21:57:33,218 - INFO - [107300] Breath of Death VII 
+2026-03-09 21:57:33,218 - INFO - [107310] Cthulhu Saves the World 
+2026-03-09 21:57:33,218 - INFO - [107800] Rochard
+2026-03-09 21:57:33,219 - INFO - [108500] Vessel
+2026-03-09 21:57:33,220 - INFO - [108710] Alan Wake
+2026-03-09 21:57:33,220 - INFO - [108800] Crysis 2 Maximum Edition
+2026-03-09 21:57:33,220 - INFO - [110400] inMomentum
+2026-03-09 21:57:33,221 - INFO - [110800] L.A. Noire
+2026-03-09 21:57:33,222 - INFO - [111900] Guardians of Middle-earth
+2026-03-09 21:57:33,222 - INFO - [113020] Monaco
+2026-03-09 21:57:33,223 - INFO - [113200] The Binding of Isaac
+2026-03-09 21:57:33,223 - INFO - [115100] Costume Quest
+2026-03-09 21:57:33,223 - INFO - [115110] Stacking
+2026-03-09 21:57:33,224 - INFO - [115800] Owlboy
+2026-03-09 21:57:33,224 - INFO - [200110] Nosgoth
+2026-03-09 21:57:33,224 - INFO - [200260] Batman: Arkham City GOTY
+2026-03-09 21:57:33,224 - INFO - [200390] Oil Rush
+2026-03-09 21:57:33,225 - INFO - [200410] SOL: Exodus
+2026-03-09 21:57:33,225 - INFO - [200510] XCOM: Enemy Unknown
+2026-03-09 21:57:33,226 - INFO - [200710] Torchlight II
+2026-03-09 21:57:33,226 - INFO - [200900] Cave Story+
+2026-03-09 21:57:33,226 - INFO - [200910] Before the Echo
+2026-03-09 21:57:33,226 - INFO - [200940] Sonic CD
+2026-03-09 21:57:33,227 - INFO - [201040] Galcon Legends
+2026-03-09 21:57:33,227 - INFO - [201280] Deus Ex: Human Revolution - The Missing Link
+2026-03-09 21:57:33,227 - INFO - [201420] Toki Tori 2+
+2026-03-09 21:57:33,227 - INFO - [201570] Really Big Sky
+2026-03-09 21:57:33,228 - INFO - [201700] DiRT Showdown
+2026-03-09 21:57:33,228 - INFO - [201790] Orcs Must Die! 2
+2026-03-09 21:57:33,228 - INFO - [201810] Wolfenstein: The New Order
+2026-03-09 21:57:33,228 - INFO - [201830] Jurassic Park: The Game
+2026-03-09 21:57:33,229 - INFO - [202200] Galactic Civilizations II: Ultimate Edition
+2026-03-09 21:57:33,229 - INFO - [202270] Leviathan: Warships
+2026-03-09 21:57:33,229 - INFO - [202390] Vessel Demo
+2026-03-09 21:57:33,229 - INFO - [202410] Scoregasm
+2026-03-09 21:57:33,230 - INFO - [202530] SONIC THE HEDGEHOG 4 Episode I
+2026-03-09 21:57:33,230 - INFO - [202730] Dynamite Jack
+2026-03-09 21:57:33,230 - INFO - [202750] Alan Wake's American Nightmare
+2026-03-09 21:57:33,230 - INFO - [203160] Tomb Raider
+2026-03-09 21:57:33,230 - INFO - [203630] Warlock - Master of the Arcane
+2026-03-09 21:57:33,231 - INFO - [203650] SONIC THE HEDGEHOG 4 Episode II
+2026-03-09 21:57:33,231 - INFO - [203750] Binary Domain
+2026-03-09 21:57:33,231 - INFO - [203770] Crusader Kings II
+2026-03-09 21:57:33,231 - INFO - [203810] Dear Esther
+2026-03-09 21:57:33,232 - INFO - [204060] Superbrothers: Sword & Sworcery EP
+2026-03-09 21:57:33,232 - INFO - [204080] The Showdown Effect
+2026-03-09 21:57:33,232 - INFO - [204100] Max Payne 3
+2026-03-09 21:57:33,233 - INFO - [204140] All Zombies Must Die!
+2026-03-09 21:57:33,233 - INFO - [204220] Snapshot
+2026-03-09 21:57:33,233 - INFO - [204240] The Bridge
+2026-03-09 21:57:33,233 - INFO - [204300] Awesomenauts
+2026-03-09 21:57:33,234 - INFO - [204360] Castle Crashers
+2026-03-09 21:57:33,234 - INFO - [204450] Call of Juarez Gunslinger
+2026-03-09 21:57:33,234 - INFO - [204560] Confrontation
+2026-03-09 21:57:33,234 - INFO - [204630] Retro City Rampage™ DX
+2026-03-09 21:57:33,235 - INFO - [204880] Sins of a Solar Empire: Rebellion
+2026-03-09 21:57:33,235 - INFO - [205020] Lumino City
+2026-03-09 21:57:33,235 - INFO - [205100] Dishonored
+2026-03-09 21:57:33,236 - INFO - [205230] Hell Yeah!
+2026-03-09 21:57:33,236 - INFO - [205350] Mortal Kombat Kollection
+2026-03-09 21:57:33,236 - INFO - [205730] Insanely Twisted Shadow Planet
+2026-03-09 21:57:33,236 - INFO - [205910] Tiny and Big: Grandpa's Leftovers
+2026-03-09 21:57:33,236 - INFO - [205950] Jet Set Radio
+2026-03-09 21:57:33,236 - INFO - [206190] Gunpoint
+2026-03-09 21:57:33,236 - INFO - [206370] Tales from Space: Mutant Blobs Attack
+2026-03-09 21:57:33,236 - INFO - [206440] To the Moon
+2026-03-09 21:57:33,237 - INFO - [207040] Sine Mora
+2026-03-09 21:57:33,237 - INFO - [207080] Indie Game: The Movie
+2026-03-09 21:57:33,237 - INFO - [207140] SpeedRunners
+2026-03-09 21:57:33,237 - INFO - [207170] Legend of Grimrock
+2026-03-09 21:57:33,237 - INFO - [207320] Ys: The Oath in Felghana
+2026-03-09 21:57:33,237 - INFO - [207350] Ys Origin
+2026-03-09 21:57:33,237 - INFO - [207420] Wizorb
+2026-03-09 21:57:33,238 - INFO - [207570] English Country Tune
+2026-03-09 21:57:33,238 - INFO - [207610] The Walking Dead
+2026-03-09 21:57:33,238 - INFO - [207650] A Virus Named TOM
+2026-03-09 21:57:33,238 - INFO - [207690] Botanicula
+2026-03-09 21:57:33,238 - INFO - [207750] Symphony
+2026-03-09 21:57:33,238 - INFO - [207930] Sacred Citadel
+2026-03-09 21:57:33,238 - INFO - [208140] ENDLESS™ Space - Definitive Edition
+2026-03-09 21:57:33,239 - INFO - [208580] STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™
+2026-03-09 21:57:33,239 - INFO - [208650] Batman™: Arkham Knight
+2026-03-09 21:57:33,239 - INFO - [208670] Blades of Time
+2026-03-09 21:57:33,239 - INFO - [208730] Game of Thrones 
+2026-03-09 21:57:33,239 - INFO - [208860] Mad Riders
+2026-03-09 21:57:33,239 - INFO - [209000] Batman™: Arkham Origins
+2026-03-09 21:57:33,240 - INFO - [209080] Guns of Icarus Online
+2026-03-09 21:57:33,240 - INFO - [209360] AZMD! Scorepocalypse 
+2026-03-09 21:57:33,240 - INFO - [209540] Strike Suit Zero
+2026-03-09 21:57:33,240 - INFO - [209630] Magrunner: Dark Pulse
+2026-03-09 21:57:33,240 - INFO - [209670] Cortex Command
+2026-03-09 21:57:33,240 - INFO - [209690] Fieldrunners
+2026-03-09 21:57:33,241 - INFO - [209730] RAW - Realms of Ancient War
+2026-03-09 21:57:33,241 - INFO - [209790] Splice
+2026-03-09 21:57:33,241 - INFO - [209830] Lone Survivor: The Director's Cut
+2026-03-09 21:57:33,241 - INFO - [210770] Sanctum 2
+2026-03-09 21:57:33,242 - INFO - [211160] Viking: Battle for Asgard
+2026-03-09 21:57:33,242 - INFO - [211260] They Bleed Pixels
+2026-03-09 21:57:33,242 - INFO - [211340] Magical Diary: Horse Hall
+2026-03-09 21:57:33,242 - INFO - [211360] Offspring Fling!
+2026-03-09 21:57:33,243 - INFO - [211400] Deadlight
+2026-03-09 21:57:33,243 - INFO - [211420] DARK SOULS™: Prepare To Die Edition
+2026-03-09 21:57:33,243 - INFO - [211600] Thief Gold
+2026-03-09 21:57:33,243 - INFO - [211740] Thief™ II: The Metal Age
+2026-03-09 21:57:33,244 - INFO - [211780] Conflict Desert Storm
+2026-03-09 21:57:33,244 - INFO - [211820] Starbound
+2026-03-09 21:57:33,244 - INFO - [212480] Sonic & All-Stars Racing Transformed Collection
+2026-03-09 21:57:33,244 - INFO - [212680] FTL: Faster Than Light
+2026-03-09 21:57:33,244 - INFO - [213610] Sonic Adventure™ 2 
+2026-03-09 21:57:33,245 - INFO - [214150] Galactic Civilizations I: Ultimate Edition
+2026-03-09 21:57:33,245 - INFO - [214490] Alien: Isolation
+2026-03-09 21:57:33,245 - INFO - [214510] LEGO® The Lord of the Rings™
+2026-03-09 21:57:33,245 - INFO - [214550] Eets Munchies
+2026-03-09 21:57:33,246 - INFO - [214560] Mark of the Ninja
+2026-03-09 21:57:33,246 - INFO - [214590] Fairy Bloom Freesia
+2026-03-09 21:57:33,246 - INFO - [214770] Guacamelee! Gold Edition
+2026-03-09 21:57:33,246 - INFO - [214790] The Basement Collection
+2026-03-09 21:57:33,246 - INFO - [214830] Half Minute Hero: Super Mega Neo Climax Ultimate Boy
+2026-03-09 21:57:33,247 - INFO - [214870] Painkiller Hell & Damnation
+2026-03-09 21:57:33,247 - INFO - [214970] Intrusion 2
+2026-03-09 21:57:33,247 - INFO - [215510] Rocketbirds: Hardboiled Chicken
+2026-03-09 21:57:33,247 - INFO - [215530] The Incredible Adventures of Van Helsing
+2026-03-09 21:57:33,247 - INFO - [215670] Home
+2026-03-09 21:57:33,247 - INFO - [215710] Fieldrunners 2
+2026-03-09 21:57:33,247 - INFO - [215790] Dream Pinball 3D
+2026-03-09 21:57:33,248 - INFO - [216910] Of Orcs And Men
+2026-03-09 21:57:33,248 - INFO - [217200] Worms Armageddon
+2026-03-09 21:57:33,248 - INFO - [217270] Karateka 
+2026-03-09 21:57:33,248 - INFO - [217690] Anna - Extended Edition
+2026-03-09 21:57:33,248 - INFO - [218060] BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien
+2026-03-09 21:57:33,248 - INFO - [218410] Defender's Quest: Valley of the Forgotten
+2026-03-09 21:57:33,248 - INFO - [218620] PAYDAY 2
+2026-03-09 21:57:33,249 - INFO - [218680] Scribblenauts Unlimited
+2026-03-09 21:57:33,249 - INFO - [218740] Pid 
+2026-03-09 21:57:33,249 - INFO - [218820] Mercenary Kings
+2026-03-09 21:57:33,249 - INFO - [219150] Hotline Miami
+2026-03-09 21:57:33,249 - INFO - [219540] Arma 2: Operation Arrowhead Beta (Obsolete)
+2026-03-09 21:57:33,249 - INFO - [219640] Chivalry: Medieval Warfare
+2026-03-09 21:57:33,250 - INFO - [219680] Proteus
+2026-03-09 21:57:33,250 - INFO - [219740] Don't Starve
+2026-03-09 21:57:33,250 - INFO - [219780] Divinity II: Developer's Cut
+2026-03-09 21:57:33,250 - INFO - [219890] Antichamber
+2026-03-09 21:57:33,250 - INFO - [219950] NiGHTS into Dreams...
+2026-03-09 21:57:33,250 - INFO - [220200] Kerbal Space Program
+2026-03-09 21:57:33,250 - INFO - [220440] DmC Devil May Cry
+2026-03-09 21:57:33,250 - INFO - [220780] Thomas Was Alone
+2026-03-09 21:57:33,251 - INFO - [220820] Zombie Driver HD
+2026-03-09 21:57:33,251 - INFO - [220860] McPixel
+2026-03-09 21:57:33,251 - INFO - [221040] Resident Evil 6
+2026-03-09 21:57:33,251 - INFO - [221180] Eufloria HD
+2026-03-09 21:57:33,251 - INFO - [221260] Little Inferno
+2026-03-09 21:57:33,251 - INFO - [221380] Age of Empires II (2013)
+2026-03-09 21:57:33,252 - INFO - [221640] Super Hexagon
+2026-03-09 21:57:33,252 - INFO - [221910] The Stanley Parable
+2026-03-09 21:57:33,252 - INFO - [222140] Puddle
+2026-03-09 21:57:33,252 - INFO - [222480] Resident Evil Revelations
+2026-03-09 21:57:33,252 - INFO - [222730] Reus
+2026-03-09 21:57:33,252 - INFO - [222880] Insurgency
+2026-03-09 21:57:33,252 - INFO - [222940] THE KING OF FIGHTERS XIII STEAM EDITION
+2026-03-09 21:57:33,253 - INFO - [223220] Giana Sisters: Twisted Dreams
+2026-03-09 21:57:33,253 - INFO - [223850] 3DMark
+2026-03-09 21:57:33,253 - INFO - [224300] Legacy of Kain: Defiance
+2026-03-09 21:57:33,253 - INFO - [224420] Afterfall InSanity Extended Edition
+2026-03-09 21:57:33,253 - INFO - [224480] Octodad: Dadliest Catch
+2026-03-09 21:57:33,253 - INFO - [224760] FEZ
+2026-03-09 21:57:33,253 - INFO - [224820] Super House of Dead Ninjas
+2026-03-09 21:57:33,254 - INFO - [224860] Arma Tactics
+2026-03-09 21:57:33,254 - INFO - [224920] Legacy of Kain: Soul Reaver
+2026-03-09 21:57:33,254 - INFO - [224940] Legacy of Kain: Soul Reaver 2 (2001)
+2026-03-09 21:57:33,254 - INFO - [224960] Tomb Raider I
+2026-03-09 21:57:33,254 - INFO - [224980] Tomb Raider: The Last Revelation (1999)
+2026-03-09 21:57:33,254 - INFO - [225000] Tomb Raider: Chronicles (2000)
+2026-03-09 21:57:33,255 - INFO - [225020] Tomb Raider (VI): The Angel of Darkness (2003)
+2026-03-09 21:57:33,255 - INFO - [225080] Brothers - A Tale of Two Sons
+2026-03-09 21:57:33,255 - INFO - [225260] Brütal Legend
+2026-03-09 21:57:33,255 - INFO - [225300] Tomb Raider II
+2026-03-09 21:57:33,255 - INFO - [225320] Tomb Raider III: Adventures of Lara Croft
+2026-03-09 21:57:33,255 - INFO - [225420] Cities in Motion 2
+2026-03-09 21:57:33,256 - INFO - [225540] Just Cause 3
+2026-03-09 21:57:33,256 - INFO - [225640] Sacred 2 Gold
+2026-03-09 21:57:33,256 - INFO - [226620] Desktop Dungeons
+2026-03-09 21:57:33,256 - INFO - [226700] Infestation: The New Beginning
+2026-03-09 21:57:33,256 - INFO - [226720] Lost Planet 3
+2026-03-09 21:57:33,256 - INFO - [226840] Age of Wonders III
+2026-03-09 21:57:33,256 - INFO - [226860] Galactic Civilizations III
+2026-03-09 21:57:33,256 - INFO - [227000] Primordia
+2026-03-09 21:57:33,257 - INFO - [227080] Papo & Yo
+2026-03-09 21:57:33,257 - INFO - [227300] Euro Truck Simulator 2
+2026-03-09 21:57:33,257 - INFO - [227600] Castle of Illusion
+2026-03-09 21:57:33,257 - INFO - [228200] Company of Heroes 
+2026-03-09 21:57:33,257 - INFO - [228260] Fallen Enchantress: Legendary Heroes
+2026-03-09 21:57:33,257 - INFO - [228280] Baldur's Gate: Enhanced Edition
+2026-03-09 21:57:33,257 - INFO - [228300] Remember Me
+2026-03-09 21:57:33,257 - INFO - [228360] Full Throttle Remastered
+2026-03-09 21:57:33,258 - INFO - [228400] ACE COMBAT™ ASSAULT HORIZON Enhanced Edition
+2026-03-09 21:57:33,258 - INFO - [228960] Skulls of the Shogun
+2026-03-09 21:57:33,258 - INFO - [230150] Incredipede
+2026-03-09 21:57:33,258 - INFO - [230190] War for the Overworld
+2026-03-09 21:57:33,258 - INFO - [230230] Divinity: Original Sin (Classic)
+2026-03-09 21:57:33,258 - INFO - [230410] Warframe
+2026-03-09 21:57:33,258 - INFO - [230980] Starseed Pilgrim
+2026-03-09 21:57:33,259 - INFO - [231040] Beatbuddy: Tale of the Guardians
+2026-03-09 21:57:33,259 - INFO - [231140] Cities XL Platinum
+2026-03-09 21:57:33,259 - INFO - [231160] The Swapper
+2026-03-09 21:57:33,259 - INFO - [231200] Kentucky Route Zero
+2026-03-09 21:57:33,259 - INFO - [231430] Company of Heroes 2
+2026-03-09 21:57:33,259 - INFO - [232050] Eador. Masters of the Broken World
+2026-03-09 21:57:33,259 - INFO - [232090] Killing Floor 2
+2026-03-09 21:57:33,259 - INFO - [232430] Gone Home
+2026-03-09 21:57:33,260 - INFO - [232790] Broken Age
+2026-03-09 21:57:33,260 - INFO - [232890] Stronghold Crusader 2
+2026-03-09 21:57:33,260 - INFO - [233130] Shadow Warrior
+2026-03-09 21:57:33,260 - INFO - [233150] LUFTRAUSERS
+2026-03-09 21:57:33,260 - INFO - [233270] Far Cry® 3 Blood Dragon
+2026-03-09 21:57:33,260 - INFO - [233290] MURDERED: SOUL SUSPECT™
+2026-03-09 21:57:33,260 - INFO - [233450] Prison Architect
+2026-03-09 21:57:33,261 - INFO - [233470] Evoland
+2026-03-09 21:57:33,261 - INFO - [233610] Distance
+2026-03-09 21:57:33,261 - INFO - [233720] Surgeon Simulator
+2026-03-09 21:57:33,261 - INFO - [234000] Superfrog HD
+2026-03-09 21:57:33,261 - INFO - [234140] Mad Max
+2026-03-09 21:57:33,261 - INFO - [234270] Ken Follett's The Pillars of the Earth
+2026-03-09 21:57:33,261 - INFO - [234390] Teleglitch: Die More Edition
+2026-03-09 21:57:33,262 - INFO - [234630] Project CARS
+2026-03-09 21:57:33,262 - INFO - [234650] Shadowrun Returns
+2026-03-09 21:57:33,262 - INFO - [234670] NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst
+2026-03-09 21:57:33,262 - INFO - [234710] Poker Night 2
+2026-03-09 21:57:33,262 - INFO - [234900] Anodyne
+2026-03-09 21:57:33,262 - INFO - [235210] Strider
+2026-03-09 21:57:33,263 - INFO - [235460] METAL GEAR RISING: REVENGEANCE
+2026-03-09 21:57:33,263 - INFO - [235540] Warhammer: End Times - Vermintide
+2026-03-09 21:57:33,263 - INFO - [236090] Dust: An Elysian Tail
+2026-03-09 21:57:33,263 - INFO - [236150] Starpoint Gemini 2
+2026-03-09 21:57:33,263 - INFO - [236830] Red Orchestra 2: Heroes of Stalingrad - Single Player
+2026-03-09 21:57:33,263 - INFO - [236870] HITMAN™
+2026-03-09 21:57:33,263 - INFO - [237760] Intake
+2026-03-09 21:57:33,264 - INFO - [237850] Dreamfall Chapters
+2026-03-09 21:57:33,264 - INFO - [237950] UFO: Afterlight
+2026-03-09 21:57:33,264 - INFO - [238010] Deus Ex: Human Revolution - Director's Cut
+2026-03-09 21:57:33,264 - INFO - [238090] Sniper Elite 3
+2026-03-09 21:57:33,264 - INFO - [238320] Outlast
+2026-03-09 21:57:33,264 - INFO - [238370] Magicka 2
+2026-03-09 21:57:33,264 - INFO - [238430] Contagion
+2026-03-09 21:57:33,265 - INFO - [238460] BattleBlock Theater
+2026-03-09 21:57:33,265 - INFO - [238960] Path of Exile
+2026-03-09 21:57:33,265 - INFO - [239030] Papers, Please
+2026-03-09 21:57:33,265 - INFO - [239070] Hammerwatch
+2026-03-09 21:57:33,265 - INFO - [239120] Final Fantasy III (3D Remake)
+2026-03-09 21:57:33,265 - INFO - [239160] Thief
+2026-03-09 21:57:33,265 - INFO - [239200] Amnesia: A Machine for Pigs
+2026-03-09 21:57:33,265 - INFO - [239450] Gun Monkeys
+2026-03-09 21:57:33,266 - INFO - [240720] Getting Over It with Bennett Foddy
+2026-03-09 21:57:33,266 - INFO - [240760] Wasteland 2
+2026-03-09 21:57:33,266 - INFO - [241320] Ittle Dew
+2026-03-09 21:57:33,266 - INFO - [241600] Rogue Legacy
+2026-03-09 21:57:33,266 - INFO - [241930] Middle-earth™: Shadow of Mordor™
+2026-03-09 21:57:33,266 - INFO - [242110] Joe Danger 2: The Movie
+2026-03-09 21:57:33,267 - INFO - [242550] Rayman Legends
+2026-03-09 21:57:33,267 - INFO - [242640] Styx: Master of Shadows
+2026-03-09 21:57:33,267 - INFO - [242680] Nuclear Throne
+2026-03-09 21:57:33,267 - INFO - [242700] Injustice: Gods Among Us Ultimate Edition
+2026-03-09 21:57:33,267 - INFO - [242760] The Forest
+2026-03-09 21:57:33,267 - INFO - [242940] Anachronox
+2026-03-09 21:57:33,267 - INFO - [242960] Blood Omen 2: Legacy of Kain
+2026-03-09 21:57:33,268 - INFO - [242980] Daikatana
+2026-03-09 21:57:33,268 - INFO - [243000] Omikron - The Nomad Soul
+2026-03-09 21:57:33,268 - INFO - [243020] Pandemonium
+2026-03-09 21:57:33,268 - INFO - [243160] Mushroom 11
+2026-03-09 21:57:33,268 - INFO - [243450] Urban Trial Freestyle
+2026-03-09 21:57:33,268 - INFO - [244160] Homeworld Remastered Collection
+2026-03-09 21:57:33,268 - INFO - [244210] Assetto Corsa
+2026-03-09 21:57:33,268 - INFO - [244450] Men of War: Assault Squad 2
+2026-03-09 21:57:33,269 - INFO - [245010] Deathtrap Dungeon
+2026-03-09 21:57:33,269 - INFO - [245150] The Novelist
+2026-03-09 21:57:33,269 - INFO - [245280] ENSLAVED™: Odyssey to the West™ Premium Edition
+2026-03-09 21:57:33,269 - INFO - [245620] Tropico 5
+2026-03-09 21:57:33,269 - INFO - [246070] Hack 'n' Slash
+2026-03-09 21:57:33,269 - INFO - [246090] Spacebase DF-9
+2026-03-09 21:57:33,269 - INFO - [246580] The Typing of The Dead: Overkill
+2026-03-09 21:57:33,270 - INFO - [246700] Strike Vector
+2026-03-09 21:57:33,270 - INFO - [246960] Giana Sisters: Twisted Dreams - Rise of the Owlverlord
+2026-03-09 21:57:33,270 - INFO - [247000] Talisman: Digital Classic Edition
+2026-03-09 21:57:33,270 - INFO - [247020] Cook, Serve, Delicious!
+2026-03-09 21:57:33,270 - INFO - [247080] Crypt of the NecroDancer
+2026-03-09 21:57:33,270 - INFO - [247660] Deadly Premonition: The Director's Cut
+2026-03-09 21:57:33,270 - INFO - [247950] Sacred 3
+2026-03-09 21:57:33,270 - INFO - [248310] Freedom Planet
+2026-03-09 21:57:33,270 - INFO - [248610] Door Kickers
+2026-03-09 21:57:33,271 - INFO - [248650] Draw a Stickman: EPIC
+2026-03-09 21:57:33,271 - INFO - [248820] Risk of Rain (2013)
+2026-03-09 21:57:33,271 - INFO - [248860] NEO Scavenger
+2026-03-09 21:57:33,271 - INFO - [249050] Dungeon of the ENDLESS™
+2026-03-09 21:57:33,271 - INFO - [249230] Risen 3 - Titan Lords
+2026-03-09 21:57:33,272 - INFO - [249330] Unholy Heights
+2026-03-09 21:57:33,272 - INFO - [249590] Teslagrad
+2026-03-09 21:57:33,272 - INFO - [249650] Blackguards
+2026-03-09 21:57:33,272 - INFO - [249990] FORCED
+2026-03-09 21:57:33,272 - INFO - [250110] Assault Android Cactus
+2026-03-09 21:57:33,272 - INFO - [250180] METAL SLUG 3
+2026-03-09 21:57:33,272 - INFO - [250260] Jazzpunk: Director's Cut
+2026-03-09 21:57:33,273 - INFO - [250320] The Wolf Among Us
+2026-03-09 21:57:33,273 - INFO - [250460] Bridge Constructor
+2026-03-09 21:57:33,273 - INFO - [250560] Fight The Dragon
+2026-03-09 21:57:33,273 - INFO - [250700] Super Time Force Ultra
+2026-03-09 21:57:33,273 - INFO - [250760] Shovel Knight: Treasure Trove
+2026-03-09 21:57:33,273 - INFO - [251060] Wargame: Red Dragon
+2026-03-09 21:57:33,273 - INFO - [251130] Chroma Squad
+2026-03-09 21:57:33,274 - INFO - [251470] TowerFall Ascension
+2026-03-09 21:57:33,274 - INFO - [251570] 7 Days to Die
+2026-03-09 21:57:33,274 - INFO - [252050] Construction Machines 2014
+2026-03-09 21:57:33,274 - INFO - [252110] Lovers in a Dangerous Spacetime
+2026-03-09 21:57:33,274 - INFO - [252290] Elegy For A Dead World
+2026-03-09 21:57:33,274 - INFO - [252410] SteamWorld Dig
+2026-03-09 21:57:33,274 - INFO - [252490] Rust
+2026-03-09 21:57:33,274 - INFO - [252630] Eldritch
+2026-03-09 21:57:33,275 - INFO - [252710] The Last Express Gold Edition
+2026-03-09 21:57:33,275 - INFO - [252850] Streamline
+2026-03-09 21:57:33,275 - INFO - [252950] Rocket League
+2026-03-09 21:57:33,275 - INFO - [253030] Race The Sun
+2026-03-09 21:57:33,275 - INFO - [253230] A Hat in Time
+2026-03-09 21:57:33,275 - INFO - [253470] Real World Racing
+2026-03-09 21:57:33,275 - INFO - [253510] Warmachine Tactics
+2026-03-09 21:57:33,276 - INFO - [254320] Duskers
+2026-03-09 21:57:33,276 - INFO - [254440] Pool Nation
+2026-03-09 21:57:33,276 - INFO - [254700] Resident Evil 4 (2005)
+2026-03-09 21:57:33,276 - INFO - [255070] Abyss Odyssey
+2026-03-09 21:57:33,276 - INFO - [255220] GRID Autosport
+2026-03-09 21:57:33,276 - INFO - [255520] Viscera Cleanup Detail: Shadow Warrior
+2026-03-09 21:57:33,276 - INFO - [255710] Cities: Skylines
+2026-03-09 21:57:33,277 - INFO - [256290] Child of Light
+2026-03-09 21:57:33,277 - INFO - [256350] WRC Powerslide
+2026-03-09 21:57:33,277 - INFO - [256370] MXGP - The Official Motocross Videogame
+2026-03-09 21:57:33,277 - INFO - [257350] Baldur's Gate II: Enhanced Edition
+2026-03-09 21:57:33,277 - INFO - [257510] The Talos Principle
+2026-03-09 21:57:33,277 - INFO - [257850] Hyper Light Drifter
+2026-03-09 21:57:33,277 - INFO - [258180] Deus Ex: The Fall
+2026-03-09 21:57:33,278 - INFO - [258520] The Vanishing of Ethan Carter
+2026-03-09 21:57:33,278 - INFO - [258910] Citizens of Earth
+2026-03-09 21:57:33,278 - INFO - [258970] Gauntlet™ 
+2026-03-09 21:57:33,278 - INFO - [259130] Wasteland 1 - The Original Classic
+2026-03-09 21:57:33,278 - INFO - [259530] Savant - Ascent
+2026-03-09 21:57:33,278 - INFO - [259830] Wooden Sen'SeY
+2026-03-09 21:57:33,278 - INFO - [260230] Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™
+2026-03-09 21:57:33,279 - INFO - [260510] World Basketball Tycoon
+2026-03-09 21:57:33,279 - INFO - [260750] Neighbours from Hell
+2026-03-09 21:57:33,279 - INFO - [260770] Neighbours from Hell 2
+2026-03-09 21:57:33,279 - INFO - [260790] 1001 Spikes
+2026-03-09 21:57:33,279 - INFO - [261110] Killer is Dead
+2026-03-09 21:57:33,279 - INFO - [261180] Lethal League
+2026-03-09 21:57:33,280 - INFO - [261570] Ori and the Blind Forest
+2026-03-09 21:57:33,280 - INFO - [261640] Borderlands: The Pre-Sequel
+2026-03-09 21:57:33,280 - INFO - [262060] Darkest Dungeon®
+2026-03-09 21:57:33,280 - INFO - [262150] Vanguard Princess
+2026-03-09 21:57:33,280 - INFO - [262280] Dungeons 2
+2026-03-09 21:57:33,280 - INFO - [262690] Little Racers STREET
+2026-03-09 21:57:33,280 - INFO - [262870] Recovery Search and Rescue Simulation 
+2026-03-09 21:57:33,281 - INFO - [263280] Spintires®
+2026-03-09 21:57:33,281 - INFO - [263300] BlazBlue: Calamity Trigger
+2026-03-09 21:57:33,281 - INFO - [263320] Saturday Morning RPG
+2026-03-09 21:57:33,281 - INFO - [263620] Mitsurugi Kamui Hikae
+2026-03-09 21:57:33,281 - INFO - [263840] Out of the Park Baseball 14
+2026-03-09 21:57:33,282 - INFO - [264690] Coin Crypt
+2026-03-09 21:57:33,282 - INFO - [265300] Lords Of The Fallen
+2026-03-09 21:57:33,282 - INFO - [265400] FX Football - The Manager for Every Football Fan
+2026-03-09 21:57:33,282 - INFO - [265590] The Red Solstice
+2026-03-09 21:57:33,282 - INFO - [265610] Epic Battle Fantasy 4
+2026-03-09 21:57:33,282 - INFO - [265890] Hexcells
+2026-03-09 21:57:33,282 - INFO - [265930] Goat Simulator
+2026-03-09 21:57:33,282 - INFO - [266110] Tower of Guns
+2026-03-09 21:57:33,283 - INFO - [266130] Breach & Clear
+2026-03-09 21:57:33,283 - INFO - [266210] One Way Heroics
+2026-03-09 21:57:33,283 - INFO - [266510] Hand of Fate
+2026-03-09 21:57:33,283 - INFO - [266840] Age of Mythology: Extended Edition
+2026-03-09 21:57:33,283 - INFO - [267490] Batman™: Arkham Origins Blackgate - Deluxe Edition
+2026-03-09 21:57:33,283 - INFO - [267750] Shadowrun Chronicles - Boston Lockdown
+2026-03-09 21:57:33,283 - INFO - [267790] DARK BLOOD ONLINE
+2026-03-09 21:57:33,284 - INFO - [267900] Guilty Gear Isuka
+2026-03-09 21:57:33,284 - INFO - [267960] Hyper Fighters
+2026-03-09 21:57:33,284 - INFO - [267980] Hostile Waters: Antaeus Rising
+2026-03-09 21:57:33,284 - INFO - [268500] XCOM 2
+2026-03-09 21:57:33,284 - INFO - [268870] Satellite Reign
+2026-03-09 21:57:33,284 - INFO - [268910] Cuphead
+2026-03-09 21:57:33,284 - INFO - [269190] Edge Of Eternity
+2026-03-09 21:57:33,285 - INFO - [269650] Dex
+2026-03-09 21:57:33,285 - INFO - [269710] Tumblestone
+2026-03-09 21:57:33,285 - INFO - [270150] RUNNING WITH RIFLES
+2026-03-09 21:57:33,285 - INFO - [270550] Yet Another Zombie Defense
+2026-03-09 21:57:33,285 - INFO - [270850] Car Mechanic Simulator 2014
+2026-03-09 21:57:33,285 - INFO - [270880] American Truck Simulator
+2026-03-09 21:57:33,285 - INFO - [271240] Offworld Trading Company
+2026-03-09 21:57:33,286 - INFO - [271290] HAWKEN
+2026-03-09 21:57:33,286 - INFO - [271570] Space Farmers
+2026-03-09 21:57:33,286 - INFO - [271590] Grand Theft Auto V Legacy
+2026-03-09 21:57:33,286 - INFO - [271900] Hexcells Plus
+2026-03-09 21:57:33,286 - INFO - [272270] Torment: Tides of Numenera
+2026-03-09 21:57:33,286 - INFO - [272470] The Incredible Adventures of Van Helsing II
+2026-03-09 21:57:33,286 - INFO - [273350] Evolve Stage 2
+2026-03-09 21:57:33,286 - INFO - [273820] Mining & Tunneling Simulator
+2026-03-09 21:57:33,287 - INFO - [274170] Hotline Miami 2: Wrong Number
+2026-03-09 21:57:33,287 - INFO - [274250] OlliOlli
+2026-03-09 21:57:33,287 - INFO - [274520] Darkwood
+2026-03-09 21:57:33,287 - INFO - [274900] Murder Miners
+2026-03-09 21:57:33,287 - INFO - [274980] Influent
+2026-03-09 21:57:33,287 - INFO - [275180] Costume Quest 2
+2026-03-09 21:57:33,287 - INFO - [275200] Westerado: Double Barreled
+2026-03-09 21:57:33,287 - INFO - [275390] Guacamelee! Super Turbo Championship Edition
+2026-03-09 21:57:33,287 - INFO - [277890] Shantae: Risky's Revenge - Director's Cut
+2026-03-09 21:57:33,288 - INFO - [278100] RIVE
+2026-03-09 21:57:33,288 - INFO - [278360] A Story About My Uncle
+2026-03-09 21:57:33,288 - INFO - [278910] Interplanetary
+2026-03-09 21:57:33,288 - INFO - [280160] Aragami
+2026-03-09 21:57:33,288 - INFO - [280180] Hover
+2026-03-09 21:57:33,288 - INFO - [280200] Eterium
+2026-03-09 21:57:33,288 - INFO - [281200] A Boy and His Blob
+2026-03-09 21:57:33,288 - INFO - [281610] Homeworld: Deserts of Kharak
+2026-03-09 21:57:33,289 - INFO - [281640] The Banner Saga 2
+2026-03-09 21:57:33,289 - INFO - [281690] The Legend of Korra™
+2026-03-09 21:57:33,289 - INFO - [282070] This War of Mine
+2026-03-09 21:57:33,289 - INFO - [282140] SOMA
+2026-03-09 21:57:33,289 - INFO - [282440] Quake Live
+2026-03-09 21:57:33,289 - INFO - [283270] Jagged Alliance Gold
+2026-03-09 21:57:33,289 - INFO - [283290] Nosferatu: The Wrath of Malachi
+2026-03-09 21:57:33,289 - INFO - [283350] Eurofighter Typhoon
+2026-03-09 21:57:33,290 - INFO - [283680] Astebreed: Definitive Edition
+2026-03-09 21:57:33,290 - INFO - [284050] Sanitarium
+2026-03-09 21:57:33,290 - INFO - [284970] Project Root
+2026-03-09 21:57:33,290 - INFO - [285160] LEGO® The Hobbit™
+2026-03-09 21:57:33,290 - INFO - [285190] Warhammer 40,000: Dawn of War III
+2026-03-09 21:57:33,290 - INFO - [285310] RollerCoaster Tycoon: Deluxe
+2026-03-09 21:57:33,290 - INFO - [285330] RollerCoaster Tycoon 2: Triple Thrill Pack
+2026-03-09 21:57:33,290 - INFO - [285440] Crimzon Clover  WORLD IGNITION
+2026-03-09 21:57:33,291 - INFO - [286160] Tabletop Simulator
+2026-03-09 21:57:33,291 - INFO - [286570] F1 2015
+2026-03-09 21:57:33,291 - INFO - [287100] Chaos Domain
+2026-03-09 21:57:33,291 - INFO - [287120] Ionball 2 : Ionstorm
+2026-03-09 21:57:33,291 - INFO - [287260] Toybox Turbos
+2026-03-09 21:57:33,291 - INFO - [287290] Resident Evil Revelations 2
+2026-03-09 21:57:33,291 - INFO - [287340] Colin McRae Rally
+2026-03-09 21:57:33,291 - INFO - [287630] The Council
+2026-03-09 21:57:33,292 - INFO - [287700] METAL GEAR SOLID V: THE PHANTOM PAIN
+2026-03-09 21:57:33,292 - INFO - [287980] Mini Metro
+2026-03-09 21:57:33,292 - INFO - [288710] Demolition Master 3D
+2026-03-09 21:57:33,292 - INFO - [289070] Sid Meier's Civilization VI
+2026-03-09 21:57:33,292 - INFO - [289130] ENDLESS™ Legend
+2026-03-09 21:57:33,292 - INFO - [289690] Lara Croft and the Temple of Osiris
+2026-03-09 21:57:33,292 - INFO - [289930] TransOcean: The Shipping Company
+2026-03-09 21:57:33,293 - INFO - [289950] Construction-Simulator 2015
+2026-03-09 21:57:33,293 - INFO - [290340] Armello
+2026-03-09 21:57:33,293 - INFO - [291050] Planet Stronghold
+2026-03-09 21:57:33,293 - INFO - [291410] Duelyst
+2026-03-09 21:57:33,293 - INFO - [291480] Warface: Clutch
+2026-03-09 21:57:33,293 - INFO - [291650] Pillars of Eternity
+2026-03-09 21:57:33,293 - INFO - [292030] The Witcher 3: Wild Hunt
+2026-03-09 21:57:33,293 - INFO - [292120] FINAL FANTASY XIII
+2026-03-09 21:57:33,294 - INFO - [292140] FINAL FANTASY XIII-2
+2026-03-09 21:57:33,294 - INFO - [292380] Racer 8
+2026-03-09 21:57:33,294 - INFO - [292500] Kero Blaster
+2026-03-09 21:57:33,294 - INFO - [292600] Duet
+2026-03-09 21:57:33,294 - INFO - [292630] Uriel's Chasm
+2026-03-09 21:57:33,294 - INFO - [292730] Call of Duty: Infinite Warfare
+2026-03-09 21:57:33,294 - INFO - [293780] Crawl
+2026-03-09 21:57:33,295 - INFO - [294000] Knight Squad
+2026-03-09 21:57:33,295 - INFO - [294810] BlazBlue: Continuum Shift Extend
+2026-03-09 21:57:33,295 - INFO - [294860] Valkyria Chronicles™
+2026-03-09 21:57:33,295 - INFO - [295790] Never Alone (Kisima Ingitchuna)
+2026-03-09 21:57:33,295 - INFO - [297020] The Culling Of The Cows
+2026-03-09 21:57:33,295 - INFO - [297130] Titan Souls
+2026-03-09 21:57:33,295 - INFO - [297490] Spy Chameleon - RGB Agent
+2026-03-09 21:57:33,295 - INFO - [299030] Blood: One Unit Whole Blood
+2026-03-09 21:57:33,296 - INFO - [299460] Woodle Tree Adventures
+2026-03-09 21:57:33,296 - INFO - [299500] International Snooker
+2026-03-09 21:57:33,296 - INFO - [299720] Terrorhedron
+2026-03-09 21:57:33,296 - INFO - [299890] Franchise Hockey Manager 2014
+2026-03-09 21:57:33,296 - INFO - [299950] GET EVEN
+2026-03-09 21:57:33,296 - INFO - [300060] ADR1FT
+2026-03-09 21:57:33,296 - INFO - [300380] Road Redemption
+2026-03-09 21:57:33,297 - INFO - [300550] Shadowrun: Dragonfall - Director's Cut
+2026-03-09 21:57:33,297 - INFO - [300580] GALAK-Z
+2026-03-09 21:57:33,297 - INFO - [301120] Eastside Hockey Manager
+2026-03-09 21:57:33,297 - INFO - [301360] Kill Fun Yeah
+2026-03-09 21:57:33,297 - INFO - [301640] Zombie Army Trilogy
+2026-03-09 21:57:33,297 - INFO - [301910] Saints Row: Gat out of Hell
+2026-03-09 21:57:33,297 - INFO - [301970] Screencheat
+2026-03-09 21:57:33,297 - INFO - [303210] The Beginner's Guide
+2026-03-09 21:57:33,298 - INFO - [303390] Dead Bits
+2026-03-09 21:57:33,298 - INFO - [304240] Resident Evil
+2026-03-09 21:57:33,298 - INFO - [304390] FOR HONOR
+2026-03-09 21:57:33,298 - INFO - [304410] Hexcells Infinite
+2026-03-09 21:57:33,298 - INFO - [304430] INSIDE
+2026-03-09 21:57:33,298 - INFO - [304650] Sunless Sea
+2026-03-09 21:57:33,298 - INFO - [305050] Outland
+2026-03-09 21:57:33,298 - INFO - [305620] The Long Dark
+2026-03-09 21:57:33,298 - INFO - [306130] The Elder Scrolls Online
+2026-03-09 21:57:33,298 - INFO - [306660] Ultimate General: Gettysburg
+2026-03-09 21:57:33,299 - INFO - [307110] We Need To Go Deeper
+2026-03-09 21:57:33,299 - INFO - [307270] Super Lemonade Factory
+2026-03-09 21:57:33,299 - INFO - [307580] Technobabylon
+2026-03-09 21:57:33,299 - INFO - [307670] Hard West
+2026-03-09 21:57:33,299 - INFO - [307690] Sleeping Dogs: Definitive Edition
+2026-03-09 21:57:33,299 - INFO - [308040] Back to Bed
+2026-03-09 21:57:33,299 - INFO - [308060] Black The Fall
+2026-03-09 21:57:33,299 - INFO - [308320] Total Pro Golf 3
+2026-03-09 21:57:33,299 - INFO - [308420] Ziggurat
+2026-03-09 21:57:33,300 - INFO - [308600] Skillshot City
+2026-03-09 21:57:33,300 - INFO - [310380] Fractured Space
+2026-03-09 21:57:33,300 - INFO - [310560] DiRT Rally
+2026-03-09 21:57:33,300 - INFO - [310790] Geometry Wars 3: Dimensions Evolved
+2026-03-09 21:57:33,300 - INFO - [310950] Street Fighter V
+2026-03-09 21:57:33,300 - INFO - [311340] METAL GEAR SOLID V: GROUND ZEROES
+2026-03-09 21:57:33,300 - INFO - [311730] Dead or Alive 5 Last Round
+2026-03-09 21:57:33,300 - INFO - [312200] Chasm
+2026-03-09 21:57:33,300 - INFO - [312520] Rain World
+2026-03-09 21:57:33,301 - INFO - [312530] Duck Game
+2026-03-09 21:57:33,301 - INFO - [312660] Sniper Elite 4
+2026-03-09 21:57:33,301 - INFO - [312670] Strange Brigade
+2026-03-09 21:57:33,301 - INFO - [312750] Final Fantasy IV (3D Remake)
+2026-03-09 21:57:33,301 - INFO - [312840] Fahrenheit: Indigo Prophecy Remastered
+2026-03-09 21:57:33,301 - INFO - [313400] REVOLVER360 RE:ACTOR
+2026-03-09 21:57:33,301 - INFO - [314030] Guilty Gear X2 #Reload
+2026-03-09 21:57:33,301 - INFO - [314150] Double Dragon Trilogy
+2026-03-09 21:57:33,302 - INFO - [314410] Rampage Knights
+2026-03-09 21:57:33,302 - INFO - [314710] Mighty No. 9
+2026-03-09 21:57:33,302 - INFO - [314790] Silence
+2026-03-09 21:57:33,302 - INFO - [314830] Blackguards 2
+2026-03-09 21:57:33,302 - INFO - [316010] Magic Duels
+2026-03-09 21:57:33,302 - INFO - [316790] Grim Fandango Remastered
+2026-03-09 21:57:33,302 - INFO - [317060] Attractio
+2026-03-09 21:57:33,302 - INFO - [317280] Solstice
+2026-03-09 21:57:33,303 - INFO - [318600] The Flame in the Flood
+2026-03-09 21:57:33,303 - INFO - [319480] Odallus: The Dark Call
+2026-03-09 21:57:33,303 - INFO - [319630] Life is Strange™
+2026-03-09 21:57:33,303 - INFO - [319910] Trine 3: The Artifacts of Power
+2026-03-09 21:57:33,303 - INFO - [320040] Moon Hunters
+2026-03-09 21:57:33,303 - INFO - [320140] Absolute Drift
+2026-03-09 21:57:33,303 - INFO - [320240] We Happy Few
+2026-03-09 21:57:33,303 - INFO - [321040] DiRT 3 Complete Edition
+2026-03-09 21:57:33,304 - INFO - [321360] Primal Carnage: Extinction
+2026-03-09 21:57:33,304 - INFO - [321800] Icewind Dale: Enhanced Edition
+2026-03-09 21:57:33,304 - INFO - [322190] SteamWorld Heist
+2026-03-09 21:57:33,304 - INFO - [322290] Gurumin: A Monstrous Adventure
+2026-03-09 21:57:33,304 - INFO - [322330] Don't Starve Together
+2026-03-09 21:57:33,304 - INFO - [322450] FRAMED Collection
+2026-03-09 21:57:33,304 - INFO - [323190] Frostpunk
+2026-03-09 21:57:33,304 - INFO - [323320] Grow Home
+2026-03-09 21:57:33,305 - INFO - [323460] Raiden IV: OverKill
+2026-03-09 21:57:33,305 - INFO - [323580] Jotun: Valhalla Edition
+2026-03-09 21:57:33,305 - INFO - [323850] Move or Die
+2026-03-09 21:57:33,305 - INFO - [324090] Football Club Simulator - FCS #21
+2026-03-09 21:57:33,305 - INFO - [324510] Boundless
+2026-03-09 21:57:33,305 - INFO - [324650] Gemini: Heroes Reborn
+2026-03-09 21:57:33,305 - INFO - [324740] The Warlock of Firetop Mountain
+2026-03-09 21:57:33,305 - INFO - [326410] Windward
+2026-03-09 21:57:33,305 - INFO - [327030] Worms W.M.D
+2026-03-09 21:57:33,306 - INFO - [327310] The Marvellous Miss Take
+2026-03-09 21:57:33,306 - INFO - [329440] Sonic Lost World
+2026-03-09 21:57:33,306 - INFO - [330020] Children of Morta
+2026-03-09 21:57:33,306 - INFO - [330830] Tales from the Borderlands
+2026-03-09 21:57:33,306 - INFO - [331480] Pinstripe
+2026-03-09 21:57:33,306 - INFO - [331600] ONE PIECE PIRATE WARRIORS 3
+2026-03-09 21:57:33,306 - INFO - [331870] AER Memories of Old
+2026-03-09 21:57:33,306 - INFO - [332200] Axiom Verge
+2026-03-09 21:57:33,306 - INFO - [332500] GRAV
+2026-03-09 21:57:33,307 - INFO - [332620] PONCHO
+2026-03-09 21:57:33,307 - INFO - [333300] ADOM (Ancient Domains Of Mystery)
+2026-03-09 21:57:33,307 - INFO - [334940] Yoku's Island Express
+2026-03-09 21:57:33,307 - INFO - [335300] DARK SOULS™ II: Scholar of the First Sin
+2026-03-09 21:57:33,307 - INFO - [335670] LISA
+2026-03-09 21:57:33,307 - INFO - [336060] Raptor: Call of The Shadows - 2015 Edition
+2026-03-09 21:57:33,308 - INFO - [336940] Welcome to Basingstoke
+2026-03-09 21:57:33,308 - INFO - [337000] Deus Ex: Mankind Divided™
+2026-03-09 21:57:33,308 - INFO - [337340] Finding Paradise
+2026-03-09 21:57:33,308 - INFO - [338170] Ratz Instagib
+2026-03-09 21:57:33,308 - INFO - [339200] Oceanhorn: Monster of Uncharted Seas
+2026-03-09 21:57:33,308 - INFO - [339340] Resident Evil 0
+2026-03-09 21:57:33,308 - INFO - [339400] Runestone Keeper
+2026-03-09 21:57:33,309 - INFO - [340150] Basement
+2026-03-09 21:57:33,309 - INFO - [340170] FINAL FANTASY TYPE-0 HD
+2026-03-09 21:57:33,309 - INFO - [340490] Subterrain
+2026-03-09 21:57:33,309 - INFO - [341870] Tembo The Badass Elephant
+2026-03-09 21:57:33,309 - INFO - [343860] Tacoma
+2026-03-09 21:57:33,309 - INFO - [345180] Victor Vran
+2026-03-09 21:57:33,309 - INFO - [345350] LIGHTNING RETURNS: FINAL FANTASY XIII
+2026-03-09 21:57:33,310 - INFO - [345820] Shantae and the Pirate's Curse
+2026-03-09 21:57:33,310 - INFO - [346010] Besiege
+2026-03-09 21:57:33,310 - INFO - [346110] ARK: Survival Evolved
+2026-03-09 21:57:33,310 - INFO - [346830] FINAL FANTASY IV: THE AFTER YEARS
+2026-03-09 21:57:33,310 - INFO - [346940] Shadowrun: Hong Kong - Extended Edition
+2026-03-09 21:57:33,310 - INFO - [347290] Rise & Shine
+2026-03-09 21:57:33,310 - INFO - [347800] Ghost Song
+2026-03-09 21:57:33,310 - INFO - [348550] GUILTY GEAR XX ACCENT CORE PLUS R
+2026-03-09 21:57:33,311 - INFO - [349040] NARUTO SHIPPUDEN: Ultimate Ninja STORM 4
+2026-03-09 21:57:33,311 - INFO - [349730] Popup Dungeon
+2026-03-09 21:57:33,311 - INFO - [350640] Sherlock Holmes: The Devil's Daughter
+2026-03-09 21:57:33,311 - INFO - [351090] Regency Solitaire
+2026-03-09 21:57:33,311 - INFO - [351100] Niffelheim
+2026-03-09 21:57:33,311 - INFO - [351920] Crazy Machines 3
+2026-03-09 21:57:33,311 - INFO - [351970] Tales of Zestiria
+2026-03-09 21:57:33,311 - INFO - [355050] Sky Force Anniversary
+2026-03-09 21:57:33,311 - INFO - [355130] MotoGP™15
+2026-03-09 21:57:33,311 - INFO - [355790] Styx: Shards of Darkness
+2026-03-09 21:57:33,312 - INFO - [355800] Space Run Galaxy
+2026-03-09 21:57:33,312 - INFO - [356190] Middle-earth™: Shadow of War™
+2026-03-09 21:57:33,312 - INFO - [356650] Death's Gambit: Afterlife
+2026-03-09 21:57:33,312 - INFO - [357300] Snakebird
+2026-03-09 21:57:33,312 - INFO - [357310] Oriental Empires
+2026-03-09 21:57:33,312 - INFO - [359100] Q.U.B.E. 2
+2026-03-09 21:57:33,312 - INFO - [359310] Evoland 2
+2026-03-09 21:57:33,313 - INFO - [359320] Elite Dangerous
+2026-03-09 21:57:33,313 - INFO - [359580] Uncanny Valley
+2026-03-09 21:57:33,313 - INFO - [359840] Shift Happens
+2026-03-09 21:57:33,313 - INFO - [359870] FINAL FANTASY X/X-2 HD Remaster
+2026-03-09 21:57:33,313 - INFO - [360430] Mafia III: Definitive Edition
+2026-03-09 21:57:33,313 - INFO - [360740] Downwell
+2026-03-09 21:57:33,313 - INFO - [360830] Yooka-Laylee
+2026-03-09 21:57:33,314 - INFO - [360940] The Mean Greens - Plastic Warfare
+2026-03-09 21:57:33,314 - INFO - [361230] Super Daryl Deluxe
+2026-03-09 21:57:33,314 - INFO - [362890] Black Mesa
+2026-03-09 21:57:33,314 - INFO - [363440] Mega Man Legacy Collection
+2026-03-09 21:57:33,314 - INFO - [363600] Holy Potatoes! A Weapon Shop?!
+2026-03-09 21:57:33,314 - INFO - [364360] Total War: WARHAMMER
+2026-03-09 21:57:33,314 - INFO - [365160] Kona
+2026-03-09 21:57:33,315 - INFO - [365450] Hacknet
+2026-03-09 21:57:33,315 - INFO - [365660] OlliOlli2: Welcome to Olliwood
+2026-03-09 21:57:33,315 - INFO - [365960] rFactor 2
+2026-03-09 21:57:33,315 - INFO - [366320] Seasons after Fall
+2026-03-09 21:57:33,315 - INFO - [366640] Shiness: The Lightning Kingdom
+2026-03-09 21:57:33,315 - INFO - [367450] Poly Bridge
+2026-03-09 21:57:33,315 - INFO - [367500] Dragon's Dogma: Dark Arisen
+2026-03-09 21:57:33,315 - INFO - [367520] Hollow Knight
+2026-03-09 21:57:33,315 - INFO - [367540] Starbound - Unstable
+2026-03-09 21:57:33,316 - INFO - [368180] Polyball
+2026-03-09 21:57:33,316 - INFO - [368230] Kingdom: Classic
+2026-03-09 21:57:33,316 - INFO - [368260] Marvel's Midnight Suns
+2026-03-09 21:57:33,316 - INFO - [368390] The Darkside Detective
+2026-03-09 21:57:33,316 - INFO - [368420] Mirage: Arcane Warfare
+2026-03-09 21:57:33,316 - INFO - [368730] No Time To Explain Remastered
+2026-03-09 21:57:33,316 - INFO - [369070] Slain: Back from Hell
+2026-03-09 21:57:33,316 - INFO - [369990] Gremlins, Inc.
+2026-03-09 21:57:33,316 - INFO - [370360] TIS-100
+2026-03-09 21:57:33,316 - INFO - [370460] Arcana Heart 3 LOVE MAX!!!!!
+2026-03-09 21:57:33,317 - INFO - [370870] Dark Future: Blood Red States
+2026-03-09 21:57:33,317 - INFO - [371140] Aegis Defenders
+2026-03-09 21:57:33,317 - INFO - [372360] Tales of Symphonia
+2026-03-09 21:57:33,317 - INFO - [373180] Kung Fury: Street Rage - Ultimate Edition
+2026-03-09 21:57:33,317 - INFO - [373420] Divinity: Original Sin Enhanced Edition
+2026-03-09 21:57:33,317 - INFO - [373770] LiEat
+2026-03-09 21:57:33,317 - INFO - [373930] Sudden Strike 4
+2026-03-09 21:57:33,317 - INFO - [373990] Metrico+
+2026-03-09 21:57:33,317 - INFO - [374040] Portal Knights
+2026-03-09 21:57:33,318 - INFO - [374320] DARK SOULS™ III
+2026-03-09 21:57:33,318 - INFO - [374900] Agatha Christie - The ABC Murders
+2026-03-09 21:57:33,318 - INFO - [375230] Warhammer 40,000: Eternal Crusade
+2026-03-09 21:57:33,318 - INFO - [375820] Human Resource Machine
+2026-03-09 21:57:33,318 - INFO - [376300] GUILTY GEAR Xrd -SIGN-
+2026-03-09 21:57:33,318 - INFO - [377840] FINAL FANTASY IX
+2026-03-09 21:57:33,318 - INFO - [378540] The Surge
+2026-03-09 21:57:33,318 - INFO - [378860] Project CARS 2
+2026-03-09 21:57:33,318 - INFO - [379430] Kingdom Come: Deliverance
+2026-03-09 21:57:33,319 - INFO - [379720] DOOM
+2026-03-09 21:57:33,319 - INFO - [381120] Shoppe Keep
+2026-03-09 21:57:33,319 - INFO - [381210] Dead by Daylight
+2026-03-09 21:57:33,319 - INFO - [382050] Eon Altar
+2026-03-09 21:57:33,319 - INFO - [382900] FINAL FANTASY VI
+2026-03-09 21:57:33,319 - INFO - [383120] Empyrion - Galactic Survival
+2026-03-09 21:57:33,319 - INFO - [383150] Dead Island Definitive Edition
+2026-03-09 21:57:33,319 - INFO - [383180] Dead Island Riptide Definitive Edition
+2026-03-09 21:57:33,320 - INFO - [383270] Hue
+2026-03-09 21:57:33,320 - INFO - [383840] Nimbatus - The Space Drone Constructor
+2026-03-09 21:57:33,320 - INFO - [383980] Rivals of Aether
+2026-03-09 21:57:33,320 - INFO - [384110] Pathologic Classic HD
+2026-03-09 21:57:33,320 - INFO - [384190] ABZÛ
+2026-03-09 21:57:33,320 - INFO - [384250] Super Rude Bear Resurrection
+2026-03-09 21:57:33,320 - INFO - [384630] Aviary Attorney
+2026-03-09 21:57:33,320 - INFO - [385560] Shadow Complex Remastered
+2026-03-09 21:57:33,320 - INFO - [385710] INK
+2026-03-09 21:57:33,320 - INFO - [385760] NBA 2K17
+2026-03-09 21:57:33,321 - INFO - [385960] Russian Front
+2026-03-09 21:57:33,321 - INFO - [386010] Steambirds Alliance
+2026-03-09 21:57:33,321 - INFO - [386070] Planetary Annihilation: TITANS
+2026-03-09 21:57:33,321 - INFO - [386620] Cook, Serve, Delicious! 2!!
+2026-03-09 21:57:33,321 - INFO - [386940] Ultimate Chicken Horse
+2026-03-09 21:57:33,321 - INFO - [387290] Ori and the Blind Forest: Definitive Edition
+2026-03-09 21:57:33,321 - INFO - [388210] Day of the Tentacle Remastered
+2026-03-09 21:57:33,322 - INFO - [388410] Darksiders II Deathinitive Edition
+2026-03-09 21:57:33,322 - INFO - [388750] BlazBlue: Chronophantasma Extend
+2026-03-09 21:57:33,322 - INFO - [388880] Oxenfree
+2026-03-09 21:57:33,322 - INFO - [389140] Horizon Chase Turbo
+2026-03-09 21:57:33,322 - INFO - [389730] TEKKEN 7
+2026-03-09 21:57:33,322 - INFO - [390340] Umbrella Corps
+2026-03-09 21:57:33,322 - INFO - [390710] Acceleration of SUGURI 2
+2026-03-09 21:57:33,322 - INFO - [391220] Rise of the Tomb Raider
+2026-03-09 21:57:33,323 - INFO - [391540] Undertale
+2026-03-09 21:57:33,323 - INFO - [391720] Layers of Fear (2016)
+2026-03-09 21:57:33,323 - INFO - [392110] ENDLESS™ Space 2
+2026-03-09 21:57:33,323 - INFO - [393080] Call of Duty: Modern Warfare Remastered (2017)
+2026-03-09 21:57:33,323 - INFO - [393100] Call of Duty: Modern Warfare Remastered - Multiplayer
+2026-03-09 21:57:33,323 - INFO - [393190] TSIOQUE
+2026-03-09 21:57:33,323 - INFO - [393380] Squad
+2026-03-09 21:57:33,324 - INFO - [393420] Hurtworld
+2026-03-09 21:57:33,324 - INFO - [394160] ARCADE GAME SERIES: PAC-MAN
+2026-03-09 21:57:33,324 - INFO - [394310] Punch Club
+2026-03-09 21:57:33,324 - INFO - [394360] Hearts of Iron IV
+2026-03-09 21:57:33,324 - INFO - [394690] Tower Unite
+2026-03-09 21:57:33,324 - INFO - [395170] DISTRAINT: Deluxe Edition
+2026-03-09 21:57:33,324 - INFO - [396350] Bleed 2
+2026-03-09 21:57:33,325 - INFO - [396710] The Adventure Pals
+2026-03-09 21:57:33,325 - INFO - [396900] GRIP: Combat Racing
+2026-03-09 21:57:33,325 - INFO - [397060] Faeria
+2026-03-09 21:57:33,325 - INFO - [397080] Magicka 2: Spell Balance Beta
+2026-03-09 21:57:33,325 - INFO - [397330] Twinsen's Little Big Adventure Classic
+2026-03-09 21:57:33,325 - INFO - [397340] SimplePlanes
+2026-03-09 21:57:33,325 - INFO - [397540] Borderlands 3
+2026-03-09 21:57:33,326 - INFO - [397550] Deus Ex: Revision
+2026-03-09 21:57:33,326 - INFO - [398000] Twinsen's Little Big Adventure 2 Classic
+2026-03-09 21:57:33,326 - INFO - [398850] Epistory - Typing Chronicles
+2026-03-09 21:57:33,326 - INFO - [399780] Expand
+2026-03-09 21:57:33,326 - INFO - [399810] Call of Cthulhu
+2026-03-09 21:57:33,326 - INFO - [400080] Out of Space
+2026-03-09 21:57:33,326 - INFO - [400110] Else Heart.Break()
+2026-03-09 21:57:33,326 - INFO - [400430] The Vanishing of Ethan Carter Redux
+2026-03-09 21:57:33,327 - INFO - [400450] NeuroVoider
+2026-03-09 21:57:33,327 - INFO - [400630] Wuppo - Definitive Edition
+2026-03-09 21:57:33,327 - INFO - [401710] Flinthook
+2026-03-09 21:57:33,327 - INFO - [402390] Hyperdrive Massacre
+2026-03-09 21:57:33,327 - INFO - [402710] Osiris: New Dawn
+2026-03-09 21:57:33,327 - INFO - [403400] ARCADE GAME SERIES: DIG DUG
+2026-03-09 21:57:33,327 - INFO - [403430] ARCADE GAME SERIES: GALAGA
+2026-03-09 21:57:33,327 - INFO - [403970] The Dwarves
+2026-03-09 21:57:33,327 - INFO - [404540] Nex Machina
+2026-03-09 21:57:33,328 - INFO - [404590] Vikings - Wolves of Midgard
+2026-03-09 21:57:33,328 - INFO - [404730] Wasteland 2: Director's Cut
+2026-03-09 21:57:33,328 - INFO - [405500] Dangerous Golf
+2026-03-09 21:57:33,328 - INFO - [405640] Pony Island
+2026-03-09 21:57:33,328 - INFO - [405710] Staxel
+2026-03-09 21:57:33,328 - INFO - [405820] Turok
+2026-03-09 21:57:33,328 - INFO - [405830] Turok 2: Seeds of Evil
+2026-03-09 21:57:33,328 - INFO - [406970] The Uncertain: Last Quiet Day
+2026-03-09 21:57:33,328 - INFO - [407530] ARK: Survival Of The Fittest
+2026-03-09 21:57:33,329 - INFO - [407600] Raiden Legacy
+2026-03-09 21:57:33,329 - INFO - [407810] Hard Reset Redux
+2026-03-09 21:57:33,329 - INFO - [408410] X-Morph: Defense
+2026-03-09 21:57:33,329 - INFO - [409710] BioShock Remastered
+2026-03-09 21:57:33,329 - INFO - [409720] BioShock 2 Remastered
+2026-03-09 21:57:33,329 - INFO - [409870] Phantom Brave PC
+2026-03-09 21:57:33,329 - INFO - [410110] 12 is Better Than 6
+2026-03-09 21:57:33,329 - INFO - [410320] EARTH DEFENSE FORCE 4.1  The Shadow of New Despair
+2026-03-09 21:57:33,329 - INFO - [410900] Forts
+2026-03-09 21:57:33,330 - INFO - [411300] ELEX
+2026-03-09 21:57:33,330 - INFO - [412020] Metro Exodus
+2026-03-09 21:57:33,330 - INFO - [412830] STEINS;GATE
+2026-03-09 21:57:33,330 - INFO - [413150] Stardew Valley
+2026-03-09 21:57:33,330 - INFO - [414340] Hellblade: Senua's Sacrifice
+2026-03-09 21:57:33,330 - INFO - [414700] Outlast 2
+2026-03-09 21:57:33,331 - INFO - [415150] Pang Adventures
+2026-03-09 21:57:33,331 - INFO - [416600] Full Metal Furies
+2026-03-09 21:57:33,331 - INFO - [416680] Zombie Night Terror
+2026-03-09 21:57:33,331 - INFO - [417430] Moto Racer  4
+2026-03-09 21:57:33,331 - INFO - [418180] Tempest
+2026-03-09 21:57:33,331 - INFO - [418240] Shadow Tactics: Blades of the Shogun
+2026-03-09 21:57:33,331 - INFO - [418270] Draw Slasher
+2026-03-09 21:57:33,331 - INFO - [418340] RWBY: Grimm Eclipse
+2026-03-09 21:57:33,332 - INFO - [418370] Resident Evil 7 Biohazard
+2026-03-09 21:57:33,332 - INFO - [418460] Rising Storm 2: Vietnam
+2026-03-09 21:57:33,332 - INFO - [420290] Blackwake
+2026-03-09 21:57:33,332 - INFO - [420530] OneShot
+2026-03-09 21:57:33,332 - INFO - [421020] DiRT 4
+2026-03-09 21:57:33,332 - INFO - [421120] Samorost 3
+2026-03-09 21:57:33,332 - INFO - [421170] Indivisible
+2026-03-09 21:57:33,332 - INFO - [421740] Goetia
+2026-03-09 21:57:33,333 - INFO - [422250] ShipLord
+2026-03-09 21:57:33,333 - INFO - [422970] Devil Daggers
+2026-03-09 21:57:33,333 - INFO - [423230] Furi
+2026-03-09 21:57:33,333 - INFO - [423580] Project Highrise
+2026-03-09 21:57:33,333 - INFO - [423950] Deadlight Director’s Cut
+2026-03-09 21:57:33,333 - INFO - [424840] Little Nightmares
+2026-03-09 21:57:33,333 - INFO - [425220] ONE PIECE BURNING BLOOD
+2026-03-09 21:57:33,333 - INFO - [425410] Road to Ballhalla
+2026-03-09 21:57:33,333 - INFO - [425460] Tokyo Twilight Ghost Hunters Daybreak: Special Gigs
+2026-03-09 21:57:33,334 - INFO - [427290] Vampyr
+2026-03-09 21:57:33,334 - INFO - [427680] Zwei: The Arges Adventure
+2026-03-09 21:57:33,334 - INFO - [427700] Zwei: The Ilvard Insurrection
+2026-03-09 21:57:33,334 - INFO - [427820] Hitman GO: Definitive Edition
+2026-03-09 21:57:33,334 - INFO - [428430] Endorlight
+2026-03-09 21:57:33,334 - INFO - [428550] Momodora: Reverie Under the Moonlight
+2026-03-09 21:57:33,334 - INFO - [429660] Tales of Berseria
+2026-03-09 21:57:33,334 - INFO - [431240] Golf With Your Friends
+2026-03-09 21:57:33,335 - INFO - [431600] Automobilista
+2026-03-09 21:57:33,335 - INFO - [431930] Kabounce
+2026-03-09 21:57:33,335 - INFO - [431940] Wildfire
+2026-03-09 21:57:33,335 - INFO - [431960] Wallpaper Engine
+2026-03-09 21:57:33,335 - INFO - [432980] INVERSUS Deluxe
+2026-03-09 21:57:33,335 - INFO - [433450] INFERNO CLIMBER
+2026-03-09 21:57:33,335 - INFO - [433550] DARQ
+2026-03-09 21:57:33,335 - INFO - [433850] Z1 Battle Royale
+2026-03-09 21:57:33,335 - INFO - [433910] Neon Drive
+2026-03-09 21:57:33,335 - INFO - [434460] Rock of Ages 2
+2026-03-09 21:57:33,336 - INFO - [434650] Lost Castle
+2026-03-09 21:57:33,336 - INFO - [435150] Divinity: Original Sin 2
+2026-03-09 21:57:33,336 - INFO - [435400] Hidden Folks
+2026-03-09 21:57:33,336 - INFO - [435530] The Final Station
+2026-03-09 21:57:33,336 - INFO - [435790] 10 Second Ninja X
+2026-03-09 21:57:33,337 - INFO - [436180] Spacelords
+2026-03-09 21:57:33,337 - INFO - [437000] GUILTY GEAR 2 -OVERTURE-
+2026-03-09 21:57:33,337 - INFO - [437160] The Lion's Song
+2026-03-09 21:57:33,337 - INFO - [437570] GoNNER
+2026-03-09 21:57:33,337 - INFO - [437630] State of Mind
+2026-03-09 21:57:33,337 - INFO - [437920] Tricky Towers
+2026-03-09 21:57:33,337 - INFO - [438270] Learn Japanese To Survive - Hiragana Battle
+2026-03-09 21:57:33,337 - INFO - [438490] GOD EATER 2 Rage Burst
+2026-03-09 21:57:33,338 - INFO - [439190] Stories: The Path of Destinies
+2026-03-09 21:57:33,338 - INFO - [439700] H1Z1: Test Server
+2026-03-09 21:57:33,338 - INFO - [440550] RunGunJumpGun
+2026-03-09 21:57:33,338 - INFO - [440650] Niche - a genetics survival game
+2026-03-09 21:57:33,338 - INFO - [440900] Conan Exiles
+2026-03-09 21:57:33,338 - INFO - [441380] PAC-MAN™ CHAMPIONSHIP EDITION 2
+2026-03-09 21:57:33,338 - INFO - [442070] Drawful 2
+2026-03-09 21:57:33,338 - INFO - [442780] STRAFE: Gold Edition
+2026-03-09 21:57:33,338 - INFO - [443080] Elite Dangerous: Arena
+2026-03-09 21:57:33,339 - INFO - [443810] This Is the Police
+2026-03-09 21:57:33,339 - INFO - [443880] Loot Rascals
+2026-03-09 21:57:33,339 - INFO - [444090] Paladins
+2026-03-09 21:57:33,339 - INFO - [445190] Expeditions: Viking
+2026-03-09 21:57:33,339 - INFO - [445980] Wizard of Legend
+2026-03-09 21:57:33,339 - INFO - [446020] Jalopy
+2026-03-09 21:57:33,339 - INFO - [446840] Splasher
+2026-03-09 21:57:33,339 - INFO - [447120] Where the Water Tastes Like Wine
+2026-03-09 21:57:33,339 - INFO - [448510] Overcooked
+2026-03-09 21:57:33,340 - INFO - [448850] Overload
+2026-03-09 21:57:33,340 - INFO - [449960] Book of Demons
+2026-03-09 21:57:33,340 - INFO - [450670] Table Top Racing: World Tour
+2026-03-09 21:57:33,340 - INFO - [451020] Battle Chasers: Nightwar
+2026-03-09 21:57:33,340 - INFO - [452510] UNDER NIGHT IN-BIRTH Exe:Late
+2026-03-09 21:57:33,340 - INFO - [452570] Battle Chef Brigade
+2026-03-09 21:57:33,340 - INFO - [453910] Love is Dead
+2026-03-09 21:57:33,341 - INFO - [454410] GIGA WRECKER
+2026-03-09 21:57:33,341 - INFO - [455400] PAC-MAN 256
+2026-03-09 21:57:33,341 - INFO - [457210] SEUM: Speedrunners from Hell
+2026-03-09 21:57:33,341 - INFO - [457890] TumbleSeed
+2026-03-09 21:57:33,341 - INFO - [460790] Bayonetta
+2026-03-09 21:57:33,341 - INFO - [460810] Vanquish
+2026-03-09 21:57:33,341 - INFO - [460870] GOD EATER RESURRECTION
+2026-03-09 21:57:33,341 - INFO - [460950] Katana ZERO
+2026-03-09 21:57:33,342 - INFO - [461040] PICO PARK:Classic Edition
+2026-03-09 21:57:33,342 - INFO - [461950] Beat Cop
+2026-03-09 21:57:33,342 - INFO - [462780] Darksiders Warmastered Edition
+2026-03-09 21:57:33,342 - INFO - [463150] BARRIER X
+2026-03-09 21:57:33,342 - INFO - [464060] RUINER
+2026-03-09 21:57:33,342 - INFO - [464340] Syberia 3
+2026-03-09 21:57:33,342 - INFO - [464920] Surviving Mars
+2026-03-09 21:57:33,343 - INFO - [465200] Fury Unleashed
+2026-03-09 21:57:33,343 - INFO - [465760] Scrap Garden
+2026-03-09 21:57:33,343 - INFO - [466300] Planescape: Torment: Enhanced Edition
+2026-03-09 21:57:33,343 - INFO - [466560] Northgard: Definitive Edition
+2026-03-09 21:57:33,343 - INFO - [468930] Phantaruk
+2026-03-09 21:57:33,343 - INFO - [469600] Legion TD 2
+2026-03-09 21:57:33,343 - INFO - [470780] She Remembered Caterpillars
+2026-03-09 21:57:33,343 - INFO - [471010] Seven: Enhanced Edition
+2026-03-09 21:57:33,343 - INFO - [471810] Death Squared
+2026-03-09 21:57:33,344 - INFO - [473690] Absolver
+2026-03-09 21:57:33,344 - INFO - [474960] Quantum Break
+2026-03-09 21:57:33,344 - INFO - [475150] Titan Quest Anniversary Edition
+2026-03-09 21:57:33,344 - INFO - [475190] Scanner Sombre
+2026-03-09 21:57:33,344 - INFO - [475550] Beholder
+2026-03-09 21:57:33,344 - INFO - [476600] Call of Duty: WWII
+2026-03-09 21:57:33,344 - INFO - [476620] Call of Duty: WWII - Multiplayer
+2026-03-09 21:57:33,344 - INFO - [478980] Mansions of Madness
+2026-03-09 21:57:33,344 - INFO - [482400] System Shock
+2026-03-09 21:57:33,344 - INFO - [484900] Aven Colony
+2026-03-09 21:57:33,345 - INFO - [485030] PLANET ALPHA
+2026-03-09 21:57:33,345 - INFO - [485510] Nioh: Complete Edition
+2026-03-09 21:57:33,345 - INFO - [487250] Spaera
+2026-03-09 21:57:33,345 - INFO - [488730] God's Trigger
+2026-03-09 21:57:33,345 - INFO - [489140] Mr Shifty
+2026-03-09 21:57:33,345 - INFO - [489520] Minion Masters
+2026-03-09 21:57:33,345 - INFO - [489630] Warhammer 40,000: Gladius - Relics of War
+2026-03-09 21:57:33,345 - INFO - [490860] DashBored
+2026-03-09 21:57:33,345 - INFO - [491950] Orwell
+2026-03-09 21:57:33,346 - INFO - [492720] Tropico 6
+2026-03-09 21:57:33,346 - INFO - [493340] Planet Coaster
+2026-03-09 21:57:33,346 - INFO - [493540] Figment
+2026-03-09 21:57:33,346 - INFO - [493900] Dungeons 3
+2026-03-09 21:57:33,346 - INFO - [494720] Morphblade
+2026-03-09 21:57:33,346 - INFO - [495420] State of Decay 2
+2026-03-09 21:57:33,346 - INFO - [496300] Kingdom: New Lands
+2026-03-09 21:57:33,346 - INFO - [499520] The Turing Test
+2026-03-09 21:57:33,346 - INFO - [499890] Aaero
+2026-03-09 21:57:33,347 - INFO - [501320] The Shrouded Isle
+2026-03-09 21:57:33,347 - INFO - [501840] Don't Disturb
+2026-03-09 21:57:33,347 - INFO - [502500] ACE COMBAT™7: SKIES UNKNOWN
+2026-03-09 21:57:33,347 - INFO - [503560] 911 Operator
+2026-03-09 21:57:33,347 - INFO - [503940] Railway Empire
+2026-03-09 21:57:33,347 - INFO - [504130] Manual Samuel - Last Tuesday Edition
+2026-03-09 21:57:33,347 - INFO - [504210] SHENZHEN I/O
+2026-03-09 21:57:33,347 - INFO - [504230] Celeste
+2026-03-09 21:57:33,348 - INFO - [505230] Pathologic 2
+2026-03-09 21:57:33,348 - INFO - [505730] Holy Potatoes! We’re in Space?!
+2026-03-09 21:57:33,348 - INFO - [507490] Ashes of the Singularity: Escalation
+2026-03-09 21:57:33,348 - INFO - [508530] HackyZack
+2026-03-09 21:57:33,348 - INFO - [508790] Flat Heroes
+2026-03-09 21:57:33,348 - INFO - [510420] The Hex
+2026-03-09 21:57:33,348 - INFO - [512300] Unbox
+2026-03-09 21:57:33,349 - INFO - [513780] Turbo Pug DX
+2026-03-09 21:57:33,349 - INFO - [514900] Observer
+2026-03-09 21:57:33,349 - INFO - [516110] ToeJam & Earl: Back in the Groove
+2026-03-09 21:57:33,349 - INFO - [517630] Just Cause 4
+2026-03-09 21:57:33,349 - INFO - [518060] Chess Ultra
+2026-03-09 21:57:33,349 - INFO - [518790] theHunter: Call of the Wild™
+2026-03-09 21:57:33,349 - INFO - [520440] GUILTY GEAR Xrd REV 2
+2026-03-09 21:57:33,349 - INFO - [520600] Purrfect Date
+2026-03-09 21:57:33,350 - INFO - [520720] Dear Esther: Landmark Edition
+2026-03-09 21:57:33,350 - INFO - [520950] DRIFT CE
+2026-03-09 21:57:33,350 - INFO - [521890] Hello Neighbor
+2026-03-09 21:57:33,350 - INFO - [522210] Serial Cleaner
+2026-03-09 21:57:33,350 - INFO - [522240] Pool Panic
+2026-03-09 21:57:33,350 - INFO - [523780] Emily is Away Too
+2026-03-09 21:57:33,350 - INFO - [524220] NieR:Automata™
+2026-03-09 21:57:33,350 - INFO - [525480] .hack//G.U. Last Recode
+2026-03-09 21:57:33,351 - INFO - [526160] The Wild Eight
+2026-03-09 21:57:33,351 - INFO - [528230] SYNTHETIK
+2026-03-09 21:57:33,351 - INFO - [529340] Victoria 3
+2026-03-09 21:57:33,351 - INFO - [529440] Behold the Kickmen
+2026-03-09 21:57:33,351 - INFO - [529660] Mages of Mystralia
+2026-03-09 21:57:33,351 - INFO - [530020] World to the West
+2026-03-09 21:57:33,351 - INFO - [530320] Wandersong
+2026-03-09 21:57:33,351 - INFO - [530620] Resident Evil 7 Teaser: Beginning Hour
+2026-03-09 21:57:33,351 - INFO - [532210] Life is Strange 2
+2026-03-09 21:57:33,352 - INFO - [534290] Cursed Castilla (Maldita Castilla EX)
+2026-03-09 21:57:33,352 - INFO - [534550] Guacamelee! 2
+2026-03-09 21:57:33,352 - INFO - [535480] Sundered: Eldritch Edition
+2026-03-09 21:57:33,352 - INFO - [535520] Nidhogg 2
+2026-03-09 21:57:33,352 - INFO - [535850] Micro Machines World Series
+2026-03-09 21:57:33,352 - INFO - [535930] Two Point Hospital
+2026-03-09 21:57:33,352 - INFO - [536270] Ancestors: The Humankind Odyssey 
+2026-03-09 21:57:33,352 - INFO - [536930] MOBIUS FINAL FANTASY
+2026-03-09 21:57:33,352 - INFO - [537340] Guts and Glory
+2026-03-09 21:57:33,352 - INFO - [537450] ReCore: Definitive Edition
+2026-03-09 21:57:33,353 - INFO - [537800] Bomber Crew
+2026-03-09 21:57:33,353 - INFO - [539470] Police Stories
+2026-03-09 21:57:33,353 - INFO - [540840] Lara Croft GO
+2026-03-09 21:57:33,353 - INFO - [543460] Dead Rising 4
+2026-03-09 21:57:33,353 - INFO - [544330] Snake Pass
+2026-03-09 21:57:33,353 - INFO - [544750] SOULCALIBUR VI
+2026-03-09 21:57:33,353 - INFO - [545270] NBA Playgrounds
+2026-03-09 21:57:33,353 - INFO - [548430] Deep Rock Galactic
+2026-03-09 21:57:33,354 - INFO - [550320] art of rally
+2026-03-09 21:57:33,354 - INFO - [552500] Warhammer: Vermintide 2
+2026-03-09 21:57:33,354 - INFO - [552590] The Sexy Brutale
+2026-03-09 21:57:33,354 - INFO - [552990] World of Warships
+2026-03-09 21:57:33,354 - INFO - [553310] Lethal League Blaze
+2026-03-09 21:57:33,354 - INFO - [554600] Learn Japanese To Survive! Katakana War
+2026-03-09 21:57:33,354 - INFO - [555000] GOAT OF DUTY
+2026-03-09 21:57:33,354 - INFO - [557340] My Friend Pedro
+2026-03-09 21:57:33,355 - INFO - [558420] Stories Untold
+2026-03-09 21:57:33,355 - INFO - [558990] Opus Magnum
+2026-03-09 21:57:33,355 - INFO - [559100] Phantom Doctrine
+2026-03-09 21:57:33,355 - INFO - [562500] Warstone TD
+2026-03-09 21:57:33,355 - INFO - [564310] Serious Sam Fusion 2017 (beta)
+2026-03-09 21:57:33,355 - INFO - [570050] Raiden V: Director's Cut
+2026-03-09 21:57:33,355 - INFO - [570460] Laser League: World Arena
+2026-03-09 21:57:33,355 - INFO - [570940] DARK SOULS™: REMASTERED
+2026-03-09 21:57:33,356 - INFO - [571310] SteamWorld Dig 2
+2026-03-09 21:57:33,356 - INFO - [572430] Party Hard 2 
+2026-03-09 21:57:33,356 - INFO - [573120] Dead In Vinland
+2026-03-09 21:57:33,356 - INFO - [573320] Underhero
+2026-03-09 21:57:33,356 - INFO - [573410] AI War 2
+2026-03-09 21:57:33,356 - INFO - [573600] Think of the Children
+2026-03-09 21:57:33,356 - INFO - [574090] MOTHERGUNSHIP
+2026-03-09 21:57:33,356 - INFO - [574720] Little Big Workshop
+2026-03-09 21:57:33,356 - INFO - [574980] Them's Fightin' Herds
+2026-03-09 21:57:33,357 - INFO - [576500] Evergarden
+2026-03-09 21:57:33,357 - INFO - [577940] Killer Instinct
+2026-03-09 21:57:33,357 - INFO - [578080] PUBG: BATTLEGROUNDS
+2026-03-09 21:57:33,357 - INFO - [579760] The Journey Down: Chapter Three
+2026-03-09 21:57:33,357 - INFO - [581270] Old Man's Journey
+2026-03-09 21:57:33,357 - INFO - [581660] Super Meat Boy Forever
+2026-03-09 21:57:33,357 - INFO - [582010] Monster Hunter: World
+2026-03-09 21:57:33,357 - INFO - [582270] Everything
+2026-03-09 21:57:33,357 - INFO - [582550] Passpartout: The Starving Artist
+2026-03-09 21:57:33,357 - INFO - [582560] The Invisible Hours
+2026-03-09 21:57:33,357 - INFO - [582660] Black Desert
+2026-03-09 21:57:33,358 - INFO - [584400] Sonic Mania
+2026-03-09 21:57:33,358 - INFO - [584980] Late Shift
+2026-03-09 21:57:33,358 - INFO - [585420] Trailmakers
+2026-03-09 21:57:33,358 - INFO - [585450] Shadows: Awakening
+2026-03-09 21:57:33,358 - INFO - [586140] BlazBlue Centralfiction
+2026-03-09 21:57:33,358 - INFO - [587620] Okami HD
+2026-03-09 21:57:33,358 - INFO - [588220] Tom Clancy's The Division Trial
+2026-03-09 21:57:33,358 - INFO - [588430] Fallout Shelter
+2026-03-09 21:57:33,358 - INFO - [588650] Dead Cells
+2026-03-09 21:57:33,358 - INFO - [588950] Kingsway
+2026-03-09 21:57:33,359 - INFO - [589360] Ni no Kuni™ II: Revenant Kingdom
+2026-03-09 21:57:33,359 - INFO - [590590] Remnants of Naezith
+2026-03-09 21:57:33,359 - INFO - [594050] Red Alliance
+2026-03-09 21:57:33,359 - INFO - [594570] Total War: WARHAMMER II
+2026-03-09 21:57:33,359 - INFO - [594650] Hunt: Showdown 1896
+2026-03-09 21:57:33,359 - INFO - [595140] Immortal Redneck
+2026-03-09 21:57:33,359 - INFO - [595520] FINAL FANTASY XII THE ZODIAC AGE
+2026-03-09 21:57:33,359 - INFO - [596970] Sunless Skies
+2026-03-09 21:57:33,360 - INFO - [597180] Old World
+2026-03-09 21:57:33,360 - INFO - [597760] Yuppie Psycho
+2026-03-09 21:57:33,360 - INFO - [597820] BIOMUTANT
+2026-03-09 21:57:33,360 - INFO - [598700] The Vagrant
+2026-03-09 21:57:33,360 - INFO - [598780] Boreal Blade
+2026-03-09 21:57:33,360 - INFO - [599140] Graveyard Keeper
+2026-03-09 21:57:33,360 - INFO - [600130] Valfaris
+2026-03-09 21:57:33,361 - INFO - [600370] Paradigm
+2026-03-09 21:57:33,361 - INFO - [601150] Devil May Cry 5
+2026-03-09 21:57:33,361 - INFO - [601840] Griftlands
+2026-03-09 21:57:33,361 - INFO - [602320] Train Valley 2
+2026-03-09 21:57:33,361 - INFO - [602960] Barotrauma
+2026-03-09 21:57:33,361 - INFO - [606150] Moonlighter
+2026-03-09 21:57:33,361 - INFO - [606280] Darksiders III
+2026-03-09 21:57:33,361 - INFO - [606730] Sine Mora EX
+2026-03-09 21:57:33,361 - INFO - [606880] GreedFall
+2026-03-09 21:57:33,362 - INFO - [607050] Wargroove
+2026-03-09 21:57:33,362 - INFO - [608800] Guns of Icarus Alliance
+2026-03-09 21:57:33,362 - INFO - [609490] Minit
+2026-03-09 21:57:33,362 - INFO - [609920] Hotshot Racing
+2026-03-09 21:57:33,362 - INFO - [610370] Desperados III
+2026-03-09 21:57:33,362 - INFO - [611500] Quake Champions
+2026-03-09 21:57:33,362 - INFO - [611760] Don't Escape: 4 Days to Survive
+2026-03-09 21:57:33,362 - INFO - [612390] Dandara: Trials of Fear Edition
+2026-03-09 21:57:33,362 - INFO - [612570] Fort Triumph
+2026-03-09 21:57:33,362 - INFO - [613100] House Flipper
+2026-03-09 21:57:33,363 - INFO - [613830] CHRONO TRIGGER
+2026-03-09 21:57:33,363 - INFO - [617290] Remnant: From the Ashes
+2026-03-09 21:57:33,363 - INFO - [618140] Barro
+2026-03-09 21:57:33,363 - INFO - [618740] Beat Hazard 2
+2026-03-09 21:57:33,363 - INFO - [619150] while True: learn()
+2026-03-09 21:57:33,363 - INFO - [619700] Steel Rats
+2026-03-09 21:57:33,363 - INFO - [619780] The Swords of Ditto: Mormo's Curse
+2026-03-09 21:57:33,363 - INFO - [620590] Ancestors Legacy
+2026-03-09 21:57:33,364 - INFO - [621060] PC Building Simulator
+2026-03-09 21:57:33,364 - INFO - [621830] WRC 7
+2026-03-09 21:57:33,364 - INFO - [623940] HIVESWAP: ACT 1
+2026-03-09 21:57:33,364 - INFO - [626660] Flipping Death
+2026-03-09 21:57:33,364 - INFO - [628200] The Invisible Hand
+2026-03-09 21:57:33,364 - INFO - [628670] Hellpoint
+2026-03-09 21:57:33,364 - INFO - [628950] Nephise Begins
+2026-03-09 21:57:33,364 - INFO - [629090] Horace
+2026-03-09 21:57:33,364 - INFO - [629760] MORDHAU
+2026-03-09 21:57:33,365 - INFO - [629820] Maneater
+2026-03-09 21:57:33,365 - INFO - [631510] Devil May Cry HD Collection
+2026-03-09 21:57:33,365 - INFO - [632360] Risk of Rain 2
+2026-03-09 21:57:33,365 - INFO - [632470] Disco Elysium
+2026-03-09 21:57:33,365 - INFO - [633060] Orwell: Ignorance is Strength
+2026-03-09 21:57:33,365 - INFO - [633130] Nongünz
+2026-03-09 21:57:33,365 - INFO - [633230] NARUTO TO BORUTO: SHINOBI STRIKER
+2026-03-09 21:57:33,366 - INFO - [633460] Tannenberg
+2026-03-09 21:57:33,366 - INFO - [635260] CarX Drift Racing Online
+2026-03-09 21:57:33,366 - INFO - [635320] Last Day of June
+2026-03-09 21:57:33,366 - INFO - [637090] BATTLETECH
+2026-03-09 21:57:33,366 - INFO - [637100] Sonic Forces
+2026-03-09 21:57:33,366 - INFO - [637650] FINAL FANTASY XV WINDOWS EDITION
+2026-03-09 21:57:33,366 - INFO - [638970] Yakuza 0
+2026-03-09 21:57:33,366 - INFO - [639790] DEEP SPACE WAIFU
+2026-03-09 21:57:33,367 - INFO - [640120] Youropa
+2026-03-09 21:57:33,367 - INFO - [640590] The LEGO® NINJAGO® Movie Video Game
+2026-03-09 21:57:33,367 - INFO - [640820] Pathfinder: Kingmaker
+2026-03-09 21:57:33,367 - INFO - [641990] The Escapists 2
+2026-03-09 21:57:33,367 - INFO - [643880] Strikey Sisters
+2026-03-09 21:57:33,367 - INFO - [644830] The Surge 2
+2026-03-09 21:57:33,367 - INFO - [646270] 60 Parsecs!
+2026-03-09 21:57:33,368 - INFO - [646570] Slay the Spire
+2026-03-09 21:57:33,368 - INFO - [648350] Jurassic World Evolution
+2026-03-09 21:57:33,368 - INFO - [648800] Raft
+2026-03-09 21:57:33,368 - INFO - [650220] Interplanetary: Enhanced Edition
+2026-03-09 21:57:33,368 - INFO - [650510] ZONE OF THE ENDERS THE 2nd RUNNER : MARS / ANUBIS ZONE OF THE ENDERS : MARS
+2026-03-09 21:57:33,368 - INFO - [651670] Star Renegades
+2026-03-09 21:57:33,368 - INFO - [654310] For Honor - Public Test
+2026-03-09 21:57:33,368 - INFO - [656970] MagiCat
+2026-03-09 21:57:33,368 - INFO - [658850] Do Not Feed the Monkeys
+2026-03-09 21:57:33,369 - INFO - [661940] Regular Human Basketball
+2026-03-09 21:57:33,369 - INFO - [666140] My Time at Portia
+2026-03-09 21:57:33,369 - INFO - [667600] Sky Force Reloaded
+2026-03-09 21:57:33,369 - INFO - [667720] Red Faction Guerrilla Re-Mars-tered
+2026-03-09 21:57:33,369 - INFO - [668550] 8Doors: Arum's Afterlife Adventure
+2026-03-09 21:57:33,369 - INFO - [668580] Atomic Heart
+2026-03-09 21:57:33,369 - INFO - [671510] Desolate
+2026-03-09 21:57:33,369 - INFO - [673190] All-Star Fruit Racing
+2026-03-09 21:57:33,369 - INFO - [673880] Warhammer 40,000: Mechanicus
+2026-03-09 21:57:33,370 - INFO - [674500] Total Tank Simulator
+2026-03-09 21:57:33,370 - INFO - [674520] Fight'N Rage
+2026-03-09 21:57:33,370 - INFO - [674940] Stick Fight: The Game
+2026-03-09 21:57:33,370 - INFO - [675010] MudRunner
+2026-03-09 21:57:33,370 - INFO - [676820] Subsurface Circular
+2026-03-09 21:57:33,371 - INFO - [677160] We Were Here Too
+2026-03-09 21:57:33,371 - INFO - [677620] Splitgate
+2026-03-09 21:57:33,371 - INFO - [678850] Uurnog Uurnlimited
+2026-03-09 21:57:33,371 - INFO - [678900] Farmer's Dynasty
+2026-03-09 21:57:33,371 - INFO - [678950] DRAGON BALL FighterZ
+2026-03-09 21:57:33,372 - INFO - [678960] CODE VEIN
+2026-03-09 21:57:33,372 - INFO - [680360] Regions Of Ruin
+2026-03-09 21:57:33,372 - INFO - [681280] Descenders
+2026-03-09 21:57:33,372 - INFO - [681730] Nowhere Prophet
+2026-03-09 21:57:33,373 - INFO - [683320] GRIS
+2026-03-09 21:57:33,373 - INFO - [684450] Surviving the Aftermath
+2026-03-09 21:57:33,373 - INFO - [684580] Shoppe Keep 2
+2026-03-09 21:57:33,373 - INFO - [684680] Polygoneer
+2026-03-09 21:57:33,373 - INFO - [686260] Forged Battalion
+2026-03-09 21:57:33,374 - INFO - [686600] Rapture Rejects
+2026-03-09 21:57:33,374 - INFO - [686810] Hell Let Loose
+2026-03-09 21:57:33,374 - INFO - [690040] SUPERHOT: MIND CONTROL DELETE
+2026-03-09 21:57:33,374 - INFO - [690140] Sword Legacy Omen
+2026-03-09 21:57:33,375 - INFO - [690640] Trine 4: The Nightmare Prince
+2026-03-09 21:57:33,375 - INFO - [690790] DiRT Rally 2.0
+2026-03-09 21:57:33,375 - INFO - [691830] Avernum 3: Ruined World
+2026-03-09 21:57:33,375 - INFO - [692850] Bloodstained: Ritual of the Night
+2026-03-09 21:57:33,375 - INFO - [692890] Roboquest
+2026-03-09 21:57:33,375 - INFO - [696480] The Norwood Suite
+2026-03-09 21:57:33,375 - INFO - [698670] Scorn
+2026-03-09 21:57:33,376 - INFO - [699130] World War Z
+2026-03-09 21:57:33,376 - INFO - [699920] Despotism 3k
+2026-03-09 21:57:33,376 - INFO - [700580] Rust - Staging Branch
+2026-03-09 21:57:33,376 - INFO - [701160] Kingdom Two Crowns
+2026-03-09 21:57:33,376 - INFO - [702150] Project Mercury
+2026-03-09 21:57:33,376 - INFO - [702890] BlazBlue Cross Tag Battle
+2026-03-09 21:57:33,376 - INFO - [703080] Planet Zoo
+2026-03-09 21:57:33,376 - INFO - [703860] GRID (2019)
+2026-03-09 21:57:33,376 - INFO - [703880] Swords and Soldiers 2 Shawarmageddon
+2026-03-09 21:57:33,377 - INFO - [704270] Generation Zero®
+2026-03-09 21:57:33,377 - INFO - [704450] Neverwinter Nights: Enhanced Edition
+2026-03-09 21:57:33,377 - INFO - [709440] Override
+2026-03-09 21:57:33,377 - INFO - [710920] Darksiders Genesis
+2026-03-09 21:57:33,377 - INFO - [712190] Genesis Alpha One Deluxe Edition
+2026-03-09 21:57:33,377 - INFO - [712730] SIMULACRA
+2026-03-09 21:57:33,377 - INFO - [714010] Aimlabs
+2026-03-09 21:57:33,378 - INFO - [714120] Little Misfortune
+2026-03-09 21:57:33,378 - INFO - [716490] EXAPUNKS
+2026-03-09 21:57:33,378 - INFO - [717610] A Case of Distrust
+2026-03-09 21:57:33,378 - INFO - [718650] Driftland: The Magic Revival
+2026-03-09 21:57:33,378 - INFO - [718670] Cultist Simulator
+2026-03-09 21:57:33,378 - INFO - [718850] Age of Wonders: Planetfall
+2026-03-09 21:57:33,378 - INFO - [719040] Wasteland 3
+2026-03-09 21:57:33,378 - INFO - [719750] PUSS!
+2026-03-09 21:57:33,378 - INFO - [722560] RAD
+2026-03-09 21:57:33,379 - INFO - [725480] Slap City
+2026-03-09 21:57:33,379 - INFO - [726710] RAZED
+2026-03-09 21:57:33,379 - INFO - [727130] Between the Stars
+2026-03-09 21:57:33,379 - INFO - [727850] ELDERBORN
+2026-03-09 21:57:33,379 - INFO - [728880] Overcooked! 2
+2026-03-09 21:57:33,379 - INFO - [729040] Borderlands GOTY Enhanced
+2026-03-09 21:57:33,379 - INFO - [730390] Raji: An Ancient Epic
+2026-03-09 21:57:33,379 - INFO - [731040] The Invincible
+2026-03-09 21:57:33,379 - INFO - [731490] Crash Bandicoot™ N. Sane Trilogy
+2026-03-09 21:57:33,380 - INFO - [732810] Slipstream
+2026-03-09 21:57:33,380 - INFO - [733790] Not Tonight
+2026-03-09 21:57:33,380 - INFO - [735290] Genesis Noir
+2026-03-09 21:57:33,380 - INFO - [735580] 11-11 Memories Retold
+2026-03-09 21:57:33,380 - INFO - [736260] Baba Is You
+2026-03-09 21:57:33,380 - INFO - [736820] Knights of Honor II: Sovereign
+2026-03-09 21:57:33,380 - INFO - [736850] We. The Revolution
+2026-03-09 21:57:33,380 - INFO - [737230] Rising Storm 2: Vietnam CTB Beta
+2026-03-09 21:57:33,380 - INFO - [737800] F1 2018
+2026-03-09 21:57:33,381 - INFO - [737870] Conduct DELUXE!
+2026-03-09 21:57:33,381 - INFO - [738540] Tales of Vesperia: Definitive Edition
+2026-03-09 21:57:33,381 - INFO - [739650] Drake Hollow
+2026-03-09 21:57:33,381 - INFO - [740080] Deadly Days
+2026-03-09 21:57:33,381 - INFO - [742120] DRAGON QUEST® XI: Echoes of an Elusive Age™
+2026-03-09 21:57:33,381 - INFO - [742420] Saints Row
+2026-03-09 21:57:33,381 - INFO - [743450] Monster Prom
+2026-03-09 21:57:33,381 - INFO - [744040] Street Heat
+2026-03-09 21:57:33,381 - INFO - [745920] Temtem
+2026-03-09 21:57:33,382 - INFO - [747350] Hellblade: Senua's Sacrifice VR Edition
+2026-03-09 21:57:33,382 - INFO - [748300] Treasure Hunter Simulator
+2026-03-09 21:57:33,382 - INFO - [750920] Shadow of the Tomb Raider
+2026-03-09 21:57:33,382 - INFO - [751780] Forager
+2026-03-09 21:57:33,382 - INFO - [751820] Black Future '88
+2026-03-09 21:57:33,382 - INFO - [752590] A Plague Tale: Innocence
+2026-03-09 21:57:33,382 - INFO - [753230] STAY
+2026-03-09 21:57:33,382 - INFO - [753650] Due Process
+2026-03-09 21:57:33,382 - INFO - [755790] Ring of Elysium
+2026-03-09 21:57:33,383 - INFO - [757310] Sable
+2026-03-09 21:57:33,383 - INFO - [757320] Atomicrops
+2026-03-09 21:57:33,383 - INFO - [758330] Shenmue I & II
+2026-03-09 21:57:33,383 - INFO - [759440] Learn Japanese To Survive! Kanji Combat
+2026-03-09 21:57:33,383 - INFO - [760060] Mutant Year Zero: Road to Eden
+2026-03-09 21:57:33,383 - INFO - [760160] Vampire: The Masquerade - Bloodhunt
+2026-03-09 21:57:33,383 - INFO - [760620] Deiland
+2026-03-09 21:57:33,383 - INFO - [760650] Hammerting
+2026-03-09 21:57:33,384 - INFO - [760810] Retimed
+2026-03-09 21:57:33,384 - INFO - [761030] EARTHLOCK
+2026-03-09 21:57:33,384 - INFO - [761830] Mr. Prepper
+2026-03-09 21:57:33,384 - INFO - [764790] The Messenger
+2026-03-09 21:57:33,384 - INFO - [765880] The Occupation
+2026-03-09 21:57:33,384 - INFO - [768200] Smalland: Survive the Wilds
+2026-03-09 21:57:33,384 - INFO - [768520] Red Solstice 2: Survivors
+2026-03-09 21:57:33,384 - INFO - [769840] Muddledash
+2026-03-09 21:57:33,384 - INFO - [769920] Odysseus Kosmos and his Robot Quest - Episode 1
+2026-03-09 21:57:33,385 - INFO - [770720] Hunt: Showdown 1896 (Test Server)
+2026-03-09 21:57:33,385 - INFO - [774171] Muse Dash
+2026-03-09 21:57:33,385 - INFO - [774201] Heaven's Vault
+2026-03-09 21:57:33,385 - INFO - [774241] Warhammer: Chaosbane
+2026-03-09 21:57:33,385 - INFO - [774361] Blasphemous
+2026-03-09 21:57:33,385 - INFO - [774861] Project Winter
+2026-03-09 21:57:33,385 - INFO - [774941] Squad - Public Testing
+2026-03-09 21:57:33,385 - INFO - [777880] Fluffy Horde
+2026-03-09 21:57:33,386 - INFO - [779290] Stygian: Reign of the Old Ones
+2026-03-09 21:57:33,386 - INFO - [782330] DOOM Eternal
+2026-03-09 21:57:33,386 - INFO - [783050] Bear With Me - Collector's Edition
+2026-03-09 21:57:33,386 - INFO - [784080] MechWarrior 5: Mercenaries
+2026-03-09 21:57:33,386 - INFO - [785740] This Is the Police 2
+2026-03-09 21:57:33,386 - INFO - [787810] Rogue Heroes: Ruins of Tasos
+2026-03-09 21:57:33,386 - INFO - [788100] Neon Abyss
+2026-03-09 21:57:33,386 - INFO - [790820] Valkyria Chronicles 4 Complete Edition
+2026-03-09 21:57:33,386 - INFO - [792100] 7 Billion Humans
+2026-03-09 21:57:33,387 - INFO - [792300] The Beast Inside
+2026-03-09 21:57:33,387 - INFO - [792710] Levelhead
+2026-03-09 21:57:33,387 - INFO - [793460] 112 Operator
+2026-03-09 21:57:33,387 - INFO - [794260] Outward
+2026-03-09 21:57:33,387 - INFO - [794540] Neo Cab
+2026-03-09 21:57:33,387 - INFO - [797400] Railroad Corporation
+2026-03-09 21:57:33,387 - INFO - [797410] Headsnatchers
+2026-03-09 21:57:33,387 - INFO - [797470] METAL GEAR SURVIVE BETA
+2026-03-09 21:57:33,387 - INFO - [798460] Ni no Kuni Wrath of the White Witch™ Remastered
+2026-03-09 21:57:33,387 - INFO - [798490] Othercide
+2026-03-09 21:57:33,388 - INFO - [798510] SUPER DRAGON BALL HEROES WORLD MISSION
+2026-03-09 21:57:33,388 - INFO - [802200] Hellbound: Survival Mode
+2026-03-09 21:57:33,388 - INFO - [802450] NAIRI: Tower of Shirin
+2026-03-09 21:57:33,388 - INFO - [803050] Per Aspera
+2026-03-09 21:57:33,388 - INFO - [803330] Destroy All Humans!
+2026-03-09 21:57:33,388 - INFO - [805550] Assetto Corsa Competizione
+2026-03-09 21:57:33,388 - INFO - [809890] Shining Resonance Refrain
+2026-03-09 21:57:33,388 - INFO - [811870] Verlet Swing
+2026-03-09 21:57:33,388 - INFO - [812160] Etherborn
+2026-03-09 21:57:33,389 - INFO - [812550] The King's Bird
+2026-03-09 21:57:33,389 - INFO - [813630] Supraland
+2026-03-09 21:57:33,389 - INFO - [813780] Age of Empires II: Definitive Edition
+2026-03-09 21:57:33,389 - INFO - [814370] Monster Sanctuary
+2026-03-09 21:57:33,389 - INFO - [820520] Deceive Inc.
+2026-03-09 21:57:33,389 - INFO - [824000] Hokko Life
+2026-03-09 21:57:33,389 - INFO - [826600] I’m not a Monster
+2026-03-09 21:57:33,390 - INFO - [826630] Iron Harvest
+2026-03-09 21:57:33,390 - INFO - [826940] Maid of Sker
+2026-03-09 21:57:33,390 - INFO - [828740] Tales of the Neon Sea
+2026-03-09 21:57:33,390 - INFO - [828900] The Stillness of the Wind
+2026-03-09 21:57:33,390 - INFO - [829590] CryoFall
+2026-03-09 21:57:33,390 - INFO - [830370] Monster Crown
+2026-03-09 21:57:33,390 - INFO - [831740] Circles of hell
+2026-03-09 21:57:33,391 - INFO - [833040] Hiveswap Friendsim
+2026-03-09 21:57:33,391 - INFO - [834530] Yakuza Kiwami (Legacy)
+2026-03-09 21:57:33,391 - INFO - [837880] You Suck at Parking® - Complete Edition
+2026-03-09 21:57:33,391 - INFO - [838410] Tabletop Playground
+2026-03-09 21:57:33,391 - INFO - [839770] Phoenix Point
+2026-03-09 21:57:33,391 - INFO - [840610] Fortune-499
+2026-03-09 21:57:33,391 - INFO - [841190] Honey, I Joined a Cult
+2026-03-09 21:57:33,391 - INFO - [843260] The Bard's Tale Trilogy
+2026-03-09 21:57:33,391 - INFO - [844050] Desert Child
+2026-03-09 21:57:33,392 - INFO - [844260] Rustler
+2026-03-09 21:57:33,392 - INFO - [844590] Hypnospace Outlaw
+2026-03-09 21:57:33,392 - INFO - [844870] KurtzPel
+2026-03-09 21:57:33,392 - INFO - [846870] Yooka-Laylee and the Impossible Lair
+2026-03-09 21:57:33,392 - INFO - [847370] Sunset Overdrive
+2026-03-09 21:57:33,392 - INFO - [848350] Katamari Damacy REROLL
+2026-03-09 21:57:33,392 - INFO - [850980] GUILTY GEAR
+2026-03-09 21:57:33,392 - INFO - [853550] Equilinox
+2026-03-09 21:57:33,392 - INFO - [854940] Ikenfell
+2026-03-09 21:57:33,393 - INFO - [857980] Void Bastards
+2026-03-09 21:57:33,393 - INFO - [858710] Gravity Circuit
+2026-03-09 21:57:33,393 - INFO - [858820] Tribes of Midgard
+2026-03-09 21:57:33,393 - INFO - [859570] Secret Neighbor
+2026-03-09 21:57:33,393 - INFO - [859580] Imperator: Rome
+2026-03-09 21:57:33,393 - INFO - [862480] The Spiral Scouts
+2026-03-09 21:57:33,393 - INFO - [863550] HITMAN™ 2
+2026-03-09 21:57:33,393 - INFO - [864680] Rover Mechanic Simulator
+2026-03-09 21:57:33,393 - INFO - [865360] We Were Here Together
+2026-03-09 21:57:33,394 - INFO - [865540] PLAYNE
+2026-03-09 21:57:33,394 - INFO - [865610] Tails Noir
+2026-03-09 21:57:33,394 - INFO - [868520] killer7
+2026-03-09 21:57:33,394 - INFO - [870200] Juno: New Origins
+2026-03-09 21:57:33,394 - INFO - [870780] Control Ultimate Edition
+2026-03-09 21:57:33,394 - INFO - [871420] Lovecraft's Untold Stories
+2026-03-09 21:57:33,394 - INFO - [871530] Radio Commander
+2026-03-09 21:57:33,394 - INFO - [873940] Crying Suns
+2026-03-09 21:57:33,395 - INFO - [874260] The Forgotten City
+2026-03-09 21:57:33,395 - INFO - [878580] GARAGE: Bad Trip
+2026-03-09 21:57:33,395 - INFO - [878670] Shenmue III
+2026-03-09 21:57:33,395 - INFO - [881020] Granblue Fantasy: Relink
+2026-03-09 21:57:33,396 - INFO - [882100] XCOM: Chimera Squad
+2026-03-09 21:57:33,396 - INFO - [883710] Resident Evil 2
+2026-03-09 21:57:33,396 - INFO - [889910] Hell Pie
+2026-03-09 21:57:33,396 - INFO - [890720] In Other Waters
+2026-03-09 21:57:33,396 - INFO - [892860] Hot Brass
+2026-03-09 21:57:33,396 - INFO - [892970] Valheim
+2026-03-09 21:57:33,396 - INFO - [893180] Catherine Classic
+2026-03-09 21:57:33,396 - INFO - [893680] Project Warlock
+2026-03-09 21:57:33,397 - INFO - [894020] Death's Door
+2026-03-09 21:57:33,397 - INFO - [895620] Spellcaster University
+2026-03-09 21:57:33,397 - INFO - [895870] Project Wingman
+2026-03-09 21:57:33,397 - INFO - [897030] Paratopic
+2026-03-09 21:57:33,397 - INFO - [897450] The Survivalists
+2026-03-09 21:57:33,397 - INFO - [898650] The Shapeshifting Detective
+2026-03-09 21:57:33,397 - INFO - [899310] Iron Danger
+2026-03-09 21:57:33,397 - INFO - [899440] GOD EATER 3
+2026-03-09 21:57:33,397 - INFO - [900010] Meeple Station
+2026-03-09 21:57:33,398 - INFO - [900040] ELEX II
+2026-03-09 21:57:33,398 - INFO - [900270] Reventure
+2026-03-09 21:57:33,398 - INFO - [903950] Last Oasis
+2026-03-09 21:57:33,398 - INFO - [904360] Family Man
+2026-03-09 21:57:33,398 - INFO - [905340] Heave Ho
+2026-03-09 21:57:33,398 - INFO - [906100] Observation
+2026-03-09 21:57:33,398 - INFO - [910490] Killsquad
+2026-03-09 21:57:33,398 - INFO - [914010] Train Station Renovation
+2026-03-09 21:57:33,398 - INFO - [914750] Bee Simulator
+2026-03-09 21:57:33,399 - INFO - [916730] Gato Roboto
+2026-03-09 21:57:33,399 - INFO - [916840] The Walking Dead: Saints & Sinners
+2026-03-09 21:57:33,399 - INFO - [917720] Gamedec - Definitive Edition
+2026-03-09 21:57:33,399 - INFO - [919410] Felix the Reaper
+2026-03-09 21:57:33,399 - INFO - [921800] Encased
+2026-03-09 21:57:33,399 - INFO - [927380] Yakuza Kiwami 2 (Legacy)
+2026-03-09 21:57:33,399 - INFO - [928600] F1 2019
+2026-03-09 21:57:33,399 - INFO - [929010] Swag and Sorcery
+2026-03-09 21:57:33,399 - INFO - [931180] Conan Exiles - Public Beta Client
+2026-03-09 21:57:33,400 - INFO - [933110] Age of Empires III: Definitive Edition
+2026-03-09 21:57:33,400 - INFO - [933820] Endzone - A World Apart
+2026-03-09 21:57:33,400 - INFO - [934780] American Fugitive
+2026-03-09 21:57:33,400 - INFO - [935400] Alchemy Garden
+2026-03-09 21:57:33,400 - INFO - [936790] Life is Strange: True Colors
+2026-03-09 21:57:33,400 - INFO - [938380] Townsmen - A Kingdom Rebuilt
+2026-03-09 21:57:33,400 - INFO - [939100] Darksburg
+2026-03-09 21:57:33,401 - INFO - [939620] 趣拼拼：肖像画 Pleasure Puzzle:Portrait
+2026-03-09 21:57:33,401 - INFO - [939850] The Dark Pictures Anthology: Man of Medan
+2026-03-09 21:57:33,401 - INFO - [940680] The Textorcist: The Story of Ray Bibbia
+2026-03-09 21:57:33,401 - INFO - [940710] Colt Canyon
+2026-03-09 21:57:33,401 - INFO - [940910] Minoria
+2026-03-09 21:57:33,402 - INFO - [941570] Relicta
+2026-03-09 21:57:33,402 - INFO - [943370] Bravery and Greed
+2026-03-09 21:57:33,402 - INFO - [944010] SWINE HD Remaster
+2026-03-09 21:57:33,402 - INFO - [944920] Nanotale - Typing Chronicles
+2026-03-09 21:57:33,402 - INFO - [945360] Among Us
+2026-03-09 21:57:33,402 - INFO - [946030] Axiom Verge 2
+2026-03-09 21:57:33,402 - INFO - [950180] Lemnis Gate
+2026-03-09 21:57:33,402 - INFO - [950670] Gothic Playable Teaser
+2026-03-09 21:57:33,403 - INFO - [951940] Almost There: The Platformer
+2026-03-09 21:57:33,403 - INFO - [952060] Resident Evil 3
+2026-03-09 21:57:33,403 - INFO - [952070] RESIDENT EVIL RESISTANCE
+2026-03-09 21:57:33,403 - INFO - [953300] ART SQOOL
+2026-03-09 21:57:33,403 - INFO - [953880] First Class Trouble
+2026-03-09 21:57:33,403 - INFO - [956030] Creaks
+2026-03-09 21:57:33,403 - INFO - [957960] Inkulinati
+2026-03-09 21:57:33,403 - INFO - [960090] Bloons TD 6
+2026-03-09 21:57:33,403 - INFO - [960170] DJMAX RESPECT V
+2026-03-09 21:57:33,403 - INFO - [960420] Hello Neighbor: Hide and Seek
+2026-03-09 21:57:33,404 - INFO - [960690] One Step From Eden
+2026-03-09 21:57:33,404 - INFO - [960910] Heavy Rain
+2026-03-09 21:57:33,404 - INFO - [960990] Beyond: Two Souls
+2026-03-09 21:57:33,404 - INFO - [961440] Resident Evil 2 "1-Shot Demo"
+2026-03-09 21:57:33,404 - INFO - [961620] Flashback
+2026-03-09 21:57:33,404 - INFO - [963000] Frog Detective 1: The Haunted Island
+2026-03-09 21:57:33,404 - INFO - [964800] Prodeus
+2026-03-09 21:57:33,404 - INFO - [965680] Boomerang Fu
+2026-03-09 21:57:33,405 - INFO - [969760] Omno
+2026-03-09 21:57:33,405 - INFO - [969990] SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
+2026-03-09 21:57:33,405 - INFO - [970830] The Dungeon Of Naheulbeuk: The Amulet Of Chaos
+2026-03-09 21:57:33,405 - INFO - [970960] Rebel Cops
+2026-03-09 21:57:33,405 - INFO - [971160] Möbius Front '83
+2026-03-09 21:57:33,405 - INFO - [972660] Spiritfarer®: Farewell Edition
+2026-03-09 21:57:33,405 - INFO - [973580] Sniper Ghost Warrior Contracts
+2026-03-09 21:57:33,405 - INFO - [973760] Thronebreaker: The Witcher Tales
+2026-03-09 21:57:33,405 - INFO - [975510] Panzer Paladin
+2026-03-09 21:57:33,405 - INFO - [975950] Effie
+2026-03-09 21:57:33,406 - INFO - [976310] Mortal Kombat 11
+2026-03-09 21:57:33,406 - INFO - [976590] Bus Simulator 21 Next Stop
+2026-03-09 21:57:33,406 - INFO - [976700] Size Matters
+2026-03-09 21:57:33,406 - INFO - [976730] Halo: The Master Chief Collection
+2026-03-09 21:57:33,406 - INFO - [978460] Emily is Away <3
+2026-03-09 21:57:33,406 - INFO - [978520] Legend of Keepers
+2026-03-09 21:57:33,407 - INFO - [979070] Just Die Already
+2026-03-09 21:57:33,407 - INFO - [979120] Autonauts
+2026-03-09 21:57:33,407 - INFO - [979640] Cepheus Protocol
+2026-03-09 21:57:33,407 - INFO - [979690] The Ascent
+2026-03-09 21:57:33,407 - INFO - [982720] Paradise Lost
+2026-03-09 21:57:33,407 - INFO - [984800] Automachef
+2026-03-09 21:57:33,407 - INFO - [985890] Streets of Rage 4
+2026-03-09 21:57:33,407 - INFO - [987720] ONINAKI
+2026-03-09 21:57:33,408 - INFO - [987840] Expeditions: Rome
+2026-03-09 21:57:33,408 - INFO - [989790] The Vale
+2026-03-09 21:57:33,408 - INFO - [990080] Hogwarts Legacy
+2026-03-09 21:57:33,408 - INFO - [990630] The Last Campfire
+2026-03-09 21:57:33,408 - INFO - [994140] Lightmatter
+2026-03-09 21:57:33,408 - INFO - [994220] NEOVERSE
+2026-03-09 21:57:33,408 - INFO - [995980] Fae Tactics
+2026-03-09 21:57:33,408 - INFO - [996580] Spyro™ Reignited Trilogy
+2026-03-09 21:57:33,408 - INFO - [996770] Moving Out
+2026-03-09 21:57:33,409 - INFO - [998740] Ring of Pain
+2026-03-09 21:57:33,409 - INFO - [999220] Amnesia: Rebirth
+2026-03-09 21:57:33,409 - INFO - [1000010] Crown Trick
+2026-03-09 21:57:33,409 - INFO - [1000030] Cook, Serve, Delicious! 3?!
+2026-03-09 21:57:33,409 - INFO - [1000410] WRATH: Aeon of Ruin
+2026-03-09 21:57:33,409 - INFO - [1003090] Through The Darkest of Times
+2026-03-09 21:57:33,409 - INFO - [1004490] Tools Up!
+2026-03-09 21:57:33,410 - INFO - [1004610] Roombo: First Blood - JUSTICE SUCKS
+2026-03-09 21:57:33,410 - INFO - [1011190] SIMULACRA 2
+2026-03-09 21:57:33,410 - INFO - [1013310] Peaky Blinders: Mastermind
+2026-03-09 21:57:33,410 - INFO - [1016120] PGA TOUR 2K21
+2026-03-09 21:57:33,410 - INFO - [1016180] Terror of Hemasaurus
+2026-03-09 21:57:33,410 - INFO - [1016790] West of Dead
+2026-03-09 21:57:33,410 - INFO - [1016920] Unrailed!
+2026-03-09 21:57:33,410 - INFO - [1017900] Age of Empires: Definitive Edition
+2026-03-09 21:57:33,411 - INFO - [1018850] Smile For Me
+2026-03-09 21:57:33,411 - INFO - [1020470] Evoland Legendary Edition
+2026-03-09 21:57:33,411 - INFO - [1022310] Warhammer Underworlds - Shadespire Edition
+2026-03-09 21:57:33,411 - INFO - [1025440] Fantasy General II
+2026-03-09 21:57:33,411 - INFO - [1026420] WARSAW RISING: City of Heroes
+2026-03-09 21:57:33,411 - INFO - [1026680] FINAL FANTASY VIII - REMASTERED
+2026-03-09 21:57:33,411 - INFO - [1030300] Hollow Knight: Silksong
+2026-03-09 21:57:33,411 - INFO - [1030830] Mafia II: Definitive Edition
+2026-03-09 21:57:33,411 - INFO - [1030840] Mafia: Definitive Edition
+2026-03-09 21:57:33,411 - INFO - [1031900] You Can Kana
+2026-03-09 21:57:33,412 - INFO - [1035560] Struggling
+2026-03-09 21:57:33,412 - INFO - [1037020] ScourgeBringer
+2026-03-09 21:57:33,412 - INFO - [1037910] Paw Paw Paw
+2026-03-09 21:57:33,412 - INFO - [1038250] DIRT 5
+2026-03-09 21:57:33,412 - INFO - [1040070] Merchant of the Skies
+2026-03-09 21:57:33,412 - INFO - [1041720] Kingdoms of Amalur: Re-Reckoning
+2026-03-09 21:57:33,412 - INFO - [1041920] If Found
+2026-03-09 21:57:33,413 - INFO - [1042490] Call of the Sea
+2026-03-09 21:57:33,413 - INFO - [1042780] Pine
+2026-03-09 21:57:33,413 - INFO - [1045580] Deleveled
+2026-03-09 21:57:33,413 - INFO - [1045720] The Coma 2: Vicious Sisters
+2026-03-09 21:57:33,413 - INFO - [1046790] Eternal Threads
+2026-03-09 21:57:33,413 - INFO - [1047220] Frog Detective 2: The Case of the Invisible Wizard
+2026-03-09 21:57:33,413 - INFO - [1048540] Kao the Kangaroo: Round 2
+2026-03-09 21:57:33,413 - INFO - [1049320] River City Girls
+2026-03-09 21:57:33,414 - INFO - [1049410] Superliminal
+2026-03-09 21:57:33,414 - INFO - [1053710] The Red Lantern
+2026-03-09 21:57:33,414 - INFO - [1054430] Fling to the Finish
+2026-03-09 21:57:33,414 - INFO - [1054490] Wingspan
+2026-03-09 21:57:33,414 - INFO - [1055540] A Short Hike
+2026-03-09 21:57:33,414 - INFO - [1057090] Ori and the Will of the Wisps
+2026-03-09 21:57:33,414 - INFO - [1057750] The Suicide of Rachel Foster
+2026-03-09 21:57:33,414 - INFO - [1058320] Toki
+2026-03-09 21:57:33,415 - INFO - [1058650] Beyond The Wire
+2026-03-09 21:57:33,415 - INFO - [1058830] Spin Rhythm XD
+2026-03-09 21:57:33,415 - INFO - [1061880] Conan Chop Chop
+2026-03-09 21:57:33,415 - INFO - [1061910] Metal: Hellsinger
+2026-03-09 21:57:33,415 - INFO - [1062810] Inkbound
+2026-03-09 21:57:33,415 - INFO - [1062830] Embr
+2026-03-09 21:57:33,415 - INFO - [1063310] Vane
+2026-03-09 21:57:33,415 - INFO - [1063490] Still There
+2026-03-09 21:57:33,416 - INFO - [1063660] Bendy and the Dark Revival
+2026-03-09 21:57:33,416 - INFO - [1063730] New World: Aeternum
+2026-03-09 21:57:33,416 - INFO - [1065310] Evil West
+2026-03-09 21:57:33,416 - INFO - [1066890] Automobilista 2
+2026-03-09 21:57:33,416 - INFO - [1067540] Röki
+2026-03-09 21:57:33,416 - INFO - [1069160] SKALD: Against the Black Priory
+2026-03-09 21:57:33,416 - INFO - [1069530] Narita Boy
+2026-03-09 21:57:33,416 - INFO - [1069690] Rogue Lords
+2026-03-09 21:57:33,417 - INFO - [1070710] Kind Words
+2026-03-09 21:57:33,417 - INFO - [1071870] Biped
+2026-03-09 21:57:33,417 - INFO - [1073320] Meteorfall: Krumit's Tale
+2026-03-09 21:57:33,417 - INFO - [1073910] Before We Leave
+2026-03-09 21:57:33,417 - INFO - [1075200] TOHU
+2026-03-09 21:57:33,417 - INFO - [1075740] Banners of Ruin
+2026-03-09 21:57:33,417 - INFO - [1076200] Roguebook
+2026-03-09 21:57:33,417 - INFO - [1076280] Showdown Bandit
+2026-03-09 21:57:33,418 - INFO - [1078920] Main Assembly
+2026-03-09 21:57:33,418 - INFO - [1080110] F1 2020
+2026-03-09 21:57:33,418 - INFO - [1082710] Bug Fables: The Everlasting Sapling
+2026-03-09 21:57:33,418 - INFO - [1083790] Deathbulge: Battle of the Bands
+2026-03-09 21:57:33,418 - INFO - [1084160] Jagged Alliance 3
+2026-03-09 21:57:33,418 - INFO - [1084600] My Time at Sandrock
+2026-03-09 21:57:33,418 - INFO - [1084640] Chicken Police
+2026-03-09 21:57:33,418 - INFO - [1085220] Figment 2: Creed Valley
+2026-03-09 21:57:33,418 - INFO - [1085510] Garfield Kart - Furious Racing
+2026-03-09 21:57:33,419 - INFO - [1085630] VASARA Collection
+2026-03-09 21:57:33,419 - INFO - [1085660] Destiny 2
+2026-03-09 21:57:33,419 - INFO - [1086010] 198X
+2026-03-09 21:57:33,419 - INFO - [1086940] Baldur's Gate 3
+2026-03-09 21:57:33,419 - INFO - [1087760] The Gunk
+2026-03-09 21:57:33,419 - INFO - [1088710] Yakuza 3 Remastered
+2026-03-09 21:57:33,420 - INFO - [1088790] Rebel Inc: Escalation
+2026-03-09 21:57:33,420 - INFO - [1088850] Marvel's Guardians of the Galaxy
+2026-03-09 21:57:33,420 - INFO - [1089980] The Henry Stickmin Collection
+2026-03-09 21:57:33,420 - INFO - [1090630] Granblue Fantasy: Versus
+2026-03-09 21:57:33,420 - INFO - [1091500] Cyberpunk 2077
+2026-03-09 21:57:33,420 - INFO - [1091980] The Bard's Tale IV: Director's Cut
+2026-03-09 21:57:33,420 - INFO - [1092790] Inscryption
+2026-03-09 21:57:33,420 - INFO - [1096410] Vampire: The Masquerade - Coteries of New York
+2026-03-09 21:57:33,421 - INFO - [1096530] Solasta: Crown of the Magister
+2026-03-09 21:57:33,421 - INFO - [1096570] SONG OF HORROR
+2026-03-09 21:57:33,421 - INFO - [1097130] Circuit Superstars
+2026-03-09 21:57:33,421 - INFO - [1101360] Rock of Ages 3: Make & Break
+2026-03-09 21:57:33,421 - INFO - [1102190] Monster Train
+2026-03-09 21:57:33,421 - INFO - [1104330] Founders' Fortune
+2026-03-09 21:57:33,421 - INFO - [1104660] MO:Astray
+2026-03-09 21:57:33,421 - INFO - [1105500] Yakuza 4 Remastered
+2026-03-09 21:57:33,421 - INFO - [1105510] Yakuza 5 Remastered
+2026-03-09 21:57:33,421 - INFO - [1108000] Children of Silentown
+2026-03-09 21:57:33,422 - INFO - [1108590] Eldest Souls
+2026-03-09 21:57:33,422 - INFO - [1110050] Evan's Remains
+2026-03-09 21:57:33,422 - INFO - [1112890] Calico
+2026-03-09 21:57:33,422 - INFO - [1113000] Persona 4 Golden
+2026-03-09 21:57:33,422 - INFO - [1114290] Windjammers 2
+2026-03-09 21:57:33,422 - INFO - [1114870] Lenna's Inception
+2026-03-09 21:57:33,422 - INFO - [1115690] Yes, Your Grace
+2026-03-09 21:57:33,422 - INFO - [1116580] Shady Part of Me
+2026-03-09 21:57:33,422 - INFO - [1116780] Shovel Knight: King of Cards
+2026-03-09 21:57:33,423 - INFO - [1119700] As Far As The Eye
+2026-03-09 21:57:33,423 - INFO - [1119980] In Sound Mind
+2026-03-09 21:57:33,423 - INFO - [1120320] Builder Simulator
+2026-03-09 21:57:33,423 - INFO - [1120810] Eastern Exorcist
+2026-03-09 21:57:33,423 - INFO - [1123050] GRIME
+2026-03-09 21:57:33,423 - INFO - [1123450] Chicory: A Colorful Tale
+2026-03-09 21:57:33,423 - INFO - [1123770] Curse of the Dead Gods
+2026-03-09 21:57:33,423 - INFO - [1124260] Snowtopia
+2026-03-09 21:57:33,424 - INFO - [1124300] HUMANKIND™
+2026-03-09 21:57:33,424 - INFO - [1127500] Mini Motorways
+2026-03-09 21:57:33,424 - INFO - [1127610] Iris and the giant
+2026-03-09 21:57:33,424 - INFO - [1127980] NASCAR Heat 4
+2026-03-09 21:57:33,424 - INFO - [1130410] Cyber Hook
+2026-03-09 21:57:33,425 - INFO - [1132980] There Is No Light
+2026-03-09 21:57:33,425 - INFO - [1134700] Wild Terra 2: New Lands
+2026-03-09 21:57:33,425 - INFO - [1135690] Unpacking
+2026-03-09 21:57:33,425 - INFO - [1138660] Black Book
+2026-03-09 21:57:33,425 - INFO - [1138850] Heavenly Bodies
+2026-03-09 21:57:33,425 - INFO - [1139900] Ghostrunner
+2026-03-09 21:57:33,425 - INFO - [1139940] ATOM RPG Trudograd
+2026-03-09 21:57:33,426 - INFO - [1140270] Monster Prom 2: Monster Camp
+2026-03-09 21:57:33,426 - INFO - [1140890] Morbid: The Seven Acolytes
+2026-03-09 21:57:33,426 - INFO - [1142100] WWE 2K BATTLEGROUNDS
+2026-03-09 21:57:33,426 - INFO - [1142390] Remothered: Broken Porcelain 
+2026-03-09 21:57:33,426 - INFO - [1142500] Fun with Ragdolls: The Game
+2026-03-09 21:57:33,426 - INFO - [1142710] Total War: WARHAMMER III
+2026-03-09 21:57:33,426 - INFO - [1143810] Black Skylands
+2026-03-09 21:57:33,426 - INFO - [1144030] Pesterquest
+2026-03-09 21:57:33,427 - INFO - [1145360] Hades
+2026-03-09 21:57:33,427 - INFO - [1147550] Not For Broadcast
+2026-03-09 21:57:33,427 - INFO - [1148760] I Was a Teenage Exocolonist
+2026-03-09 21:57:33,427 - INFO - [1149620] Gas Station Simulator
+2026-03-09 21:57:33,427 - INFO - [1150090] Learning Factory
+2026-03-09 21:57:33,427 - INFO - [1150440] Aliens: Dark Descent
+2026-03-09 21:57:33,427 - INFO - [1150530] Wizard with a Gun
+2026-03-09 21:57:33,427 - INFO - [1150950] Timelie
+2026-03-09 21:57:33,427 - INFO - [1151050] Golf Gang
+2026-03-09 21:57:33,427 - INFO - [1151340] Fallout 76
+2026-03-09 21:57:33,428 - INFO - [1151640] Horizon Zero Dawn™ Complete Edition
+2026-03-09 21:57:33,428 - INFO - [1154810] Going Under
+2026-03-09 21:57:33,428 - INFO - [1155970] Roadwarden
+2026-03-09 21:57:33,428 - INFO - [1157220] Nebuchadnezzar
+2026-03-09 21:57:33,428 - INFO - [1158160] Coral Island
+2026-03-09 21:57:33,428 - INFO - [1158220] Kraken Academy!!
+2026-03-09 21:57:33,428 - INFO - [1158310] Crusader Kings III
+2026-03-09 21:57:33,428 - INFO - [1158370] Aragami 2
+2026-03-09 21:57:33,428 - INFO - [1158500] Between Two Castles - Digital Edition
+2026-03-09 21:57:33,429 - INFO - [1160220] Paradise Killer
+2026-03-09 21:57:33,429 - INFO - [1161580] Hardspace: Shipbreaker
+2026-03-09 21:57:33,429 - INFO - [1162700] Midnight Protocol
+2026-03-09 21:57:33,429 - INFO - [1164940] Trepang2
+2026-03-09 21:57:33,429 - INFO - [1167140] Siege Survival: Gloria Victis
+2026-03-09 21:57:33,429 - INFO - [1167450] DAEMON X MACHINA
+2026-03-09 21:57:33,429 - INFO - [1167750] The Lamplighters League
+2026-03-09 21:57:33,430 - INFO - [1168880] MOLEK-SYNTEZ
+2026-03-09 21:57:33,430 - INFO - [1170080] Foretales
+2026-03-09 21:57:33,430 - INFO - [1171660] The Ambassador: Fractured Timelines
+2026-03-09 21:57:33,430 - INFO - [1172450] Carto
+2026-03-09 21:57:33,430 - INFO - [1172620] Sea of Thieves
+2026-03-09 21:57:33,430 - INFO - [1172650] INDUSTRIA
+2026-03-09 21:57:33,431 - INFO - [1172710] Dune: Awakening
+2026-03-09 21:57:33,431 - INFO - [1173200] Metal Unit
+2026-03-09 21:57:33,431 - INFO - [1173770] FINAL FANTASY
+2026-03-09 21:57:33,431 - INFO - [1173780] FINAL FANTASY II
+2026-03-09 21:57:33,431 - INFO - [1173790] FINAL FANTASY III
+2026-03-09 21:57:33,431 - INFO - [1173800] FINAL FANTASY IV
+2026-03-09 21:57:33,431 - INFO - [1173810] FINAL FANTASY V
+2026-03-09 21:57:33,432 - INFO - [1173820] FINAL FANTASY VI
+2026-03-09 21:57:33,432 - INFO - [1174180] Red Dead Redemption 2
+2026-03-09 21:57:33,432 - INFO - [1175460] Revita
+2026-03-09 21:57:33,432 - INFO - [1178830] Bright Memory: Infinite
+2026-03-09 21:57:33,432 - INFO - [1178880] Panzer Dragoon: Remake
+2026-03-09 21:57:33,432 - INFO - [1179210] Kill It With Fire
+2026-03-09 21:57:33,432 - INFO - [1180660] Tell Me Why
+2026-03-09 21:57:33,432 - INFO - [1181400] Path of Giants
+2026-03-09 21:57:33,433 - INFO - [1182310] The Excavation of Hob's Barrow
+2026-03-09 21:57:33,433 - INFO - [1182900] A Plague Tale: Requiem
+2026-03-09 21:57:33,433 - INFO - [1183580] Terra Alia
+2026-03-09 21:57:33,433 - INFO - [1184050] Gears Tactics
+2026-03-09 21:57:33,433 - INFO - [1184370] Pathfinder: Wrath of the Righteous - Enhanced Edition
+2026-03-09 21:57:33,433 - INFO - [1184480] Inertial Drift
+2026-03-09 21:57:33,433 - INFO - [1184760] Shovel Knight Pocket Dungeon
+2026-03-09 21:57:33,433 - INFO - [1186040] Worms Rumble
+2026-03-09 21:57:33,434 - INFO - [1186640] Pumpkin Jack
+2026-03-09 21:57:33,434 - INFO - [1189780] Wallachia: Reign of Dracula
+2026-03-09 21:57:33,434 - INFO - [1190000] Car Mechanic Simulator 2021
+2026-03-09 21:57:33,434 - INFO - [1190170] OlliOlli World
+2026-03-09 21:57:33,434 - INFO - [1190460] DEATH STRANDING
+2026-03-09 21:57:33,434 - INFO - [1191630] Shantae and the Seven Sirens
+2026-03-09 21:57:33,434 - INFO - [1194630] The Dark Pictures Anthology: Little Hope
+2026-03-09 21:57:33,434 - INFO - [1196590] Resident Evil Village
+2026-03-09 21:57:33,434 - INFO - [1196630] Nexomon: Extinction
+2026-03-09 21:57:33,435 - INFO - [1201270] A Space for the Unbound
+2026-03-09 21:57:33,435 - INFO - [1202130] Starship Troopers: Terran Command
+2026-03-09 21:57:33,435 - INFO - [1202200] Paleo Pines
+2026-03-09 21:57:33,435 - INFO - [1202900] Assemble with Care
+2026-03-09 21:57:33,435 - INFO - [1203620] Enshrouded
+2026-03-09 21:57:33,435 - INFO - [1203710] UnMetal
+2026-03-09 21:57:33,435 - INFO - [1205170] Super Magbot
+2026-03-09 21:57:33,435 - INFO - [1205450] Turnip Boy Commits Tax Evasion
+2026-03-09 21:57:33,435 - INFO - [1207650] Suzerain
+2026-03-09 21:57:33,436 - INFO - [1210150] Ageless
+2026-03-09 21:57:33,436 - INFO - [1214470] Hotel Renovator
+2026-03-09 21:57:33,436 - INFO - [1214670] Mr. Sun's Hatbox
+2026-03-09 21:57:33,436 - INFO - [1218210] Coromon
+2026-03-09 21:57:33,436 - INFO - [1220150] Blue Fire
+2026-03-09 21:57:33,436 - INFO - [1221250] NORCO
+2026-03-09 21:57:33,436 - INFO - [1222140] Detroit: Become Human
+2026-03-09 21:57:33,436 - INFO - [1222370] Necromunda: Hired Gun
+2026-03-09 21:57:33,437 - INFO - [1222700] A Way Out
+2026-03-09 21:57:33,437 - INFO - [1227530] Partisans 1941
+2026-03-09 21:57:33,437 - INFO - [1229380] Everhood
+2026-03-09 21:57:33,437 - INFO - [1229490] ULTRAKILL
+2026-03-09 21:57:33,437 - INFO - [1230530] Atlas Fallen
+2026-03-09 21:57:33,437 - INFO - [1235140] Yakuza: Like a Dragon
+2026-03-09 21:57:33,437 - INFO - [1236300] Resident Evil Re:Verse
+2026-03-09 21:57:33,438 - INFO - [1237320] Sonic Frontiers
+2026-03-09 21:57:33,438 - INFO - [1237730] Catlateral Damage: Remeowstered
+2026-03-09 21:57:33,438 - INFO - [1237970] Titanfall® 2
+2026-03-09 21:57:33,438 - INFO - [1239690] Retrowave
+2026-03-09 21:57:33,438 - INFO - [1240440] Halo Infinite
+2026-03-09 21:57:33,438 - INFO - [1240590] Sir Whoopass™: Immortal Death
+2026-03-09 21:57:33,438 - INFO - [1242980] KeyWe
+2026-03-09 21:57:33,438 - INFO - [1244460] Jurassic World Evolution 2
+2026-03-09 21:57:33,438 - INFO - [1244800] Terraformers
+2026-03-09 21:57:33,438 - INFO - [1245430] Golden Light
+2026-03-09 21:57:33,439 - INFO - [1249110] Skully
+2026-03-09 21:57:33,439 - INFO - [1249480] Ex-Zodiac
+2026-03-09 21:57:33,439 - INFO - [1252330] DEATHLOOP
+2026-03-09 21:57:33,439 - INFO - [1252830] A Juggler's Tale
+2026-03-09 21:57:33,439 - INFO - [1259420] Days Gone
+2026-03-09 21:57:33,439 - INFO - [1265860] NASCAR Heat 5
+2026-03-09 21:57:33,439 - INFO - [1266030] The Pale Beyond
+2026-03-09 21:57:33,439 - INFO - [1266700] Destroy All Humans! 2 - Reprobed
+2026-03-09 21:57:33,439 - INFO - [1267540] WRC 9 FIA World Rally Championship
+2026-03-09 21:57:33,440 - INFO - [1269300] This Means Warp
+2026-03-09 21:57:33,440 - INFO - [1269640] Beacon Pines
+2026-03-09 21:57:33,440 - INFO - [1271100] Deadly Premonition 2
+2026-03-09 21:57:33,440 - INFO - [1271700] HOT WHEELS UNLEASHED™
+2026-03-09 21:57:33,440 - INFO - [1272010] Destroyer: The U-Boat Hunter
+2026-03-09 21:57:33,440 - INFO - [1272160] The Life and Suffering of Sir Brante
+2026-03-09 21:57:33,440 - INFO - [1272320] Diplomacy is Not an Option
+2026-03-09 21:57:33,440 - INFO - [1272840] Dordogne
+2026-03-09 21:57:33,440 - INFO - [1279630] Vampire: The Masquerade - Shadows of New York
+2026-03-09 21:57:33,441 - INFO - [1280300] Steel Assault
+2026-03-09 21:57:33,441 - INFO - [1280930] Astral Ascent
+2026-03-09 21:57:33,441 - INFO - [1281590] The Dark Pictures Anthology: House of Ashes
+2026-03-09 21:57:33,441 - INFO - [1281930] tModLoader
+2026-03-09 21:57:33,441 - INFO - [1282100] Remnant II
+2026-03-09 21:57:33,441 - INFO - [1282150] SpongeBob SquarePants: The Cosmic Shake
+2026-03-09 21:57:33,442 - INFO - [1282730] Loop Hero
+2026-03-09 21:57:33,442 - INFO - [1283190] Neighbours back From Hell
+2026-03-09 21:57:33,442 - INFO - [1283400] Steelrising
+2026-03-09 21:57:33,442 - INFO - [1286350] BPM: BULLETS PER MINUTE
+2026-03-09 21:57:33,442 - INFO - [1286680] Tiny Tina's Wonderlands
+2026-03-09 21:57:33,442 - INFO - [1287530] Lords and Villeins
+2026-03-09 21:57:33,442 - INFO - [1287840] Disciples: Liberation
+2026-03-09 21:57:33,443 - INFO - [1291010] Warpips
+2026-03-09 21:57:33,443 - INFO - [1291340] Townscaper
+2026-03-09 21:57:33,443 - INFO - [1293180] SuchArt!
+2026-03-09 21:57:33,443 - INFO - [1294420] Rollerdrome
+2026-03-09 21:57:33,443 - INFO - [1295500] Warhammer 40,000: Battlesector
+2026-03-09 21:57:33,443 - INFO - [1298140] Fobia - St. Dinfna Hotel
+2026-03-09 21:57:33,443 - INFO - [1302050] Milky Way Prince – The Vampire Star
+2026-03-09 21:57:33,443 - INFO - [1303990] Mini Motor Racing X
+2026-03-09 21:57:33,443 - INFO - [1304680] Voidigo
+2026-03-09 21:57:33,444 - INFO - [1304780] Nongunz: Doppelganger Edition
+2026-03-09 21:57:33,444 - INFO - [1306770] Revival: Recolonization
+2026-03-09 21:57:33,444 - INFO - [1306970] Diluvian Ultra
+2026-03-09 21:57:33,444 - INFO - [1307580] TOEM
+2026-03-09 21:57:33,444 - INFO - [1311070] Greak: Memories of Azur
+2026-03-09 21:57:33,444 - INFO - [1312960] Epic Chef
+2026-03-09 21:57:33,444 - INFO - [1313140] Cult of the Lamb
+2026-03-09 21:57:33,444 - INFO - [1315980] Tin Can
+2026-03-09 21:57:33,444 - INFO - [1318690] shapez
+2026-03-09 21:57:33,445 - INFO - [1319460] Fashion Police Squad
+2026-03-09 21:57:33,445 - INFO - [1321440] Cassette Beasts
+2026-03-09 21:57:33,445 - INFO - [1324130] Stranded: Alien Dawn
+2026-03-09 21:57:33,445 - INFO - [1324350] Turbo Golf Racing
+2026-03-09 21:57:33,445 - INFO - [1325200] Nioh 2 – The Complete Edition
+2026-03-09 21:57:33,445 - INFO - [1325900] Demon Turf
+2026-03-09 21:57:33,445 - INFO - [1331910] Morkredd
+2026-03-09 21:57:33,445 - INFO - [1335790] Operation Tango
+2026-03-09 21:57:33,446 - INFO - [1336490] Against the Storm
+2026-03-09 21:57:33,446 - INFO - [1338580] McPixel 3
+2026-03-09 21:57:33,446 - INFO - [1342620] Werewolf: The Apocalypse - Heart of the Forest
+2026-03-09 21:57:33,446 - INFO - [1345860] Grapple Dog
+2026-03-09 21:57:33,446 - INFO - [1347970] Patch Quest
+2026-03-09 21:57:33,446 - INFO - [1348690] Oaken
+2026-03-09 21:57:33,446 - INFO - [1350200] IMMORTALITY
+2026-03-09 21:57:33,446 - INFO - [1351080] Pharaoh: A New Era
+2026-03-09 21:57:33,446 - INFO - [1353230] Bomb Rush Cyberfunk
+2026-03-09 21:57:33,447 - INFO - [1353270] Five Dates
+2026-03-09 21:57:33,447 - INFO - [1356810] Hexarchy
+2026-03-09 21:57:33,447 - INFO - [1361210] Warhammer 40,000: Darktide
+2026-03-09 21:57:33,447 - INFO - [1364100] Lacuna
+2026-03-09 21:57:33,447 - INFO - [1367300] Blade Assault
+2026-03-09 21:57:33,448 - INFO - [1370050] Trek to Yomi
+2026-03-09 21:57:33,448 - INFO - [1371980] No Rest for the Wicked
+2026-03-09 21:57:33,448 - INFO - [1374490] RuneScape: Dragonwilds
+2026-03-09 21:57:33,448 - INFO - [1374840] Dark Deity
+2026-03-09 21:57:33,448 - INFO - [1380420] Grow: Song of the Evertree
+2026-03-09 21:57:33,448 - INFO - [1382330] Persona 5 Strikers
+2026-03-09 21:57:33,448 - INFO - [1388590] Yakuza 6: The Song of Life
+2026-03-09 21:57:33,448 - INFO - [1388870] Arcade Paradise
+2026-03-09 21:57:33,449 - INFO - [1389550] Mind Scanners
+2026-03-09 21:57:33,449 - INFO - [1390410] Midnight Fight Express
+2026-03-09 21:57:33,449 - INFO - [1392960] STORY OF SEASONS: Pioneers of Olive Town
+2026-03-09 21:57:33,449 - INFO - [1402120] 9 Years of Shadows
+2026-03-09 21:57:33,449 - INFO - [1404850] Luck be a Landlord
+2026-03-09 21:57:33,449 - INFO - [1405790] John Wick Hex
+2026-03-09 21:57:33,449 - INFO - [1406850] The Legend of Tianding
+2026-03-09 21:57:33,449 - INFO - [1409200] HYPERVIOLENT
+2026-03-09 21:57:33,450 - INFO - [1414850] Nickelodeon All-Star Brawl
+2026-03-09 21:57:33,450 - INFO - [1416960] Everafter Falls
+2026-03-09 21:57:33,450 - INFO - [1419160] Souldiers
+2026-03-09 21:57:33,450 - INFO - [1420290] No More Heroes
+2026-03-09 21:57:33,450 - INFO - [1420300] No More Heroes 2: Desperate Struggle
+2026-03-09 21:57:33,450 - INFO - [1421490] Rise of the Triad: Ludicrous Edition
+2026-03-09 21:57:33,450 - INFO - [1422450] Deadlock
+2026-03-09 21:57:33,450 - INFO - [1424330] Wobbledogs
+2026-03-09 21:57:33,451 - INFO - [1432050] Nobody Saves the World
+2026-03-09 21:57:33,451 - INFO - [1432100] The Bookwalker
+2026-03-09 21:57:33,451 - INFO - [1432910] Godlike Burger
+2026-03-09 21:57:33,451 - INFO - [1434540] Zoeti
+2026-03-09 21:57:33,451 - INFO - [1440440] Sam & Max Save the World
+2026-03-09 21:57:33,451 - INFO - [1444480] Turing Complete
+2026-03-09 21:57:33,451 - INFO - [1449560] Metro Exodus Enhanced Edition
+2026-03-09 21:57:33,451 - INFO - [1451810] LEGO® 2K Drive
+2026-03-09 21:57:33,451 - INFO - [1453790] The Serpent Rogue
+2026-03-09 21:57:33,452 - INFO - [1454730] Chenso Club
+2026-03-09 21:57:33,452 - INFO - [1455840] Dorfromantik
+2026-03-09 21:57:33,452 - INFO - [1455900] Plunder Panic
+2026-03-09 21:57:33,452 - INFO - [1458140] Pacific Drive
+2026-03-09 21:57:33,452 - INFO - [1462040] FINAL FANTASY VII REMAKE INTERGRADE
+2026-03-09 21:57:33,452 - INFO - [1462810] WRC 10 FIA World Rally Championship
+2026-03-09 21:57:33,452 - INFO - [1466640] Road 96
+2026-03-09 21:57:33,452 - INFO - [1466860] Age of Empires IV: Anniversary Edition
+2026-03-09 21:57:33,452 - INFO - [1467920] A Guidebook Of Babel
+2026-03-09 21:57:33,453 - INFO - [1469850] Inscryption Beta
+2026-03-09 21:57:33,453 - INFO - [1472560] I Am Fish
+2026-03-09 21:57:33,453 - INFO - [1475810] Ghostwire: Tokyo
+2026-03-09 21:57:33,453 - INFO - [1478540] Bless Unleashed - Beta Test
+2026-03-09 21:57:33,453 - INFO - [1480560] Lawn Mowing Simulator
+2026-03-09 21:57:33,453 - INFO - [1488200] Symphony of War: The Nephilim Saga
+2026-03-09 21:57:33,454 - INFO - [1491670] Venba
+2026-03-09 21:57:33,454 - INFO - [1492070] Sker Ritual
+2026-03-09 21:57:33,454 - INFO - [1492330] Century Playtest
+2026-03-09 21:57:33,454 - INFO - [1493640] Banishers: Ghosts of New Eden
+2026-03-09 21:57:33,454 - INFO - [1496590] Tchia
+2026-03-09 21:57:33,454 - INFO - [1496790] Gotham Knights
+2026-03-09 21:57:33,454 - INFO - [1501610] Nova Lands
+2026-03-09 21:57:33,455 - INFO - [1502190] From Space
+2026-03-09 21:57:33,455 - INFO - [1504980] It Takes Two Friend's Pass
+2026-03-09 21:57:33,455 - INFO - [1509510] Settlement Survival
+2026-03-09 21:57:33,455 - INFO - [1509960] PICO PARK
+2026-03-09 21:57:33,455 - INFO - [1511460] InfraSpace
+2026-03-09 21:57:33,455 - INFO - [1511780] Last Call BBS
+2026-03-09 21:57:33,455 - INFO - [1515950] Capcom Arcade Stadium
+2026-03-09 21:57:33,455 - INFO - [1517290] Battlefield™ 2042
+2026-03-09 21:57:33,456 - INFO - [1521070] The Pegasus Expedition
+2026-03-09 21:57:33,456 - INFO - [1521360] MainFrames
+2026-03-09 21:57:33,456 - INFO - [1522080] Jitsu Squad
+2026-03-09 21:57:33,456 - INFO - [1530870] Knockout City™ Cross-Play Beta
+2026-03-09 21:57:33,456 - INFO - [1531540] Distant Worlds 2
+2026-03-09 21:57:33,456 - INFO - [1532690] BLACKTAIL
+2026-03-09 21:57:33,456 - INFO - [1533420] Neon White
+2026-03-09 21:57:33,456 - INFO - [1537710] The Dark Pictures Anthology: Little Hope - Friend's Pass
+2026-03-09 21:57:33,457 - INFO - [1544020] The Callisto Protocol
+2026-03-09 21:57:33,457 - INFO - [1545560] Shadow Gambit: The Cursed Crew
+2026-03-09 21:57:33,457 - INFO - [1546970] Grand Theft Auto III - The Definitive Edition
+2026-03-09 21:57:33,457 - INFO - [1546990] Grand Theft Auto: Vice City - The Definitive Edition
+2026-03-09 21:57:33,457 - INFO - [1547000] Grand Theft Auto: San Andreas - The Definitive Edition
+2026-03-09 21:57:33,457 - INFO - [1549970] Aliens: Fireteam Elite
+2026-03-09 21:57:33,457 - INFO - [1552810] Twin Mirror
+2026-03-09 21:57:33,457 - INFO - [1555150] Pocket Bravery
+2026-03-09 21:57:33,457 - INFO - [1557740] ROUNDS
+2026-03-09 21:57:33,457 - INFO - [1562430] DREDGE
+2026-03-09 21:57:33,457 - INFO - [1577120] The Quarry
+2026-03-09 21:57:33,458 - INFO - [1577620] The Signal State
+2026-03-09 21:57:33,458 - INFO - [1578650] Citizen Sleeper
+2026-03-09 21:57:33,458 - INFO - [1579380] Shadow Tactics: Blades of the Shogun - Aiko's Choice
+2026-03-09 21:57:33,458 - INFO - [1580520] Lost Eidolons
+2026-03-09 21:57:33,458 - INFO - [1581770] SpellForce: Conquest of Eo
+2026-03-09 21:57:33,458 - INFO - [1582650] Caravan Sandwitch
+2026-03-09 21:57:33,458 - INFO - [1583230] High On Life
+2026-03-09 21:57:33,458 - INFO - [1584640] NARAKA: BLADEPOINT Playtest
+2026-03-09 21:57:33,459 - INFO - [1586800] Lil Gator Game
+2026-03-09 21:57:33,459 - INFO - [1590760] Metal Slug Tactics
+2026-03-09 21:57:33,459 - INFO - [1590910] Forgive Me Father
+2026-03-09 21:57:33,459 - INFO - [1592110] Spirit Of The Island
+2026-03-09 21:57:33,459 - INFO - [1593500] God of War
+2026-03-09 21:57:33,459 - INFO - [1599020] Tinykin
+2026-03-09 21:57:33,459 - INFO - [1599330] Wildmender
+2026-03-09 21:57:33,460 - INFO - [1599340] Lost Ark
+2026-03-09 21:57:33,460 - INFO - [1599600] PlateUp!
+2026-03-09 21:57:33,460 - INFO - [1601740] Corpse Keeper
+2026-03-09 21:57:33,460 - INFO - [1602080] Soulstice
+2026-03-09 21:57:33,460 - INFO - [1604030] V Rising
+2026-03-09 21:57:33,460 - INFO - [1607680] Bread & Fred
+2026-03-09 21:57:33,460 - INFO - [1608070] CRISIS CORE –FINAL FANTASY VII– REUNION
+2026-03-09 21:57:33,460 - INFO - [1608640] OTXO
+2026-03-09 21:57:33,460 - INFO - [1611910] Warhammer 40,000: Chaos Gate - Daemonhunters
+2026-03-09 21:57:33,461 - INFO - [1621690] Core Keeper
+2026-03-09 21:57:33,461 - INFO - [1623730] Palworld
+2026-03-09 21:57:33,461 - INFO - [1627570] The Plucky Squire
+2026-03-09 21:57:33,461 - INFO - [1627840] Universe For Sale
+2026-03-09 21:57:33,461 - INFO - [1628130] Who Pressed Mute on Uncle Marcus?
+2026-03-09 21:57:33,461 - INFO - [1629520] A Little to the Left
+2026-03-09 21:57:33,461 - INFO - [1634150] Behind the Frame: The Finest Scenery
+2026-03-09 21:57:33,461 - INFO - [1634220] Rytmos
+2026-03-09 21:57:33,462 - INFO - [1637320] Dome Keeper
+2026-03-09 21:57:33,462 - INFO - [1644940] Loddlenaut
+2026-03-09 21:57:33,462 - INFO - [1649010] Miasma Chronicles
+2026-03-09 21:57:33,462 - INFO - [1649080] Two Point Campus
+2026-03-09 21:57:33,462 - INFO - [1651560] Fabledom
+2026-03-09 21:57:33,462 - INFO - [1652250] Tales And Tactics
+2026-03-09 21:57:33,462 - INFO - [1656780] Hero's Hour
+2026-03-09 21:57:33,462 - INFO - [1658150] Moonstone Island
+2026-03-09 21:57:33,462 - INFO - [1658280] Eiyuden Chronicle: Hundred Heroes
+2026-03-09 21:57:33,463 - INFO - [1658290] Eiyuden Chronicle: Rising
+2026-03-09 21:57:33,463 - INFO - [1661630] KarmaZoo
+2026-03-09 21:57:33,463 - INFO - [1664220] TRAIL OUT
+2026-03-09 21:57:33,463 - INFO - [1665130] PAC-MAN MUSEUM+
+2026-03-09 21:57:33,463 - INFO - [1665190] Monster Prom 3: Monster Roadtrip
+2026-03-09 21:57:33,463 - INFO - [1669420] Islets
+2026-03-09 21:57:33,463 - INFO - [1675830] 1000xRESIST
+2026-03-09 21:57:33,463 - INFO - [1684350] The Thaumaturge
+2026-03-09 21:57:33,463 - INFO - [1687950] Persona 5 Royal
+2026-03-09 21:57:33,464 - INFO - [1694600] THE HOUSE OF THE DEAD: Remake
+2026-03-09 21:57:33,464 - INFO - [1701520] Afterimage
+2026-03-09 21:57:33,464 - INFO - [1712840] Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure
+2026-03-09 21:57:33,464 - INFO - [1718130] SCP : Secret Files
+2026-03-09 21:57:33,464 - INFO - [1724660] New World: Aeternum Open Beta
+2026-03-09 21:57:33,465 - INFO - [1730680] Klonoa Phantasy Reverie Series
+2026-03-09 21:57:33,465 - INFO - [1744330] No More Heroes 3
+2026-03-09 21:57:33,465 - INFO - [1754840] Hacker Simulator
+2026-03-09 21:57:33,465 - INFO - [1755830] Astrea: Six-Sided Oracles
+2026-03-09 21:57:33,465 - INFO - [1768280] Ozymandias
+2026-03-09 21:57:33,465 - INFO - [1771460] Tape to Tape Playtest
+2026-03-09 21:57:33,465 - INFO - [1775270] The Dark Pictures Anthology: House of Ashes - Friend's Pass
+2026-03-09 21:57:33,466 - INFO - [1782210] Crab Game
+2026-03-09 21:57:33,466 - INFO - [1785150] Friends vs Friends
+2026-03-09 21:57:33,466 - INFO - [1793350] Blue Fire: Void Maker
+2026-03-09 21:57:33,466 - INFO - [1793660] Lost Ark Closed Technical Beta 
+2026-03-09 21:57:33,466 - INFO - [1794680] Vampire Survivors
+2026-03-09 21:57:33,466 - INFO - [1796470] Haste
+2026-03-09 21:57:33,466 - INFO - [1799930] Redout 2
+2026-03-09 21:57:33,466 - INFO - [1803400] Beneath Oresa
+2026-03-09 21:57:33,466 - INFO - [1808500] ARC Raiders
+2026-03-09 21:57:33,467 - INFO - [1808680] Snufkin: Melody of Moominvalley
+2026-03-09 21:57:33,467 - INFO - [1809540] Nine Sols
+2026-03-09 21:57:33,467 - INFO - [1815570] Aces and Adventures
+2026-03-09 21:57:33,467 - INFO - [1817190] Marvel's Spider-Man: Miles Morales
+2026-03-09 21:57:33,467 - INFO - [1817230] Hi-Fi RUSH
+2026-03-09 21:57:33,467 - INFO - [1817800] Oddsparks: An Automation Adventure
+2026-03-09 21:57:33,467 - INFO - [1818690] Grindstone
+2026-03-09 21:57:33,467 - INFO - [1818750] MultiVersus
+2026-03-09 21:57:33,467 - INFO - [1819460] Mika and The Witch's Mountain
+2026-03-09 21:57:33,468 - INFO - [1824220] Chivalry 2
+2026-03-09 21:57:33,468 - INFO - [1836200] Fallout 76 Public Test Server
+2026-03-09 21:57:33,468 - INFO - [1839880] King Of The Castle
+2026-03-09 21:57:33,468 - INFO - [1840080] Homeworld 3
+2026-03-09 21:57:33,468 - INFO - [1844380] Warhammer Age of Sigmar: Realms of Ruin
+2026-03-09 21:57:33,468 - INFO - [1850570] DEATH STRANDING DIRECTOR'S CUT
+2026-03-09 21:57:33,468 - INFO - [1868140] DAVE THE DIVER
+2026-03-09 21:57:33,468 - INFO - [1868170] Etrian Odyssey II HD
+2026-03-09 21:57:33,468 - INFO - [1868180] Etrian Odyssey HD
+2026-03-09 21:57:33,469 - INFO - [1872680] The Knight Witch
+2026-03-09 21:57:33,469 - INFO - [1885110] Cryptmaster
+2026-03-09 21:57:33,469 - INFO - [1887840] Another Crab's Treasure
+2026-03-09 21:57:33,469 - INFO - [1898300] ASKA
+2026-03-09 21:57:33,469 - INFO - [1902490] Aperture Desk Job
+2026-03-09 21:57:33,469 - INFO - [1903340] Clair Obscur: Expedition 33
+2026-03-09 21:57:33,469 - INFO - [1904480] Absolum
+2026-03-09 21:57:33,470 - INFO - [1907720] Autonauts vs Piratebots
+2026-03-09 21:57:33,470 - INFO - [1915380] Garden Life: A Cozy Simulator
+2026-03-09 21:57:33,470 - INFO - [1916310] Remnant Records
+2026-03-09 21:57:33,470 - INFO - [1919470] Atari 50: The Anniversary Celebration
+2026-03-09 21:57:33,470 - INFO - [1920490] The Outer Worlds: Spacer's Choice Edition
+2026-03-09 21:57:33,470 - INFO - [1920780] Stray Gods: The Roleplaying Musical
+2026-03-09 21:57:33,470 - INFO - [1924430] Cookie Cutter
+2026-03-09 21:57:33,471 - INFO - [1927720] Monument Valley
+2026-03-09 21:57:33,471 - INFO - [1927740] Monument Valley 2
+2026-03-09 21:57:33,471 - INFO - [1928690] Bionic Bay
+2026-03-09 21:57:33,471 - INFO - [1929870] Nomad Survival
+2026-03-09 21:57:33,471 - INFO - [1931180] Lost Skies
+2026-03-09 21:57:33,471 - INFO - [1931730] Fort Solis
+2026-03-09 21:57:33,472 - INFO - [1933370] Mark of the Deep
+2026-03-09 21:57:33,472 - INFO - [1934680] Age of Mythology: Retold
+2026-03-09 21:57:33,472 - INFO - [1937500] Let's School
+2026-03-09 21:57:33,472 - INFO - [1937780] Total War: PHARAOH
+2026-03-09 21:57:33,472 - INFO - [1938090] Call of Duty®
+2026-03-09 21:57:33,472 - INFO - [1939970] Nobody Wants to Die
+2026-03-09 21:57:33,472 - INFO - [1942660] WWE 2K23
+2026-03-09 21:57:33,472 - INFO - [1944430] Amnesia: The Bunker
+2026-03-09 21:57:33,473 - INFO - [1948280] Stacklands
+2026-03-09 21:57:33,473 - INFO - [1951230] Pizza Possum
+2026-03-09 21:57:33,473 - INFO - [1956040] Kingdom Eighties
+2026-03-09 21:57:33,473 - INFO - [1967260] Double Dragon Gaiden: Rise of the Dragons
+2026-03-09 21:57:33,473 - INFO - [1970580] Backpack Hero
+2026-03-09 21:57:33,473 - INFO - [1972440] Shotgun King: The Final Checkmate
+2026-03-09 21:57:33,473 - INFO - [1975580] Wild Woods
+2026-03-09 21:57:33,474 - INFO - [1977170] Jusant
+2026-03-09 21:57:33,474 - INFO - [1982340] Blanc
+2026-03-09 21:57:33,474 - INFO - [1983260] Dungeons of Hinterberg
+2026-03-09 21:57:33,474 - INFO - [1989070] Synergy
+2026-03-09 21:57:33,474 - INFO - [2005010] Warhammer 40,000: Boltgun
+2026-03-09 21:57:33,474 - INFO - [2005160] Naheulbeuk's Dungeon Master
+2026-03-09 21:57:33,474 - INFO - [2012840] Portal with RTX
+2026-03-09 21:57:33,474 - INFO - [2019810] Boxes
+2026-03-09 21:57:33,474 - INFO - [2020710] Havendock
+2026-03-09 21:57:33,475 - INFO - [2050650] Resident Evil 4
+2026-03-09 21:57:33,475 - INFO - [2058180] Judgment
+2026-03-09 21:57:33,475 - INFO - [2058190] Lost Judgment
+2026-03-09 21:57:33,475 - INFO - [2059660] Cavern of Dreams
+2026-03-09 21:57:33,475 - INFO - [2060130] Return to Monkey Island
+2026-03-09 21:57:33,475 - INFO - [2060160] The Farmer Was Replaced
+2026-03-09 21:57:33,475 - INFO - [2062430] BALL x PIT
+2026-03-09 21:57:33,475 - INFO - [2067050] Squirrel with a Gun
+2026-03-09 21:57:33,475 - INFO - [2072560] DRAGON BALL GEKISHIN SQUADRA
+2026-03-09 21:57:33,476 - INFO - [2074930] The First Descendant Final Technical Test
+2026-03-09 21:57:33,476 - INFO - [2076040] THE FINALS PLAYTEST
+2026-03-09 21:57:33,476 - INFO - [2078450] Warhammer 40,000: Speed Freeks
+2026-03-09 21:57:33,476 - INFO - [2084000] Shogun Showdown
+2026-03-09 21:57:33,476 - INFO - [2096510] The Ouroboros King
+2026-03-09 21:57:33,476 - INFO - [2097570] StarVaders
+2026-03-09 21:57:33,476 - INFO - [2103680] Mediterranea Inferno
+2026-03-09 21:57:33,477 - INFO - [2111090] Let's! Revolution!
+2026-03-09 21:57:33,477 - INFO - [2114740] Blasphemous 2
+2026-03-09 21:57:33,477 - INFO - [2116560] Cepheus Protocol Experimental Branch
+2026-03-09 21:57:33,477 - INFO - [2131630] METAL GEAR SOLID - Master Collection Version
+2026-03-09 21:57:33,477 - INFO - [2131640] METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version
+2026-03-09 21:57:33,477 - INFO - [2131650] METAL GEAR SOLID 3: Snake Eater - Master Collection Version
+2026-03-09 21:57:33,477 - INFO - [2131680] METAL GEAR & METAL GEAR 2: Solid Snake
+2026-03-09 21:57:33,477 - INFO - [2134770] SteamWorld Build
+2026-03-09 21:57:33,478 - INFO - [2138710] Sifu
+2026-03-09 21:57:33,478 - INFO - [2144740] Ghostrunner 2
+2026-03-09 21:57:33,478 - INFO - [2149010] Little Nightmares Enhanced Edition
+2026-03-09 21:57:33,478 - INFO - [2166060] Amanda the Adventurer
+2026-03-09 21:57:33,478 - INFO - [2179850] Cobalt Core
+2026-03-09 21:57:33,478 - INFO - [2181610] Heretic's Fork
+2026-03-09 21:57:33,478 - INFO - [2186680] Warhammer 40,000: Rogue Trader
+2026-03-09 21:57:33,478 - INFO - [2193540] Wizard of Legend 2
+2026-03-09 21:57:33,478 - INFO - [2201320] Date Everything!
+2026-03-09 21:57:33,479 - INFO - [2218750] Halls of Torment
+2026-03-09 21:57:33,479 - INFO - [2221490] Tom Clancy's The Division 2
+2026-03-09 21:57:33,479 - INFO - [2225070] Trackmania
+2026-03-09 21:57:33,479 - INFO - [2238040] Tiny Terry's Turbo Trip
+2026-03-09 21:57:33,479 - INFO - [2246340] Monster Hunter Wilds
+2026-03-09 21:57:33,479 - INFO - [2272400] Station to Station
+2026-03-09 21:57:33,479 - INFO - [2279330] Savant - Ascent REMIX
+2026-03-09 21:57:33,479 - INFO - [2303350] Sticky Business
+2026-03-09 21:57:33,480 - INFO - [2304440] Creatures of Ava
+2026-03-09 21:57:33,480 - INFO - [2305840] Cat Quest III
+2026-03-09 21:57:33,480 - INFO - [2306740] METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT
+2026-03-09 21:57:33,480 - INFO - [2311990] Rack and Slay
+2026-03-09 21:57:33,480 - INFO - [2328750] My Little Universe
+2026-03-09 21:57:33,480 - INFO - [2344520] Diablo® IV
+2026-03-09 21:57:33,480 - INFO - [2348090] Crop Rotation
+2026-03-09 21:57:33,480 - INFO - [2357570] Overwatch®
+2026-03-09 21:57:33,480 - INFO - [2362420] Mass Effect 2 (2010) Edition
+2026-03-09 21:57:33,481 - INFO - [2375550] Like a Dragon Gaiden: The Man Who Erased His Name
+2026-03-09 21:57:33,481 - INFO - [2379780] Balatro
+2026-03-09 21:57:33,481 - INFO - [2385860] TEKKEN 8 Playtest
+2026-03-09 21:57:33,481 - INFO - [2386310] Ultros
+2026-03-09 21:57:33,481 - INFO - [2393160] Nice Day for Fishing
+2026-03-09 21:57:33,481 - INFO - [2397250] Big Helmet Heroes
+2026-03-09 21:57:33,481 - INFO - [2400770] Dungeon Tycoon
+2026-03-09 21:57:33,481 - INFO - [2417610] METAL GEAR SOLID Δ: SNAKE EATER
+2026-03-09 21:57:33,482 - INFO - [2419090] STAR WARS™: Bounty Hunter™
+2026-03-09 21:57:33,482 - INFO - [2427410] S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition
+2026-03-09 21:57:33,482 - INFO - [2427420] S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition
+2026-03-09 21:57:33,482 - INFO - [2427520] ARC Raiders Playtest
+2026-03-09 21:57:33,482 - INFO - [2429240] Soulslinger: Envoy of Death
+2026-03-09 21:57:33,482 - INFO - [2429640] THRONE AND LIBERTY
+2026-03-09 21:57:33,482 - INFO - [2437170] SMITE 2
+2026-03-09 21:57:33,483 - INFO - [2478970] Tomb Raider I-III Remastered Starring Lara Croft
+2026-03-09 21:57:33,483 - INFO - [2484110] FINAL FANTASY VII EVER CRISIS
+2026-03-09 21:57:33,483 - INFO - [2521380] Legacy of Kain™ Soul Reaver 1&2 Remastered
+2026-03-09 21:57:33,483 - INFO - [2539960] Orbo's Odyssey
+2026-03-09 21:57:33,483 - INFO - [2545360] Lonely Mountains: Snow Riders
+2026-03-09 21:57:33,483 - INFO - [2561990] Islands of Insight Open Playtest
+2026-03-09 21:57:33,483 - INFO - [2567870] Chained Together
+2026-03-09 21:57:33,483 - INFO - [2597970] Finding Frankie
+2026-03-09 21:57:33,484 - INFO - [2608270] Intravenous 2
+2026-03-09 21:57:33,484 - INFO - [2644470] PICO PARK 2
+2026-03-09 21:57:33,484 - INFO - [2646460] Soulmask
+2026-03-09 21:57:33,484 - INFO - [2694420] KILL KNIGHT
+2026-03-09 21:57:33,484 - INFO - [2747770] Wednesdays
+2026-03-09 21:57:33,484 - INFO - [2767030] Marvel Rivals
+2026-03-09 21:57:33,484 - INFO - [2807960] Battlefield™ 6
+2026-03-09 21:57:33,484 - INFO - [2825530] Beholder: Conductor
+2026-03-09 21:57:33,485 - INFO - [2878960] WWE 2K25
+2026-03-09 21:57:33,485 - INFO - [2904000] The Spell Brigade
+2026-03-09 21:57:33,485 - INFO - [2909400] FINAL FANTASY VII REBIRTH
+2026-03-09 21:57:33,485 - INFO - [2917350] Spin Hero
+2026-03-09 21:57:33,485 - INFO - [2933080] Crime Boss: Rockay City
+2026-03-09 21:57:33,485 - INFO - [2951630] Total War: PHARAOH DYNASTIES
+2026-03-09 21:57:33,485 - INFO - [2996040] Teenage Mutant Ninja Turtles: Splintered Fate
+2026-03-09 21:57:33,485 - INFO - [3015220] Cozy Marbles Playtest
+2026-03-09 21:57:33,485 - INFO - [3061570] Persona5: The Phantom X
+2026-03-09 21:57:33,486 - INFO - [3081410] Battlefield™ 6 Open Beta
+2026-03-09 21:57:33,486 - INFO - [3240220] Grand Theft Auto V Enhanced
+2026-03-09 21:57:33,486 - INFO - [3303780] CODE Bunny
+2026-03-09 21:57:33,486 - INFO - [3320480] All Will Fall Playtest
+2026-03-09 21:57:33,486 - INFO - [3361470] Digseum
+2026-03-09 21:57:33,486 - INFO - [3405340] Megabonk
+2026-03-09 21:57:33,486 - INFO - [3527290] PEAK
+2026-03-09 21:57:33,486 - INFO - [3595230] Call of Duty®: Modern Warfare® II
+2026-03-09 21:57:33,486 - INFO - [3627660] KILLER INN - BETA
+2026-03-09 21:57:33,486 - INFO - [3708500] Under The Island Demo
+2026-03-09 21:57:33,487 - INFO - [3717340] Yakuza Kiwami 2
+2026-03-09 21:57:33,487 - INFO - [3837340] FINAL FANTASY VII

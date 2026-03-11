@@ -11,3 +11,6 @@ wheels/
 
 # Secrets files
 .env
+
+# Skip files
+steam_sample_response.json

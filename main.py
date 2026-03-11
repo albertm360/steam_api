@@ -7,9 +7,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
-
     steam_api_key: str
-    steam_domain_name: str
     steam_user_id: str
 
 
@@ -26,7 +24,7 @@ class OwnedGamesResponse(BaseModel):
 def setup_logger() -> logging.Logger:
     logger = logging.getLogger("steam_api")
     logger.setLevel(logging.INFO)
-    formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+    formatter = logging.Formatter("%(message)s")
 
     console_handler = logging.StreamHandler()
     console_handler.setFormatter(formatter)

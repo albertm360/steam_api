@@ -1,7 +1,5 @@
 # Steam API Scripts
 
----
-
 Scripts to play with the Steam API.
 
 ## Set up environment

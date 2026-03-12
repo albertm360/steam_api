@@ -14,3 +14,4 @@ wheels/
 
 # Skip files
 steam_sample_response.json
+owned_games.log
